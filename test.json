@@ -1,0 +1,5007 @@
+{
+  "014-013": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 6.093208333333333,
+    "spk_id": "014"
+  },
+  "039-022": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 14.513708333333334,
+    "spk_id": "039"
+  },
+  "040-066": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 8.956625,
+    "spk_id": "040"
+  },
+  "090-039": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 8.072541666666666,
+    "spk_id": "090"
+  },
+  "014-046": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 6.478583333333333,
+    "spk_id": "014"
+  },
+  "034-026": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 4.5400833333333335,
+    "spk_id": "034"
+  },
+  "033-035": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 7.4478333333333335,
+    "spk_id": "033"
+  },
+  "028-002": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 8.823458333333333,
+    "spk_id": "028"
+  },
+  "091-064": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 6.882333333333333,
+    "spk_id": "091"
+  },
+  "080-068": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 6.844083333333334,
+    "spk_id": "080"
+  },
+  "007-092": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 8.445666666666666,
+    "spk_id": "007"
+  },
+  "079-026": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 4.7102916666666665,
+    "spk_id": "079"
+  },
+  "085-100": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 10.540458333333333,
+    "spk_id": "085"
+  },
+  "026-004": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 5.843375,
+    "spk_id": "026"
+  },
+  "094-044": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 12.521291666666666,
+    "spk_id": "094"
+  },
+  "038-029": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 8.884208333333333,
+    "spk_id": "038"
+  },
+  "010-067": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 7.489625,
+    "spk_id": "010"
+  },
+  "022-028": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_028.wav",
+    "length": 10.745958333333334,
+    "spk_id": "022"
+  },
+  "032-092": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 7.136708333333333,
+    "spk_id": "032"
+  },
+  "032-084": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 7.656625,
+    "spk_id": "032"
+  },
+  "016-008": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 8.308375,
+    "spk_id": "016"
+  },
+  "020-015": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 4.568375,
+    "spk_id": "020"
+  },
+  "019-025": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 4.714416666666667,
+    "spk_id": "019"
+  },
+  "007-098": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 6.624,
+    "spk_id": "007"
+  },
+  "050-088": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 5.988833333333333,
+    "spk_id": "050"
+  },
+  "061-003": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 6.203916666666666,
+    "spk_id": "061"
+  },
+  "097-052": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_052.wav",
+    "length": 9.010041666666666,
+    "spk_id": "097"
+  },
+  "072-020": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 9.356041666666666,
+    "spk_id": "072"
+  },
+  "099-047": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 7.162041666666667,
+    "spk_id": "099"
+  },
+  "003-047": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 10.50425,
+    "spk_id": "003"
+  },
+  "094-033": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 4.579,
+    "spk_id": "094"
+  },
+  "052-100": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 11.29175,
+    "spk_id": "052"
+  },
+  "012-043": {
+    "wav": "{data_root}/jvs012/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 7.394125,
+    "spk_id": "012"
+  },
+  "044-090": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 7.166833333333333,
+    "spk_id": "044"
+  },
+  "058-098": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 7.318,
+    "spk_id": "058"
+  },
+  "054-095": {
+    "wav": "{data_root}/jvs054/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 8.489375,
+    "spk_id": "054"
+  },
+  "028-004": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 6.531125,
+    "spk_id": "028"
+  },
+  "078-014": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_014.wav",
+    "length": 3.4505833333333333,
+    "spk_id": "078"
+  },
+  "052-031": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_031.wav",
+    "length": 5.649958333333333,
+    "spk_id": "052"
+  },
+  "028-098": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 7.314791666666666,
+    "spk_id": "028"
+  },
+  "025-038": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 8.410208333333333,
+    "spk_id": "025"
+  },
+  "060-016": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 6.3085,
+    "spk_id": "060"
+  },
+  "056-056": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 8.132375,
+    "spk_id": "056"
+  },
+  "017-053": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.8605,
+    "spk_id": "017"
+  },
+  "039-046": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 6.943875,
+    "spk_id": "039"
+  },
+  "062-070": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 8.7545,
+    "spk_id": "062"
+  },
+  "082-087": {
+    "wav": "{data_root}/jvs082/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 10.218,
+    "spk_id": "082"
+  },
+  "021-083": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_083.wav",
+    "length": 6.8735,
+    "spk_id": "021"
+  },
+  "100-075": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 7.298333333333333,
+    "spk_id": "100"
+  },
+  "033-064": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 4.942333333333333,
+    "spk_id": "033"
+  },
+  "011-061": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 7.329291666666666,
+    "spk_id": "011"
+  },
+  "030-077": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 10.003583333333333,
+    "spk_id": "030"
+  },
+  "069-007": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 9.416625,
+    "spk_id": "069"
+  },
+  "020-041": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 5.284208333333333,
+    "spk_id": "020"
+  },
+  "045-087": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 8.2315,
+    "spk_id": "045"
+  },
+  "056-042": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.004416666666667,
+    "spk_id": "056"
+  },
+  "081-056": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 7.26975,
+    "spk_id": "081"
+  },
+  "075-005": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 12.562208333333333,
+    "spk_id": "075"
+  },
+  "031-055": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.795125,
+    "spk_id": "031"
+  },
+  "040-042": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.769916666666667,
+    "spk_id": "040"
+  },
+  "016-013": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 5.757,
+    "spk_id": "016"
+  },
+  "024-081": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_081.wav",
+    "length": 8.781875,
+    "spk_id": "024"
+  },
+  "022-055": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.916125,
+    "spk_id": "022"
+  },
+  "066-062": {
+    "wav": "{data_root}/jvs066/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 8.039625,
+    "spk_id": "066"
+  },
+  "075-062": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 8.383041666666667,
+    "spk_id": "075"
+  },
+  "048-062": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 7.945083333333334,
+    "spk_id": "048"
+  },
+  "026-009": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 6.175833333333333,
+    "spk_id": "026"
+  },
+  "085-077": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 10.424125,
+    "spk_id": "085"
+  },
+  "047-038": {
+    "wav": "{data_root}/jvs047/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 8.869041666666666,
+    "spk_id": "047"
+  },
+  "099-092": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 6.679333333333333,
+    "spk_id": "099"
+  },
+  "016-030": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 6.424708333333333,
+    "spk_id": "016"
+  },
+  "003-044": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 12.270916666666666,
+    "spk_id": "003"
+  },
+  "079-087": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 9.209375,
+    "spk_id": "079"
+  },
+  "093-057": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 5.692333333333333,
+    "spk_id": "093"
+  },
+  "034-054": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 13.084875,
+    "spk_id": "034"
+  },
+  "087-085": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 12.208166666666667,
+    "spk_id": "087"
+  },
+  "032-020": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 6.532291666666667,
+    "spk_id": "032"
+  },
+  "030-002": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 8.609083333333333,
+    "spk_id": "030"
+  },
+  "033-041": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.165041666666666,
+    "spk_id": "033"
+  },
+  "058-037": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_037.wav",
+    "length": 6.289416666666667,
+    "spk_id": "058"
+  },
+  "068-089": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 6.999041666666667,
+    "spk_id": "068"
+  },
+  "018-068": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 8.139041666666667,
+    "spk_id": "018"
+  },
+  "090-014": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_014.wav",
+    "length": 3.455875,
+    "spk_id": "090"
+  },
+  "049-068": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 7.448,
+    "spk_id": "049"
+  },
+  "013-013": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 6.317625,
+    "spk_id": "013"
+  },
+  "063-038": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 7.607625,
+    "spk_id": "063"
+  },
+  "034-022": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 13.591333333333333,
+    "spk_id": "034"
+  },
+  "080-054": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 12.305958333333333,
+    "spk_id": "080"
+  },
+  "020-019": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 6.643833333333333,
+    "spk_id": "020"
+  },
+  "059-092": {
+    "wav": "{data_root}/jvs059/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 7.693583333333334,
+    "spk_id": "059"
+  },
+  "011-033": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 3.8394166666666667,
+    "spk_id": "011"
+  },
+  "080-058": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_058.wav",
+    "length": 6.747125,
+    "spk_id": "080"
+  },
+  "049-082": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.670166666666667,
+    "spk_id": "049"
+  },
+  "096-062": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 7.779916666666667,
+    "spk_id": "096"
+  },
+  "090-009": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 8.021833333333333,
+    "spk_id": "090"
+  },
+  "089-005": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 12.035416666666666,
+    "spk_id": "089"
+  },
+  "023-004": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 5.65625,
+    "spk_id": "023"
+  },
+  "012-073": {
+    "wav": "{data_root}/jvs012/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 7.6035,
+    "spk_id": "012"
+  },
+  "009-076": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 10.770791666666666,
+    "spk_id": "009"
+  },
+  "051-077": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 10.272375,
+    "spk_id": "051"
+  },
+  "019-022": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 13.15425,
+    "spk_id": "019"
+  },
+  "011-057": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 5.5317083333333334,
+    "spk_id": "011"
+  },
+  "044-071": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 6.511791666666666,
+    "spk_id": "044"
+  },
+  "097-043": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 7.487875,
+    "spk_id": "097"
+  },
+  "037-029": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 7.948791666666667,
+    "spk_id": "037"
+  },
+  "073-058": {
+    "wav": "{data_root}/jvs073/parallel100/wav24kHz16bit/VOICEACTRESS100_058.wav",
+    "length": 6.51625,
+    "spk_id": "073"
+  },
+  "021-060": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 6.886375,
+    "spk_id": "021"
+  },
+  "034-064": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 5.458541666666667,
+    "spk_id": "034"
+  },
+  "068-072": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 7.722416666666667,
+    "spk_id": "068"
+  },
+  "028-074": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 6.019541666666667,
+    "spk_id": "028"
+  },
+  "095-036": {
+    "wav": "{data_root}/jvs095/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 7.744583333333333,
+    "spk_id": "095"
+  },
+  "054-065": {
+    "wav": "{data_root}/jvs054/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 8.77625,
+    "spk_id": "054"
+  },
+  "035-092": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 9.104,
+    "spk_id": "035"
+  },
+  "040-041": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 7.473208333333333,
+    "spk_id": "040"
+  },
+  "064-068": {
+    "wav": "{data_root}/jvs064/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 7.658416666666667,
+    "spk_id": "064"
+  },
+  "078-053": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.806375,
+    "spk_id": "078"
+  },
+  "094-046": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 7.649541666666667,
+    "spk_id": "094"
+  },
+  "076-011": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 6.2937916666666665,
+    "spk_id": "076"
+  },
+  "096-077": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 9.73375,
+    "spk_id": "096"
+  },
+  "052-029": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 10.077708333333334,
+    "spk_id": "052"
+  },
+  "042-091": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.60475,
+    "spk_id": "042"
+  },
+  "031-067": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 6.914166666666667,
+    "spk_id": "031"
+  },
+  "019-100": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 9.558958333333333,
+    "spk_id": "019"
+  },
+  "060-092": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 8.529041666666666,
+    "spk_id": "060"
+  },
+  "048-091": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.893791666666667,
+    "spk_id": "048"
+  },
+  "060-001": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 8.583791666666666,
+    "spk_id": "060"
+  },
+  "030-031": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_031.wav",
+    "length": 4.838541666666667,
+    "spk_id": "030"
+  },
+  "090-012": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 7.298125,
+    "spk_id": "090"
+  },
+  "038-043": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 7.380541666666667,
+    "spk_id": "038"
+  },
+  "089-092": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 8.118083333333333,
+    "spk_id": "089"
+  },
+  "028-048": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 9.371291666666666,
+    "spk_id": "028"
+  },
+  "064-083": {
+    "wav": "{data_root}/jvs064/parallel100/wav24kHz16bit/VOICEACTRESS100_083.wav",
+    "length": 8.3915,
+    "spk_id": "064"
+  },
+  "095-040": {
+    "wav": "{data_root}/jvs095/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 5.0045,
+    "spk_id": "095"
+  },
+  "056-012": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 5.565375,
+    "spk_id": "056"
+  },
+  "029-069": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_069.wav",
+    "length": 9.430958333333333,
+    "spk_id": "029"
+  },
+  "085-060": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 6.973916666666667,
+    "spk_id": "085"
+  },
+  "052-055": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.9199166666666665,
+    "spk_id": "052"
+  },
+  "059-060": {
+    "wav": "{data_root}/jvs059/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 6.7872916666666665,
+    "spk_id": "059"
+  },
+  "016-088": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 7.475375,
+    "spk_id": "016"
+  },
+  "032-052": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_052.wav",
+    "length": 7.762208333333334,
+    "spk_id": "032"
+  },
+  "044-084": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 9.263166666666667,
+    "spk_id": "044"
+  },
+  "002-068": {
+    "wav": "{data_root}/jvs002/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 6.5168333333333335,
+    "spk_id": "002"
+  },
+  "052-040": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 5.424791666666667,
+    "spk_id": "052"
+  },
+  "078-076": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.751125,
+    "spk_id": "078"
+  },
+  "027-016": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 6.4525,
+    "spk_id": "027"
+  },
+  "053-090": {
+    "wav": "{data_root}/jvs053/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 6.7647916666666665,
+    "spk_id": "053"
+  },
+  "021-077": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 9.755666666666666,
+    "spk_id": "021"
+  },
+  "004-012": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 6.455541666666667,
+    "spk_id": "004"
+  },
+  "093-021": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 7.4307083333333335,
+    "spk_id": "093"
+  },
+  "078-002": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 9.333083333333333,
+    "spk_id": "078"
+  },
+  "092-076": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.829875,
+    "spk_id": "092"
+  },
+  "030-019": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 8.853291666666667,
+    "spk_id": "030"
+  },
+  "088-013": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 6.049625,
+    "spk_id": "088"
+  },
+  "013-062": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 8.474791666666667,
+    "spk_id": "013"
+  },
+  "068-027": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 6.792541666666667,
+    "spk_id": "068"
+  },
+  "080-098": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 7.159583333333333,
+    "spk_id": "080"
+  },
+  "010-011": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.080583333333333,
+    "spk_id": "010"
+  },
+  "081-071": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 6.726125,
+    "spk_id": "081"
+  },
+  "031-012": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 5.848625,
+    "spk_id": "031"
+  },
+  "020-044": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 7.857916666666667,
+    "spk_id": "020"
+  },
+  "052-079": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 9.626958333333333,
+    "spk_id": "052"
+  },
+  "096-086": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_086.wav",
+    "length": 8.305333333333333,
+    "spk_id": "096"
+  },
+  "030-073": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 7.4322083333333335,
+    "spk_id": "030"
+  },
+  "087-053": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.828666666666667,
+    "spk_id": "087"
+  },
+  "038-006": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 7.369916666666667,
+    "spk_id": "038"
+  },
+  "070-047": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 8.122625,
+    "spk_id": "070"
+  },
+  "020-037": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_037.wav",
+    "length": 4.790416666666666,
+    "spk_id": "020"
+  },
+  "009-040": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 4.590583333333333,
+    "spk_id": "009"
+  },
+  "065-098": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 7.361083333333333,
+    "spk_id": "065"
+  },
+  "074-053": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.030666666666667,
+    "spk_id": "074"
+  },
+  "046-036": {
+    "wav": "{data_root}/jvs046/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 8.011875,
+    "spk_id": "046"
+  },
+  "057-010": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 5.845083333333333,
+    "spk_id": "057"
+  },
+  "067-069": {
+    "wav": "{data_root}/jvs067/parallel100/wav24kHz16bit/VOICEACTRESS100_069.wav",
+    "length": 8.777541666666666,
+    "spk_id": "067"
+  },
+  "080-074": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 6.128708333333333,
+    "spk_id": "080"
+  },
+  "031-033": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 3.9187083333333335,
+    "spk_id": "031"
+  },
+  "030-050": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 8.197875,
+    "spk_id": "030"
+  },
+  "050-015": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 5.20525,
+    "spk_id": "050"
+  },
+  "076-085": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 9.855416666666667,
+    "spk_id": "076"
+  },
+  "094-056": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 9.83625,
+    "spk_id": "094"
+  },
+  "024-072": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 7.393916666666667,
+    "spk_id": "024"
+  },
+  "079-042": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.101791666666666,
+    "spk_id": "079"
+  },
+  "050-085": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 11.468666666666667,
+    "spk_id": "050"
+  },
+  "060-008": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 8.544,
+    "spk_id": "060"
+  },
+  "040-035": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 9.705625,
+    "spk_id": "040"
+  },
+  "036-073": {
+    "wav": "{data_root}/jvs036/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 9.944,
+    "spk_id": "036"
+  },
+  "048-077": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 9.37075,
+    "spk_id": "048"
+  },
+  "017-099": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 6.022583333333333,
+    "spk_id": "017"
+  },
+  "023-072": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 6.539583333333334,
+    "spk_id": "023"
+  },
+  "079-074": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 5.685791666666667,
+    "spk_id": "079"
+  },
+  "067-008": {
+    "wav": "{data_root}/jvs067/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 7.532375,
+    "spk_id": "067"
+  },
+  "093-020": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 7.7062083333333335,
+    "spk_id": "093"
+  },
+  "034-003": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 6.160916666666667,
+    "spk_id": "034"
+  },
+  "005-084": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 10.877041666666667,
+    "spk_id": "005"
+  },
+  "050-074": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 5.67225,
+    "spk_id": "050"
+  },
+  "057-057": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 6.090958333333333,
+    "spk_id": "057"
+  },
+  "013-012": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 7.035125,
+    "spk_id": "013"
+  },
+  "094-050": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 9.641291666666667,
+    "spk_id": "094"
+  },
+  "074-040": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 4.821166666666667,
+    "spk_id": "074"
+  },
+  "050-021": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 6.743083333333334,
+    "spk_id": "050"
+  },
+  "057-042": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.5452916666666665,
+    "spk_id": "057"
+  },
+  "049-045": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 9.12,
+    "spk_id": "049"
+  },
+  "063-087": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 9.648,
+    "spk_id": "063"
+  },
+  "072-086": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_086.wav",
+    "length": 9.621416666666667,
+    "spk_id": "072"
+  },
+  "011-048": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 9.861583333333334,
+    "spk_id": "011"
+  },
+  "071-001": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 11.158916666666666,
+    "spk_id": "071"
+  },
+  "086-073": {
+    "wav": "{data_root}/jvs086/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 8.115291666666666,
+    "spk_id": "086"
+  },
+  "061-041": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.281375,
+    "spk_id": "061"
+  },
+  "048-100": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 9.93025,
+    "spk_id": "048"
+  },
+  "031-080": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_080.wav",
+    "length": 6.558791666666667,
+    "spk_id": "031"
+  },
+  "063-018": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.498958333333333,
+    "spk_id": "063"
+  },
+  "031-061": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 6.803875,
+    "spk_id": "031"
+  },
+  "030-046": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 6.435625,
+    "spk_id": "030"
+  },
+  "085-085": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 11.224583333333333,
+    "spk_id": "085"
+  },
+  "096-067": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 7.824041666666667,
+    "spk_id": "096"
+  },
+  "098-005": {
+    "wav": "{data_root}/jvs098/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 13.214958333333334,
+    "spk_id": "098"
+  },
+  "076-042": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 4.750708333333334,
+    "spk_id": "076"
+  },
+  "014-027": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 7.58525,
+    "spk_id": "014"
+  },
+  "077-002": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 8.505666666666666,
+    "spk_id": "077"
+  },
+  "082-071": {
+    "wav": "{data_root}/jvs082/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 7.08475,
+    "spk_id": "082"
+  },
+  "016-025": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 5.300375,
+    "spk_id": "016"
+  },
+  "022-065": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 9.237208333333333,
+    "spk_id": "022"
+  },
+  "022-075": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 6.963333333333333,
+    "spk_id": "022"
+  },
+  "088-019": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 7.928208333333333,
+    "spk_id": "088"
+  },
+  "066-019": {
+    "wav": "{data_root}/jvs066/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 8.2185,
+    "spk_id": "066"
+  },
+  "045-024": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 9.086875,
+    "spk_id": "045"
+  },
+  "020-040": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 3.9337916666666666,
+    "spk_id": "020"
+  },
+  "013-016": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 6.48725,
+    "spk_id": "013"
+  },
+  "068-074": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 5.902458333333334,
+    "spk_id": "068"
+  },
+  "043-039": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 6.379833333333333,
+    "spk_id": "043"
+  },
+  "100-035": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 9.031916666666667,
+    "spk_id": "100"
+  },
+  "097-025": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 4.762166666666666,
+    "spk_id": "097"
+  },
+  "091-042": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 6.225375,
+    "spk_id": "091"
+  },
+  "077-051": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 5.418333333333333,
+    "spk_id": "077"
+  },
+  "021-068": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 6.4078333333333335,
+    "spk_id": "021"
+  },
+  "001-054": {
+    "wav": "{data_root}/jvs001/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 12.32525,
+    "spk_id": "001"
+  },
+  "076-082": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 6.408041666666667,
+    "spk_id": "076"
+  },
+  "081-035": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 7.648375,
+    "spk_id": "081"
+  },
+  "041-007": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 9.618125,
+    "spk_id": "041"
+  },
+  "036-039": {
+    "wav": "{data_root}/jvs036/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 8.992,
+    "spk_id": "036"
+  },
+  "086-026": {
+    "wav": "{data_root}/jvs086/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.4202916666666665,
+    "spk_id": "086"
+  },
+  "049-031": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_031.wav",
+    "length": 5.582125,
+    "spk_id": "049"
+  },
+  "030-047": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 8.73675,
+    "spk_id": "030"
+  },
+  "027-006": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.715166666666667,
+    "spk_id": "027"
+  },
+  "070-088": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 6.70375,
+    "spk_id": "070"
+  },
+  "038-069": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_069.wav",
+    "length": 8.941583333333334,
+    "spk_id": "038"
+  },
+  "030-029": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 8.310625,
+    "spk_id": "030"
+  },
+  "014-061": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 7.455791666666666,
+    "spk_id": "014"
+  },
+  "096-094": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_094.wav",
+    "length": 15.370041666666667,
+    "spk_id": "096"
+  },
+  "015-058": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_058.wav",
+    "length": 5.9615,
+    "spk_id": "015"
+  },
+  "086-044": {
+    "wav": "{data_root}/jvs086/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 11.099541666666667,
+    "spk_id": "086"
+  },
+  "079-046": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 7.35525,
+    "spk_id": "079"
+  },
+  "094-100": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 12.39525,
+    "spk_id": "094"
+  },
+  "065-062": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 8.3765,
+    "spk_id": "065"
+  },
+  "042-015": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 5.536958333333334,
+    "spk_id": "042"
+  },
+  "083-024": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 11.093333333333334,
+    "spk_id": "083"
+  },
+  "055-021": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 7.315291666666667,
+    "spk_id": "055"
+  },
+  "047-054": {
+    "wav": "{data_root}/jvs047/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 15.684875,
+    "spk_id": "047"
+  },
+  "058-093": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 11.118291666666666,
+    "spk_id": "058"
+  },
+  "023-040": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 4.441041666666667,
+    "spk_id": "023"
+  },
+  "049-002": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 9.605708333333334,
+    "spk_id": "049"
+  },
+  "098-013": {
+    "wav": "{data_root}/jvs098/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 5.94525,
+    "spk_id": "098"
+  },
+  "034-057": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 5.252916666666667,
+    "spk_id": "034"
+  },
+  "001-087": {
+    "wav": "{data_root}/jvs001/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 9.937166666666666,
+    "spk_id": "001"
+  },
+  "071-050": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 11.121208333333334,
+    "spk_id": "071"
+  },
+  "042-026": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 4.49875,
+    "spk_id": "042"
+  },
+  "085-066": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 8.312291666666667,
+    "spk_id": "085"
+  },
+  "015-032": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_032.wav",
+    "length": 8.908916666666666,
+    "spk_id": "015"
+  },
+  "009-041": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.287041666666667,
+    "spk_id": "009"
+  },
+  "080-082": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.228375,
+    "spk_id": "080"
+  },
+  "039-059": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 7.008791666666666,
+    "spk_id": "039"
+  },
+  "085-036": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 8.009875,
+    "spk_id": "085"
+  },
+  "067-045": {
+    "wav": "{data_root}/jvs067/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 8.173125,
+    "spk_id": "067"
+  },
+  "092-067": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 7.498,
+    "spk_id": "092"
+  },
+  "074-082": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 6.055958333333334,
+    "spk_id": "074"
+  },
+  "002-047": {
+    "wav": "{data_root}/jvs002/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 8.099583333333333,
+    "spk_id": "002"
+  },
+  "041-073": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 7.754041666666667,
+    "spk_id": "041"
+  },
+  "054-054": {
+    "wav": "{data_root}/jvs054/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 13.940166666666666,
+    "spk_id": "054"
+  },
+  "014-042": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.1245416666666666,
+    "spk_id": "014"
+  },
+  "092-083": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_083.wav",
+    "length": 7.2480416666666665,
+    "spk_id": "092"
+  },
+  "088-097": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 9.6275,
+    "spk_id": "088"
+  },
+  "078-097": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 10.096416666666666,
+    "spk_id": "078"
+  },
+  "062-003": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 6.9355416666666665,
+    "spk_id": "062"
+  },
+  "071-057": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 6.575625,
+    "spk_id": "071"
+  },
+  "085-031": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_031.wav",
+    "length": 4.855041666666667,
+    "spk_id": "085"
+  },
+  "039-040": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 5.308541666666667,
+    "spk_id": "039"
+  },
+  "024-026": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.027583333333333,
+    "spk_id": "024"
+  },
+  "055-051": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 5.659666666666666,
+    "spk_id": "055"
+  },
+  "081-076": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 9.888916666666667,
+    "spk_id": "081"
+  },
+  "069-016": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 6.545,
+    "spk_id": "069"
+  },
+  "051-066": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 8.102,
+    "spk_id": "051"
+  },
+  "078-089": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 7.794291666666667,
+    "spk_id": "078"
+  },
+  "031-038": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 6.8068333333333335,
+    "spk_id": "031"
+  },
+  "097-075": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 7.010416666666667,
+    "spk_id": "097"
+  },
+  "048-090": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 6.720375,
+    "spk_id": "048"
+  },
+  "089-058": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_058.wav",
+    "length": 6.9634583333333335,
+    "spk_id": "089"
+  },
+  "047-007": {
+    "wav": "{data_root}/jvs047/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 10.512916666666667,
+    "spk_id": "047"
+  },
+  "077-071": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 6.406958333333334,
+    "spk_id": "077"
+  },
+  "031-079": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 7.925708333333334,
+    "spk_id": "031"
+  },
+  "026-070": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 7.620208333333333,
+    "spk_id": "026"
+  },
+  "004-006": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 5.6738333333333335,
+    "spk_id": "004"
+  },
+  "085-055": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 4.022583333333333,
+    "spk_id": "085"
+  },
+  "033-051": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 5.296208333333333,
+    "spk_id": "033"
+  },
+  "039-053": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.7549166666666665,
+    "spk_id": "039"
+  },
+  "025-028": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_028.wav",
+    "length": 11.728,
+    "spk_id": "025"
+  },
+  "020-024": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 7.214916666666666,
+    "spk_id": "020"
+  },
+  "096-042": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.287625,
+    "spk_id": "096"
+  },
+  "027-060": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 6.954416666666667,
+    "spk_id": "027"
+  },
+  "018-016": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 6.925083333333333,
+    "spk_id": "018"
+  },
+  "009-097": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 10.526375,
+    "spk_id": "009"
+  },
+  "004-036": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 8.2365,
+    "spk_id": "004"
+  },
+  "030-060": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 7.293958333333333,
+    "spk_id": "030"
+  },
+  "052-030": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 7.158916666666666,
+    "spk_id": "052"
+  },
+  "018-093": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 14.593916666666667,
+    "spk_id": "018"
+  },
+  "014-045": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 8.848625,
+    "spk_id": "014"
+  },
+  "078-081": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_081.wav",
+    "length": 9.738625,
+    "spk_id": "078"
+  },
+  "089-084": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 8.695041666666667,
+    "spk_id": "089"
+  },
+  "074-087": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 8.739,
+    "spk_id": "074"
+  },
+  "057-085": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 11.648458333333334,
+    "spk_id": "057"
+  },
+  "041-043": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 8.2205,
+    "spk_id": "041"
+  },
+  "005-091": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.960666666666667,
+    "spk_id": "005"
+  },
+  "013-078": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 10.068208333333333,
+    "spk_id": "013"
+  },
+  "077-021": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 6.531416666666667,
+    "spk_id": "077"
+  },
+  "084-006": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 7.525333333333333,
+    "spk_id": "084"
+  },
+  "057-061": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 7.691208333333333,
+    "spk_id": "057"
+  },
+  "035-019": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 11.754666666666667,
+    "spk_id": "035"
+  },
+  "060-053": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.7485,
+    "spk_id": "060"
+  },
+  "049-090": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 6.754375,
+    "spk_id": "049"
+  },
+  "047-029": {
+    "wav": "{data_root}/jvs047/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 10.392791666666668,
+    "spk_id": "047"
+  },
+  "097-089": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 8.083416666666666,
+    "spk_id": "097"
+  },
+  "055-037": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_037.wav",
+    "length": 6.388375,
+    "spk_id": "055"
+  },
+  "005-085": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 12.391208333333333,
+    "spk_id": "005"
+  },
+  "006-061": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 8.4205,
+    "spk_id": "006"
+  },
+  "020-100": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 7.716625,
+    "spk_id": "020"
+  },
+  "096-018": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.425125,
+    "spk_id": "096"
+  },
+  "043-011": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 6.899875,
+    "spk_id": "043"
+  },
+  "025-003": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 7.129333333333333,
+    "spk_id": "025"
+  },
+  "069-029": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 9.602791666666667,
+    "spk_id": "069"
+  },
+  "067-065": {
+    "wav": "{data_root}/jvs067/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 8.192625,
+    "spk_id": "067"
+  },
+  "049-098": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 6.826958333333334,
+    "spk_id": "049"
+  },
+  "069-088": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 7.4267916666666665,
+    "spk_id": "069"
+  },
+  "055-010": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 5.390791666666667,
+    "spk_id": "055"
+  },
+  "083-022": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 14.752,
+    "spk_id": "083"
+  },
+  "007-006": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.866083333333333,
+    "spk_id": "007"
+  },
+  "048-017": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.347708333333333,
+    "spk_id": "048"
+  },
+  "071-052": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_052.wav",
+    "length": 12.41,
+    "spk_id": "071"
+  },
+  "084-030": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 9.6,
+    "spk_id": "084"
+  },
+  "069-097": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 10.164875,
+    "spk_id": "069"
+  },
+  "061-045": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 8.42075,
+    "spk_id": "061"
+  },
+  "008-028": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_028.wav",
+    "length": 10.244541666666667,
+    "spk_id": "008"
+  },
+  "081-040": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 4.463708333333333,
+    "spk_id": "081"
+  },
+  "049-060": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 7.814625,
+    "spk_id": "049"
+  },
+  "062-091": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.954833333333333,
+    "spk_id": "062"
+  },
+  "019-007": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 8.809,
+    "spk_id": "019"
+  },
+  "041-011": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.671208333333333,
+    "spk_id": "041"
+  },
+  "019-011": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.498541666666667,
+    "spk_id": "019"
+  },
+  "092-091": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.658125,
+    "spk_id": "092"
+  },
+  "062-078": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 10.650041666666667,
+    "spk_id": "062"
+  },
+  "041-076": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.1755,
+    "spk_id": "041"
+  },
+  "019-076": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.073958333333334,
+    "spk_id": "019"
+  },
+  "070-049": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_049.wav",
+    "length": 5.761166666666667,
+    "spk_id": "070"
+  },
+  "067-017": {
+    "wav": "{data_root}/jvs067/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.096666666666667,
+    "spk_id": "067"
+  },
+  "026-060": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 6.736375,
+    "spk_id": "026"
+  },
+  "099-095": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 6.914083333333333,
+    "spk_id": "099"
+  },
+  "069-027": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 8.018125,
+    "spk_id": "069"
+  },
+  "098-078": {
+    "wav": "{data_root}/jvs098/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 10.5645,
+    "spk_id": "098"
+  },
+  "029-047": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 8.781666666666666,
+    "spk_id": "029"
+  },
+  "026-018": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 6.732541666666667,
+    "spk_id": "026"
+  },
+  "050-046": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 5.953208333333333,
+    "spk_id": "050"
+  },
+  "025-095": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 9.748791666666667,
+    "spk_id": "025"
+  },
+  "061-080": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_080.wav",
+    "length": 6.646041666666667,
+    "spk_id": "061"
+  },
+  "010-050": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 8.5245,
+    "spk_id": "010"
+  },
+  "093-089": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 7.314375,
+    "spk_id": "093"
+  },
+  "033-075": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 6.2215,
+    "spk_id": "033"
+  },
+  "057-093": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 10.539833333333334,
+    "spk_id": "057"
+  },
+  "061-021": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 6.827875,
+    "spk_id": "061"
+  },
+  "071-088": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 9.395583333333333,
+    "spk_id": "071"
+  },
+  "020-070": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 6.544083333333333,
+    "spk_id": "020"
+  },
+  "038-015": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 5.4584166666666665,
+    "spk_id": "038"
+  },
+  "087-070": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 8.421666666666667,
+    "spk_id": "087"
+  },
+  "060-075": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 7.317125,
+    "spk_id": "060"
+  },
+  "090-049": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_049.wav",
+    "length": 7.385958333333333,
+    "spk_id": "090"
+  },
+  "069-077": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 9.980708333333334,
+    "spk_id": "069"
+  },
+  "078-098": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 7.014166666666667,
+    "spk_id": "078"
+  },
+  "015-062": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 6.670083333333333,
+    "spk_id": "015"
+  },
+  "027-097": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 10.470333333333333,
+    "spk_id": "027"
+  },
+  "032-099": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 5.135458333333333,
+    "spk_id": "032"
+  },
+  "076-041": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 5.876916666666666,
+    "spk_id": "076"
+  },
+  "079-006": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.273333333333333,
+    "spk_id": "079"
+  },
+  "041-024": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 10.1525,
+    "spk_id": "041"
+  },
+  "087-033": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 4.2495,
+    "spk_id": "087"
+  },
+  "052-010": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 5.857375,
+    "spk_id": "052"
+  },
+  "072-036": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 9.3635,
+    "spk_id": "072"
+  },
+  "077-068": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 6.242333333333334,
+    "spk_id": "077"
+  },
+  "074-029": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 8.996833333333333,
+    "spk_id": "074"
+  },
+  "069-080": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_080.wav",
+    "length": 7.51525,
+    "spk_id": "069"
+  },
+  "021-004": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 6.412791666666666,
+    "spk_id": "021"
+  },
+  "023-064": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 5.250708333333334,
+    "spk_id": "023"
+  },
+  "020-042": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 4.364375,
+    "spk_id": "020"
+  },
+  "078-022": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 14.513583333333333,
+    "spk_id": "078"
+  },
+  "019-087": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 9.5805,
+    "spk_id": "019"
+  },
+  "051-067": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 7.883875,
+    "spk_id": "051"
+  },
+  "100-070": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 8.619125,
+    "spk_id": "100"
+  },
+  "063-026": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.131833333333334,
+    "spk_id": "063"
+  },
+  "078-004": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 6.797458333333333,
+    "spk_id": "078"
+  },
+  "097-009": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 6.641208333333333,
+    "spk_id": "097"
+  },
+  "006-096": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_096.wav",
+    "length": 10.729125,
+    "spk_id": "006"
+  },
+  "084-040": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 7.498666666666667,
+    "spk_id": "084"
+  },
+  "041-050": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 8.072333333333333,
+    "spk_id": "041"
+  },
+  "010-029": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 9.101916666666666,
+    "spk_id": "010"
+  },
+  "003-029": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 10.6275,
+    "spk_id": "003"
+  },
+  "020-007": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 6.76575,
+    "spk_id": "020"
+  },
+  "025-090": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 8.106625,
+    "spk_id": "025"
+  },
+  "080-051": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 6.037208333333333,
+    "spk_id": "080"
+  },
+  "059-029": {
+    "wav": "{data_root}/jvs059/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 8.447666666666667,
+    "spk_id": "059"
+  },
+  "096-012": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 6.231916666666667,
+    "spk_id": "096"
+  },
+  "056-024": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 8.012291666666666,
+    "spk_id": "056"
+  },
+  "093-048": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 8.754375,
+    "spk_id": "093"
+  },
+  "013-046": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 6.892125,
+    "spk_id": "013"
+  },
+  "061-089": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 6.73525,
+    "spk_id": "061"
+  },
+  "058-064": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 6.186416666666666,
+    "spk_id": "058"
+  },
+  "084-056": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 12.592,
+    "spk_id": "084"
+  },
+  "092-072": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 7.553583333333333,
+    "spk_id": "092"
+  },
+  "025-024": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 10.790541666666666,
+    "spk_id": "025"
+  },
+  "057-059": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 7.454125,
+    "spk_id": "057"
+  },
+  "096-088": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 7.103666666666666,
+    "spk_id": "096"
+  },
+  "059-071": {
+    "wav": "{data_root}/jvs059/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 6.672833333333333,
+    "spk_id": "059"
+  },
+  "087-080": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_080.wav",
+    "length": 7.272208333333333,
+    "spk_id": "087"
+  },
+  "100-046": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 6.660833333333334,
+    "spk_id": "100"
+  },
+  "032-085": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 9.705291666666668,
+    "spk_id": "032"
+  },
+  "033-084": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 8.53075,
+    "spk_id": "033"
+  },
+  "006-055": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.9925,
+    "spk_id": "006"
+  },
+  "038-025": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 4.849166666666667,
+    "spk_id": "038"
+  },
+  "008-086": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_086.wav",
+    "length": 8.011625,
+    "spk_id": "008"
+  },
+  "043-005": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 11.80475,
+    "spk_id": "043"
+  },
+  "044-058": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_058.wav",
+    "length": 6.420416666666667,
+    "spk_id": "044"
+  },
+  "041-018": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.908666666666667,
+    "spk_id": "041"
+  },
+  "040-025": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 5.3315,
+    "spk_id": "040"
+  },
+  "005-078": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 11.68925,
+    "spk_id": "005"
+  },
+  "013-082": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.061875,
+    "spk_id": "013"
+  },
+  "008-025": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 5.1995,
+    "spk_id": "008"
+  },
+  "033-078": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 9.033041666666668,
+    "spk_id": "033"
+  },
+  "014-041": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.449333333333334,
+    "spk_id": "014"
+  },
+  "075-048": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 9.914291666666667,
+    "spk_id": "075"
+  },
+  "001-079": {
+    "wav": "{data_root}/jvs001/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 8.51775,
+    "spk_id": "001"
+  },
+  "035-061": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 9.952,
+    "spk_id": "035"
+  },
+  "033-052": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_052.wav",
+    "length": 7.701333333333333,
+    "spk_id": "033"
+  },
+  "084-001": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 11.157333333333334,
+    "spk_id": "084"
+  },
+  "005-076": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 10.277583333333334,
+    "spk_id": "005"
+  },
+  "072-081": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_081.wav",
+    "length": 11.227458333333333,
+    "spk_id": "072"
+  },
+  "062-018": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 8.072333333333333,
+    "spk_id": "062"
+  },
+  "043-032": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_032.wav",
+    "length": 9.529416666666666,
+    "spk_id": "043"
+  },
+  "039-038": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 7.962666666666666,
+    "spk_id": "039"
+  },
+  "006-079": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 9.707541666666666,
+    "spk_id": "006"
+  },
+  "025-088": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 8.006958333333333,
+    "spk_id": "025"
+  },
+  "089-047": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 8.614,
+    "spk_id": "089"
+  },
+  "043-072": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 7.229291666666667,
+    "spk_id": "043"
+  },
+  "083-003": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 7.168,
+    "spk_id": "083"
+  },
+  "030-064": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 5.839416666666667,
+    "spk_id": "030"
+  },
+  "066-099": {
+    "wav": "{data_root}/jvs066/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 5.482958333333333,
+    "spk_id": "066"
+  },
+  "045-082": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.017458333333333,
+    "spk_id": "045"
+  },
+  "085-047": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 9.182166666666667,
+    "spk_id": "085"
+  },
+  "058-089": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 7.4035,
+    "spk_id": "058"
+  },
+  "077-036": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 7.322541666666667,
+    "spk_id": "077"
+  },
+  "026-073": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 6.722666666666667,
+    "spk_id": "026"
+  },
+  "092-098": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 6.952791666666666,
+    "spk_id": "092"
+  },
+  "089-052": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_052.wav",
+    "length": 8.904625,
+    "spk_id": "089"
+  },
+  "091-003": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 7.8035,
+    "spk_id": "091"
+  },
+  "016-075": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 8.26625,
+    "spk_id": "016"
+  },
+  "021-024": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 9.037041666666667,
+    "spk_id": "021"
+  },
+  "043-042": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 4.7615,
+    "spk_id": "043"
+  },
+  "082-062": {
+    "wav": "{data_root}/jvs082/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 8.133833333333333,
+    "spk_id": "082"
+  },
+  "086-027": {
+    "wav": "{data_root}/jvs086/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 8.723125,
+    "spk_id": "086"
+  },
+  "038-002": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 8.6265,
+    "spk_id": "038"
+  },
+  "055-088": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 7.2651666666666666,
+    "spk_id": "055"
+  },
+  "041-070": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 8.597083333333334,
+    "spk_id": "041"
+  },
+  "088-055": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.744291666666667,
+    "spk_id": "088"
+  },
+  "020-012": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 4.910791666666666,
+    "spk_id": "020"
+  },
+  "011-093": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 11.774625,
+    "spk_id": "011"
+  },
+  "072-068": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 8.112916666666667,
+    "spk_id": "072"
+  },
+  "016-046": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 7.455208333333333,
+    "spk_id": "016"
+  },
+  "024-001": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 8.607875,
+    "spk_id": "024"
+  },
+  "055-063": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_063.wav",
+    "length": 4.751541666666666,
+    "spk_id": "055"
+  },
+  "065-079": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 9.535708333333334,
+    "spk_id": "065"
+  },
+  "057-087": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 9.996708333333334,
+    "spk_id": "057"
+  },
+  "039-039": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 7.720208333333333,
+    "spk_id": "039"
+  },
+  "010-075": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 7.429166666666666,
+    "spk_id": "010"
+  },
+  "003-073": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 8.318958333333333,
+    "spk_id": "003"
+  },
+  "015-025": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 4.364083333333333,
+    "spk_id": "015"
+  },
+  "090-091": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 5.8990833333333335,
+    "spk_id": "090"
+  },
+  "046-061": {
+    "wav": "{data_root}/jvs046/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 7.559291666666667,
+    "spk_id": "046"
+  },
+  "025-012": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 7.061375,
+    "spk_id": "025"
+  },
+  "004-063": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_063.wav",
+    "length": 5.03725,
+    "spk_id": "004"
+  },
+  "070-070": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 7.330791666666666,
+    "spk_id": "070"
+  },
+  "075-004": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 6.186833333333333,
+    "spk_id": "075"
+  },
+  "025-091": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 5.570791666666667,
+    "spk_id": "025"
+  },
+  "077-033": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 3.9894166666666666,
+    "spk_id": "077"
+  },
+  "088-034": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_034.wav",
+    "length": 4.180166666666667,
+    "spk_id": "088"
+  },
+  "054-096": {
+    "wav": "{data_root}/jvs054/parallel100/wav24kHz16bit/VOICEACTRESS100_096.wav",
+    "length": 10.371791666666667,
+    "spk_id": "054"
+  },
+  "018-040": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 6.044416666666667,
+    "spk_id": "018"
+  },
+  "027-039": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 7.410958333333333,
+    "spk_id": "027"
+  },
+  "058-017": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 8.297666666666666,
+    "spk_id": "058"
+  },
+  "072-062": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 9.009833333333333,
+    "spk_id": "072"
+  },
+  "055-049": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_049.wav",
+    "length": 6.555375,
+    "spk_id": "055"
+  },
+  "076-093": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 9.181541666666666,
+    "spk_id": "076"
+  },
+  "049-071": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 8.002416666666667,
+    "spk_id": "049"
+  },
+  "015-021": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 6.077875,
+    "spk_id": "015"
+  },
+  "021-006": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.644083333333334,
+    "spk_id": "021"
+  },
+  "052-067": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 8.109666666666667,
+    "spk_id": "052"
+  },
+  "049-059": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 7.277041666666666,
+    "spk_id": "049"
+  },
+  "037-037": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_037.wav",
+    "length": 5.499041666666667,
+    "spk_id": "037"
+  },
+  "097-039": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 7.269083333333334,
+    "spk_id": "097"
+  },
+  "039-060": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 7.334375,
+    "spk_id": "039"
+  },
+  "065-024": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 9.383208333333334,
+    "spk_id": "065"
+  },
+  "031-046": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 5.738791666666667,
+    "spk_id": "031"
+  },
+  "065-099": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 6.4605,
+    "spk_id": "065"
+  },
+  "029-092": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 7.862125,
+    "spk_id": "029"
+  },
+  "030-011": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.020041666666667,
+    "spk_id": "030"
+  },
+  "050-002": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 8.267875,
+    "spk_id": "050"
+  },
+  "019-034": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_034.wav",
+    "length": 4.5685416666666665,
+    "spk_id": "019"
+  },
+  "001-031": {
+    "wav": "{data_root}/jvs001/parallel100/wav24kHz16bit/VOICEACTRESS100_031.wav",
+    "length": 5.034041666666667,
+    "spk_id": "001"
+  },
+  "092-017": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.2748333333333335,
+    "spk_id": "092"
+  },
+  "093-096": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_096.wav",
+    "length": 9.518833333333333,
+    "spk_id": "093"
+  },
+  "006-036": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 8.432375,
+    "spk_id": "006"
+  },
+  "078-018": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.737708333333333,
+    "spk_id": "078"
+  },
+  "070-028": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_028.wav",
+    "length": 9.336125,
+    "spk_id": "070"
+  },
+  "100-017": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.89825,
+    "spk_id": "100"
+  },
+  "055-031": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_031.wav",
+    "length": 5.124375,
+    "spk_id": "055"
+  },
+  "074-037": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_037.wav",
+    "length": 5.760875,
+    "spk_id": "074"
+  },
+  "008-046": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 6.3377083333333335,
+    "spk_id": "008"
+  },
+  "096-099": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 5.775166666666666,
+    "spk_id": "096"
+  },
+  "075-098": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 7.566958333333333,
+    "spk_id": "075"
+  },
+  "091-036": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 9.803791666666667,
+    "spk_id": "091"
+  },
+  "055-006": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.888875,
+    "spk_id": "055"
+  },
+  "080-020": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 7.206166666666666,
+    "spk_id": "080"
+  },
+  "008-061": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 8.077291666666667,
+    "spk_id": "008"
+  },
+  "049-013": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 6.701,
+    "spk_id": "049"
+  },
+  "026-055": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.65825,
+    "spk_id": "026"
+  },
+  "011-086": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_086.wav",
+    "length": 9.204625,
+    "spk_id": "011"
+  },
+  "017-084": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 9.378458333333333,
+    "spk_id": "017"
+  },
+  "006-019": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 8.975875,
+    "spk_id": "006"
+  },
+  "093-063": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_063.wav",
+    "length": 4.963041666666666,
+    "spk_id": "093"
+  },
+  "001-012": {
+    "wav": "{data_root}/jvs001/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 6.348791666666667,
+    "spk_id": "001"
+  },
+  "023-026": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 4.480416666666667,
+    "spk_id": "023"
+  },
+  "045-043": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 6.78525,
+    "spk_id": "045"
+  },
+  "007-053": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.30525,
+    "spk_id": "007"
+  },
+  "088-048": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 8.956166666666666,
+    "spk_id": "088"
+  },
+  "062-022": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 14.248708333333333,
+    "spk_id": "062"
+  },
+  "025-039": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 8.158125,
+    "spk_id": "025"
+  },
+  "056-077": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 8.798875,
+    "spk_id": "056"
+  },
+  "099-093": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 8.406166666666667,
+    "spk_id": "099"
+  },
+  "040-072": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 9.395333333333333,
+    "spk_id": "040"
+  },
+  "007-017": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.795791666666666,
+    "spk_id": "007"
+  },
+  "019-082": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 6.912625,
+    "spk_id": "019"
+  },
+  "009-002": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 9.344375,
+    "spk_id": "009"
+  },
+  "087-007": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 9.298958333333333,
+    "spk_id": "087"
+  },
+  "008-018": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.869125,
+    "spk_id": "008"
+  },
+  "084-064": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 9.248,
+    "spk_id": "084"
+  },
+  "074-022": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 12.213208333333334,
+    "spk_id": "074"
+  },
+  "026-035": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 7.772,
+    "spk_id": "026"
+  },
+  "003-049": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_049.wav",
+    "length": 7.184125,
+    "spk_id": "003"
+  },
+  "075-065": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 9.791583333333334,
+    "spk_id": "075"
+  },
+  "030-022": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 14.464041666666667,
+    "spk_id": "030"
+  },
+  "035-051": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 7.424,
+    "spk_id": "035"
+  },
+  "032-056": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 7.20425,
+    "spk_id": "032"
+  },
+  "063-050": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 9.083916666666667,
+    "spk_id": "063"
+  },
+  "002-067": {
+    "wav": "{data_root}/jvs002/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 7.303166666666667,
+    "spk_id": "002"
+  },
+  "073-051": {
+    "wav": "{data_root}/jvs073/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 5.653708333333333,
+    "spk_id": "073"
+  },
+  "084-027": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 10.704,
+    "spk_id": "084"
+  },
+  "069-026": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.441583333333333,
+    "spk_id": "069"
+  },
+  "037-092": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 7.446458333333333,
+    "spk_id": "037"
+  },
+  "005-012": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 5.597208333333334,
+    "spk_id": "005"
+  },
+  "027-013": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 6.4675416666666665,
+    "spk_id": "027"
+  },
+  "041-041": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 7.1727083333333335,
+    "spk_id": "041"
+  },
+  "049-099": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 6.041833333333333,
+    "spk_id": "049"
+  },
+  "039-032": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_032.wav",
+    "length": 10.89375,
+    "spk_id": "039"
+  },
+  "045-066": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 7.191208333333333,
+    "spk_id": "045"
+  },
+  "074-081": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_081.wav",
+    "length": 8.046291666666667,
+    "spk_id": "074"
+  },
+  "098-019": {
+    "wav": "{data_root}/jvs098/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 7.972291666666667,
+    "spk_id": "098"
+  },
+  "024-009": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 7.218208333333333,
+    "spk_id": "024"
+  },
+  "042-087": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 9.916625,
+    "spk_id": "042"
+  },
+  "081-088": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 6.151833333333333,
+    "spk_id": "081"
+  },
+  "059-007": {
+    "wav": "{data_root}/jvs059/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 8.311583333333333,
+    "spk_id": "059"
+  },
+  "010-001": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 8.406333333333333,
+    "spk_id": "010"
+  },
+  "007-097": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 9.718708333333334,
+    "spk_id": "007"
+  },
+  "099-042": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 4.089291666666667,
+    "spk_id": "099"
+  },
+  "081-066": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 6.766,
+    "spk_id": "081"
+  },
+  "071-011": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 9.69475,
+    "spk_id": "071"
+  },
+  "056-065": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 8.873916666666666,
+    "spk_id": "056"
+  },
+  "084-002": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 12.181333333333333,
+    "spk_id": "084"
+  },
+  "030-005": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 12.702333333333334,
+    "spk_id": "030"
+  },
+  "020-091": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.13825,
+    "spk_id": "020"
+  },
+  "025-006": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 5.631833333333334,
+    "spk_id": "025"
+  },
+  "099-074": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 4.6197083333333335,
+    "spk_id": "099"
+  },
+  "042-043": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 6.946958333333333,
+    "spk_id": "042"
+  },
+  "058-091": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 5.198416666666667,
+    "spk_id": "058"
+  },
+  "084-025": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 7.584,
+    "spk_id": "084"
+  },
+  "046-054": {
+    "wav": "{data_root}/jvs046/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 13.450916666666666,
+    "spk_id": "046"
+  },
+  "018-010": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 5.42775,
+    "spk_id": "018"
+  },
+  "050-001": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 7.146333333333334,
+    "spk_id": "050"
+  },
+  "029-064": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 5.528375,
+    "spk_id": "029"
+  },
+  "071-065": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 11.476666666666667,
+    "spk_id": "071"
+  },
+  "023-048": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 7.708708333333333,
+    "spk_id": "023"
+  },
+  "069-098": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 6.970958333333333,
+    "spk_id": "069"
+  },
+  "100-005": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 12.419583333333334,
+    "spk_id": "100"
+  },
+  "071-084": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 13.028541666666667,
+    "spk_id": "071"
+  },
+  "074-070": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 7.284875,
+    "spk_id": "074"
+  },
+  "058-015": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 6.99375,
+    "spk_id": "058"
+  },
+  "040-033": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 4.657666666666667,
+    "spk_id": "040"
+  },
+  "084-068": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 10.432,
+    "spk_id": "084"
+  },
+  "007-018": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.8025416666666665,
+    "spk_id": "007"
+  },
+  "038-098": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 6.705541666666667,
+    "spk_id": "038"
+  },
+  "096-074": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 5.9665,
+    "spk_id": "096"
+  },
+  "062-066": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 8.437791666666667,
+    "spk_id": "062"
+  },
+  "050-076": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 9.985083333333334,
+    "spk_id": "050"
+  },
+  "094-043": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 8.986666666666666,
+    "spk_id": "094"
+  },
+  "052-075": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 7.336541666666666,
+    "spk_id": "052"
+  },
+  "024-065": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 8.538375,
+    "spk_id": "024"
+  },
+  "032-062": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 6.65525,
+    "spk_id": "032"
+  },
+  "002-023": {
+    "wav": "{data_root}/jvs002/parallel100/wav24kHz16bit/VOICEACTRESS100_023.wav",
+    "length": 6.967583333333334,
+    "spk_id": "002"
+  },
+  "010-012": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 6.304791666666667,
+    "spk_id": "010"
+  },
+  "039-026": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.229666666666667,
+    "spk_id": "039"
+  },
+  "076-003": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 5.631166666666667,
+    "spk_id": "076"
+  },
+  "068-085": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 10.715458333333334,
+    "spk_id": "068"
+  },
+  "093-022": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 14.065083333333334,
+    "spk_id": "093"
+  },
+  "035-081": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_081.wav",
+    "length": 13.269333333333334,
+    "spk_id": "035"
+  },
+  "056-021": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 6.911208333333334,
+    "spk_id": "056"
+  },
+  "015-033": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 3.7034583333333333,
+    "spk_id": "015"
+  },
+  "048-051": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 5.543708333333333,
+    "spk_id": "048"
+  },
+  "071-100": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 14.886541666666666,
+    "spk_id": "071"
+  },
+  "089-062": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 8.162083333333333,
+    "spk_id": "089"
+  },
+  "016-044": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 11.356125,
+    "spk_id": "016"
+  },
+  "093-076": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.031166666666667,
+    "spk_id": "093"
+  },
+  "044-057": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 5.056,
+    "spk_id": "044"
+  },
+  "012-064": {
+    "wav": "{data_root}/jvs012/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 5.434083333333334,
+    "spk_id": "012"
+  },
+  "005-030": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 6.207666666666666,
+    "spk_id": "005"
+  },
+  "024-035": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 8.62725,
+    "spk_id": "024"
+  },
+  "027-088": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 7.245791666666666,
+    "spk_id": "027"
+  },
+  "058-052": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_052.wav",
+    "length": 9.529916666666667,
+    "spk_id": "058"
+  },
+  "061-055": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.7917916666666667,
+    "spk_id": "061"
+  },
+  "031-054": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 11.75375,
+    "spk_id": "031"
+  },
+  "022-010": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 5.281791666666667,
+    "spk_id": "022"
+  },
+  "029-027": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 7.545833333333333,
+    "spk_id": "029"
+  },
+  "094-035": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 9.203083333333334,
+    "spk_id": "094"
+  },
+  "006-060": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 7.716208333333333,
+    "spk_id": "006"
+  },
+  "029-054": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 12.124208333333334,
+    "spk_id": "029"
+  },
+  "042-082": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.130416666666667,
+    "spk_id": "042"
+  },
+  "022-086": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_086.wav",
+    "length": 8.180625,
+    "spk_id": "022"
+  },
+  "008-081": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_081.wav",
+    "length": 9.871416666666667,
+    "spk_id": "008"
+  },
+  "057-036": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 7.64725,
+    "spk_id": "057"
+  },
+  "099-096": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_096.wav",
+    "length": 7.554916666666666,
+    "spk_id": "099"
+  },
+  "085-076": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.82625,
+    "spk_id": "085"
+  },
+  "091-054": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 15.847125,
+    "spk_id": "091"
+  },
+  "063-011": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.213583333333333,
+    "spk_id": "063"
+  },
+  "084-028": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_028.wav",
+    "length": 14.133333333333333,
+    "spk_id": "084"
+  },
+  "099-079": {
+    "wav": "{data_root}/jvs099/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 6.897541666666666,
+    "spk_id": "099"
+  },
+  "017-030": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 6.737375,
+    "spk_id": "017"
+  },
+  "100-068": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 7.2519583333333335,
+    "spk_id": "100"
+  },
+  "010-078": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 10.8225,
+    "spk_id": "010"
+  },
+  "023-082": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 5.896625,
+    "spk_id": "023"
+  },
+  "064-088": {
+    "wav": "{data_root}/jvs064/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 8.031458333333333,
+    "spk_id": "064"
+  },
+  "033-073": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 6.6814583333333335,
+    "spk_id": "033"
+  },
+  "035-056": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 10.816,
+    "spk_id": "035"
+  },
+  "020-075": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 5.672458333333333,
+    "spk_id": "020"
+  },
+  "068-091": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.836125,
+    "spk_id": "068"
+  },
+  "034-016": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 5.837583333333333,
+    "spk_id": "034"
+  },
+  "028-017": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.6150416666666665,
+    "spk_id": "028"
+  },
+  "079-005": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 11.522958333333333,
+    "spk_id": "079"
+  },
+  "076-019": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 7.6429583333333335,
+    "spk_id": "076"
+  },
+  "041-046": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 7.079958333333333,
+    "spk_id": "041"
+  },
+  "018-085": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 14.440666666666667,
+    "spk_id": "018"
+  },
+  "060-019": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 8.649208333333334,
+    "spk_id": "060"
+  },
+  "083-060": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 8.458666666666666,
+    "spk_id": "083"
+  },
+  "042-077": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 9.960708333333333,
+    "spk_id": "042"
+  },
+  "008-073": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 7.3965,
+    "spk_id": "008"
+  },
+  "037-085": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_085.wav",
+    "length": 10.321416666666666,
+    "spk_id": "037"
+  },
+  "044-054": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 13.28375,
+    "spk_id": "044"
+  },
+  "053-025": {
+    "wav": "{data_root}/jvs053/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 4.916041666666667,
+    "spk_id": "053"
+  },
+  "040-022": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 15.842625,
+    "spk_id": "040"
+  },
+  "100-072": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 8.1995,
+    "spk_id": "100"
+  },
+  "016-043": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 8.463375,
+    "spk_id": "016"
+  },
+  "036-040": {
+    "wav": "{data_root}/jvs036/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 7.136,
+    "spk_id": "036"
+  },
+  "034-050": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 8.616375,
+    "spk_id": "034"
+  },
+  "082-070": {
+    "wav": "{data_root}/jvs082/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 8.515916666666667,
+    "spk_id": "082"
+  },
+  "016-018": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.599916666666667,
+    "spk_id": "016"
+  },
+  "068-049": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_049.wav",
+    "length": 7.008083333333333,
+    "spk_id": "068"
+  },
+  "097-074": {
+    "wav": "{data_root}/jvs097/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 5.663083333333334,
+    "spk_id": "097"
+  },
+  "065-057": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 6.16725,
+    "spk_id": "065"
+  },
+  "050-089": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 6.545875,
+    "spk_id": "050"
+  },
+  "018-028": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_028.wav",
+    "length": 11.800333333333333,
+    "spk_id": "018"
+  },
+  "035-069": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_069.wav",
+    "length": 12.074666666666667,
+    "spk_id": "035"
+  },
+  "045-011": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.067625,
+    "spk_id": "045"
+  },
+  "050-083": {
+    "wav": "{data_root}/jvs050/parallel100/wav24kHz16bit/VOICEACTRESS100_083.wav",
+    "length": 6.798583333333333,
+    "spk_id": "050"
+  },
+  "094-048": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 9.859041666666666,
+    "spk_id": "094"
+  },
+  "088-022": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 13.806833333333334,
+    "spk_id": "088"
+  },
+  "011-045": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 10.3305,
+    "spk_id": "011"
+  },
+  "045-025": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 4.492,
+    "spk_id": "045"
+  },
+  "058-008": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 8.79125,
+    "spk_id": "058"
+  },
+  "051-075": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 6.795708333333334,
+    "spk_id": "051"
+  },
+  "013-011": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.587208333333334,
+    "spk_id": "013"
+  },
+  "066-024": {
+    "wav": "{data_root}/jvs066/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 8.720333333333333,
+    "spk_id": "066"
+  },
+  "049-041": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.851833333333333,
+    "spk_id": "049"
+  },
+  "055-040": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_040.wav",
+    "length": 5.0155,
+    "spk_id": "055"
+  },
+  "022-079": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 8.691916666666666,
+    "spk_id": "022"
+  },
+  "015-092": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 6.793083333333334,
+    "spk_id": "015"
+  },
+  "070-010": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 4.678208333333333,
+    "spk_id": "070"
+  },
+  "094-007": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 10.234083333333333,
+    "spk_id": "094"
+  },
+  "009-087": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 10.248958333333333,
+    "spk_id": "009"
+  },
+  "014-072": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 7.422,
+    "spk_id": "014"
+  },
+  "012-071": {
+    "wav": "{data_root}/jvs012/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 6.928416666666666,
+    "spk_id": "012"
+  },
+  "017-033": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 4.484708333333334,
+    "spk_id": "017"
+  },
+  "064-099": {
+    "wav": "{data_root}/jvs064/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 6.339458333333333,
+    "spk_id": "064"
+  },
+  "041-059": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 7.242,
+    "spk_id": "041"
+  },
+  "093-050": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 8.322583333333334,
+    "spk_id": "093"
+  },
+  "088-037": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_037.wav",
+    "length": 5.995458333333334,
+    "spk_id": "088"
+  },
+  "070-096": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_096.wav",
+    "length": 8.432875,
+    "spk_id": "070"
+  },
+  "009-026": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 4.811083333333333,
+    "spk_id": "009"
+  },
+  "062-090": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 7.572875,
+    "spk_id": "062"
+  },
+  "057-045": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 8.777708333333333,
+    "spk_id": "057"
+  },
+  "024-095": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 7.921666666666667,
+    "spk_id": "024"
+  },
+  "039-061": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 7.73625,
+    "spk_id": "039"
+  },
+  "047-010": {
+    "wav": "{data_root}/jvs047/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 6.307458333333333,
+    "spk_id": "047"
+  },
+  "035-088": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 8.624,
+    "spk_id": "035"
+  },
+  "045-050": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 7.731416666666667,
+    "spk_id": "045"
+  },
+  "070-087": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 9.06825,
+    "spk_id": "070"
+  },
+  "025-050": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 9.688083333333333,
+    "spk_id": "025"
+  },
+  "001-070": {
+    "wav": "{data_root}/jvs001/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 8.216041666666667,
+    "spk_id": "001"
+  },
+  "095-073": {
+    "wav": "{data_root}/jvs095/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 7.588708333333333,
+    "spk_id": "095"
+  },
+  "092-050": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_050.wav",
+    "length": 9.024625,
+    "spk_id": "092"
+  },
+  "072-053": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 7.348333333333334,
+    "spk_id": "072"
+  },
+  "046-097": {
+    "wav": "{data_root}/jvs046/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 9.895708333333333,
+    "spk_id": "046"
+  },
+  "016-071": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 7.662333333333334,
+    "spk_id": "016"
+  },
+  "026-083": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_083.wav",
+    "length": 6.596333333333333,
+    "spk_id": "026"
+  },
+  "094-027": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 8.47925,
+    "spk_id": "094"
+  },
+  "070-054": {
+    "wav": "{data_root}/jvs070/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 12.044125,
+    "spk_id": "070"
+  },
+  "092-061": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 7.610916666666666,
+    "spk_id": "092"
+  },
+  "057-078": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 10.332041666666667,
+    "spk_id": "057"
+  },
+  "052-066": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 8.507125,
+    "spk_id": "052"
+  },
+  "072-059": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 8.180166666666667,
+    "spk_id": "072"
+  },
+  "026-067": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 7.3021666666666665,
+    "spk_id": "026"
+  },
+  "046-066": {
+    "wav": "{data_root}/jvs046/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 7.9504166666666665,
+    "spk_id": "046"
+  },
+  "011-003": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 5.8529583333333335,
+    "spk_id": "011"
+  },
+  "035-018": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 11.818666666666667,
+    "spk_id": "035"
+  },
+  "057-023": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_023.wav",
+    "length": 7.436208333333333,
+    "spk_id": "057"
+  },
+  "083-035": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_035.wav",
+    "length": 9.813333333333333,
+    "spk_id": "083"
+  },
+  "095-097": {
+    "wav": "{data_root}/jvs095/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 9.986208333333334,
+    "spk_id": "095"
+  },
+  "091-033": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 4.901083333333333,
+    "spk_id": "091"
+  },
+  "094-020": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 9.205125,
+    "spk_id": "094"
+  },
+  "042-041": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.408458333333333,
+    "spk_id": "042"
+  },
+  "004-041": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.803125,
+    "spk_id": "004"
+  },
+  "061-065": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 8.403083333333333,
+    "spk_id": "061"
+  },
+  "023-088": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 5.931916666666667,
+    "spk_id": "023"
+  },
+  "083-033": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 5.205333333333333,
+    "spk_id": "083"
+  },
+  "037-084": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 8.066458333333333,
+    "spk_id": "037"
+  },
+  "094-042": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.739416666666667,
+    "spk_id": "094"
+  },
+  "033-044": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 9.988,
+    "spk_id": "033"
+  },
+  "013-080": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_080.wav",
+    "length": 6.393958333333333,
+    "spk_id": "013"
+  },
+  "076-015": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 5.368041666666667,
+    "spk_id": "076"
+  },
+  "068-016": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 6.105708333333333,
+    "spk_id": "068"
+  },
+  "024-003": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 5.986625,
+    "spk_id": "024"
+  },
+  "065-083": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_083.wav",
+    "length": 7.482833333333334,
+    "spk_id": "065"
+  },
+  "032-031": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_031.wav",
+    "length": 4.464125,
+    "spk_id": "032"
+  },
+  "096-003": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 6.2244166666666665,
+    "spk_id": "096"
+  },
+  "072-058": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_058.wav",
+    "length": 7.729,
+    "spk_id": "072"
+  },
+  "029-029": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 8.932291666666666,
+    "spk_id": "029"
+  },
+  "019-058": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_058.wav",
+    "length": 6.284416666666667,
+    "spk_id": "019"
+  },
+  "042-066": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 8.033291666666667,
+    "spk_id": "042"
+  },
+  "077-001": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 7.279958333333333,
+    "spk_id": "077"
+  },
+  "080-095": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 8.143375,
+    "spk_id": "080"
+  },
+  "094-066": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 10.611375,
+    "spk_id": "094"
+  },
+  "091-072": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 9.620041666666667,
+    "spk_id": "091"
+  },
+  "072-070": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 10.021833333333333,
+    "spk_id": "072"
+  },
+  "057-025": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 5.119625,
+    "spk_id": "057"
+  },
+  "061-064": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 5.300708333333334,
+    "spk_id": "061"
+  },
+  "030-048": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 8.583666666666666,
+    "spk_id": "030"
+  },
+  "081-029": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 7.925875,
+    "spk_id": "081"
+  },
+  "033-010": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 5.069833333333333,
+    "spk_id": "033"
+  },
+  "013-090": {
+    "wav": "{data_root}/jvs013/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 7.281875,
+    "spk_id": "013"
+  },
+  "033-065": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 7.977166666666666,
+    "spk_id": "033"
+  },
+  "057-009": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 7.545625,
+    "spk_id": "057"
+  },
+  "075-049": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_049.wav",
+    "length": 6.957375,
+    "spk_id": "075"
+  },
+  "044-026": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 4.847875,
+    "spk_id": "044"
+  },
+  "065-020": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 7.824125,
+    "spk_id": "065"
+  },
+  "016-029": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 9.159125,
+    "spk_id": "016"
+  },
+  "080-075": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 7.259666666666667,
+    "spk_id": "080"
+  },
+  "084-041": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 9.248,
+    "spk_id": "084"
+  },
+  "054-045": {
+    "wav": "{data_root}/jvs054/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 9.944833333333333,
+    "spk_id": "054"
+  },
+  "029-078": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 9.8925,
+    "spk_id": "029"
+  },
+  "040-013": {
+    "wav": "{data_root}/jvs040/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 6.7567916666666665,
+    "spk_id": "040"
+  },
+  "036-024": {
+    "wav": "{data_root}/jvs036/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 10.517333333333333,
+    "spk_id": "036"
+  },
+  "031-088": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 6.360041666666667,
+    "spk_id": "031"
+  },
+  "083-009": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 8.469333333333333,
+    "spk_id": "083"
+  },
+  "002-056": {
+    "wav": "{data_root}/jvs002/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 7.757208333333334,
+    "spk_id": "002"
+  },
+  "084-054": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 16.16,
+    "spk_id": "084"
+  },
+  "022-029": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 8.730958333333334,
+    "spk_id": "022"
+  },
+  "048-041": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.717416666666667,
+    "spk_id": "048"
+  },
+  "065-039": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 7.3295,
+    "spk_id": "065"
+  },
+  "003-007": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 10.23775,
+    "spk_id": "003"
+  },
+  "004-046": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 7.394791666666666,
+    "spk_id": "004"
+  },
+  "037-078": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_078.wav",
+    "length": 9.74425,
+    "spk_id": "037"
+  },
+  "011-090": {
+    "wav": "{data_root}/jvs011/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 8.04975,
+    "spk_id": "011"
+  },
+  "021-084": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 8.791625,
+    "spk_id": "021"
+  },
+  "017-064": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_064.wav",
+    "length": 5.892041666666667,
+    "spk_id": "017"
+  },
+  "039-065": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 9.061791666666666,
+    "spk_id": "039"
+  },
+  "038-007": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 8.535666666666666,
+    "spk_id": "038"
+  },
+  "014-071": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 6.676625,
+    "spk_id": "014"
+  },
+  "051-082": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.589416666666667,
+    "spk_id": "051"
+  },
+  "051-059": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 6.965041666666667,
+    "spk_id": "051"
+  },
+  "036-057": {
+    "wav": "{data_root}/jvs036/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 10.4,
+    "spk_id": "036"
+  },
+  "031-073": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_073.wav",
+    "length": 7.0804583333333335,
+    "spk_id": "031"
+  },
+  "005-024": {
+    "wav": "{data_root}/jvs005/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 8.399458333333333,
+    "spk_id": "005"
+  },
+  "037-100": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 8.734541666666667,
+    "spk_id": "037"
+  },
+  "069-096": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_096.wav",
+    "length": 10.27025,
+    "spk_id": "069"
+  },
+  "077-055": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.77725,
+    "spk_id": "077"
+  },
+  "027-043": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_043.wav",
+    "length": 8.026375,
+    "spk_id": "027"
+  },
+  "074-002": {
+    "wav": "{data_root}/jvs074/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 9.313375,
+    "spk_id": "074"
+  },
+  "079-044": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 10.373875,
+    "spk_id": "079"
+  },
+  "095-024": {
+    "wav": "{data_root}/jvs095/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 8.827791666666666,
+    "spk_id": "095"
+  },
+  "064-061": {
+    "wav": "{data_root}/jvs064/parallel100/wav24kHz16bit/VOICEACTRESS100_061.wav",
+    "length": 8.520208333333333,
+    "spk_id": "064"
+  },
+  "021-005": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 12.490583333333333,
+    "spk_id": "021"
+  },
+  "066-068": {
+    "wav": "{data_root}/jvs066/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 6.679625,
+    "spk_id": "066"
+  },
+  "082-094": {
+    "wav": "{data_root}/jvs082/parallel100/wav24kHz16bit/VOICEACTRESS100_094.wav",
+    "length": 14.862291666666666,
+    "spk_id": "082"
+  },
+  "048-089": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_089.wav",
+    "length": 7.799625,
+    "spk_id": "048"
+  },
+  "060-042": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.707791666666667,
+    "spk_id": "060"
+  },
+  "029-053": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.3295,
+    "spk_id": "029"
+  },
+  "063-059": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 7.104958333333333,
+    "spk_id": "063"
+  },
+  "004-008": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 8.434416666666667,
+    "spk_id": "004"
+  },
+  "016-026": {
+    "wav": "{data_root}/jvs016/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.0324583333333335,
+    "spk_id": "016"
+  },
+  "091-094": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_094.wav",
+    "length": 19.56929166666667,
+    "spk_id": "091"
+  },
+  "018-006": {
+    "wav": "{data_root}/jvs018/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 5.330416666666666,
+    "spk_id": "018"
+  },
+  "009-006": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.5609166666666665,
+    "spk_id": "009"
+  },
+  "002-042": {
+    "wav": "{data_root}/jvs002/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.331958333333334,
+    "spk_id": "002"
+  },
+  "094-074": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 6.88525,
+    "spk_id": "094"
+  },
+  "012-069": {
+    "wav": "{data_root}/jvs012/parallel100/wav24kHz16bit/VOICEACTRESS100_069.wav",
+    "length": 9.935416666666667,
+    "spk_id": "012"
+  },
+  "006-006": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 5.261416666666666,
+    "spk_id": "006"
+  },
+  "027-054": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_054.wav",
+    "length": 14.438833333333333,
+    "spk_id": "027"
+  },
+  "046-049": {
+    "wav": "{data_root}/jvs046/parallel100/wav24kHz16bit/VOICEACTRESS100_049.wav",
+    "length": 6.677125,
+    "spk_id": "046"
+  },
+  "044-003": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 5.789958333333334,
+    "spk_id": "044"
+  },
+  "053-074": {
+    "wav": "{data_root}/jvs053/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 5.589583333333334,
+    "spk_id": "053"
+  },
+  "062-020": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 8.265916666666667,
+    "spk_id": "062"
+  },
+  "055-013": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 6.011416666666666,
+    "spk_id": "055"
+  },
+  "003-092": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 8.899,
+    "spk_id": "003"
+  },
+  "084-039": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 9.930666666666667,
+    "spk_id": "084"
+  },
+  "077-006": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.401833333333333,
+    "spk_id": "077"
+  },
+  "035-095": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 11.584,
+    "spk_id": "035"
+  },
+  "069-008": {
+    "wav": "{data_root}/jvs069/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 8.655083333333334,
+    "spk_id": "069"
+  },
+  "031-100": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 8.953708333333333,
+    "spk_id": "031"
+  },
+  "037-097": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_097.wav",
+    "length": 8.966458333333334,
+    "spk_id": "037"
+  },
+  "061-095": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 7.77575,
+    "spk_id": "061"
+  },
+  "096-055": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.7897083333333335,
+    "spk_id": "096"
+  },
+  "092-065": {
+    "wav": "{data_root}/jvs092/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 8.860875,
+    "spk_id": "092"
+  },
+  "062-008": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 9.397458333333333,
+    "spk_id": "062"
+  },
+  "035-001": {
+    "wav": "{data_root}/jvs035/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 13.184,
+    "spk_id": "035"
+  },
+  "067-070": {
+    "wav": "{data_root}/jvs067/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 7.398541666666667,
+    "spk_id": "067"
+  },
+  "046-002": {
+    "wav": "{data_root}/jvs046/parallel100/wav24kHz16bit/VOICEACTRESS100_002.wav",
+    "length": 8.870333333333333,
+    "spk_id": "046"
+  },
+  "058-005": {
+    "wav": "{data_root}/jvs058/parallel100/wav24kHz16bit/VOICEACTRESS100_005.wav",
+    "length": 13.30775,
+    "spk_id": "058"
+  },
+  "025-030": {
+    "wav": "{data_root}/jvs025/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 7.01725,
+    "spk_id": "025"
+  },
+  "038-044": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 9.068958333333333,
+    "spk_id": "038"
+  },
+  "020-030": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 4.826583333333334,
+    "spk_id": "020"
+  },
+  "028-033": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 4.523,
+    "spk_id": "028"
+  },
+  "100-095": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 9.238541666666666,
+    "spk_id": "100"
+  },
+  "021-030": {
+    "wav": "{data_root}/jvs021/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 6.103458333333333,
+    "spk_id": "021"
+  },
+  "095-056": {
+    "wav": "{data_root}/jvs095/parallel100/wav24kHz16bit/VOICEACTRESS100_056.wav",
+    "length": 8.43125,
+    "spk_id": "095"
+  },
+  "079-016": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 5.474458333333334,
+    "spk_id": "079"
+  },
+  "057-027": {
+    "wav": "{data_root}/jvs057/parallel100/wav24kHz16bit/VOICEACTRESS100_027.wav",
+    "length": 7.074541666666667,
+    "spk_id": "057"
+  },
+  "004-082": {
+    "wav": "{data_root}/jvs004/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.226416666666666,
+    "spk_id": "004"
+  },
+  "007-041": {
+    "wav": "{data_root}/jvs007/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.31925,
+    "spk_id": "007"
+  },
+  "039-042": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 5.538208333333333,
+    "spk_id": "039"
+  },
+  "053-096": {
+    "wav": "{data_root}/jvs053/parallel100/wav24kHz16bit/VOICEACTRESS100_096.wav",
+    "length": 10.355416666666667,
+    "spk_id": "053"
+  },
+  "080-090": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 7.336916666666666,
+    "spk_id": "080"
+  },
+  "081-033": {
+    "wav": "{data_root}/jvs081/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 3.8689583333333335,
+    "spk_id": "081"
+  },
+  "014-059": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_059.wav",
+    "length": 7.1866666666666665,
+    "spk_id": "014"
+  },
+  "065-047": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 9.092833333333333,
+    "spk_id": "065"
+  },
+  "089-022": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_022.wav",
+    "length": 13.219791666666667,
+    "spk_id": "089"
+  },
+  "076-069": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_069.wav",
+    "length": 8.429583333333333,
+    "spk_id": "076"
+  },
+  "009-023": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_023.wav",
+    "length": 6.772375,
+    "spk_id": "009"
+  },
+  "049-055": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_055.wav",
+    "length": 3.964625,
+    "spk_id": "049"
+  },
+  "091-047": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_047.wav",
+    "length": 11.478416666666666,
+    "spk_id": "091"
+  },
+  "008-063": {
+    "wav": "{data_root}/jvs008/parallel100/wav24kHz16bit/VOICEACTRESS100_063.wav",
+    "length": 4.9915416666666665,
+    "spk_id": "008"
+  },
+  "026-098": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_098.wav",
+    "length": 6.114125,
+    "spk_id": "026"
+  },
+  "089-100": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 9.7615,
+    "spk_id": "089"
+  },
+  "037-062": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_062.wav",
+    "length": 7.760375,
+    "spk_id": "037"
+  },
+  "009-009": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 7.53675,
+    "spk_id": "009"
+  },
+  "014-057": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 5.667166666666667,
+    "spk_id": "014"
+  },
+  "066-004": {
+    "wav": "{data_root}/jvs066/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 6.611208333333333,
+    "spk_id": "066"
+  },
+  "087-084": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 9.829583333333334,
+    "spk_id": "087"
+  },
+  "002-034": {
+    "wav": "{data_root}/jvs002/parallel100/wav24kHz16bit/VOICEACTRESS100_034.wav",
+    "length": 4.462416666666667,
+    "spk_id": "002"
+  },
+  "028-016": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_016.wav",
+    "length": 6.369791666666667,
+    "spk_id": "028"
+  },
+  "010-033": {
+    "wav": "{data_root}/jvs010/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 4.113916666666666,
+    "spk_id": "010"
+  },
+  "084-046": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 10.986666666666666,
+    "spk_id": "084"
+  },
+  "077-013": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_013.wav",
+    "length": 5.485458333333334,
+    "spk_id": "077"
+  },
+  "026-046": {
+    "wav": "{data_root}/jvs026/parallel100/wav24kHz16bit/VOICEACTRESS100_046.wav",
+    "length": 5.832291666666666,
+    "spk_id": "026"
+  },
+  "091-020": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 9.298958333333333,
+    "spk_id": "091"
+  },
+  "031-057": {
+    "wav": "{data_root}/jvs031/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 5.20225,
+    "spk_id": "031"
+  },
+  "006-076": {
+    "wav": "{data_root}/jvs006/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 13.813708333333333,
+    "spk_id": "006"
+  },
+  "028-060": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 7.9035,
+    "spk_id": "028"
+  },
+  "041-060": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 7.507791666666667,
+    "spk_id": "041"
+  },
+  "015-019": {
+    "wav": "{data_root}/jvs015/parallel100/wav24kHz16bit/VOICEACTRESS100_019.wav",
+    "length": 7.624666666666666,
+    "spk_id": "015"
+  },
+  "061-048": {
+    "wav": "{data_root}/jvs061/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 8.09175,
+    "spk_id": "061"
+  },
+  "041-080": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_080.wav",
+    "length": 7.289375,
+    "spk_id": "041"
+  },
+  "023-066": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 6.93225,
+    "spk_id": "023"
+  },
+  "073-082": {
+    "wav": "{data_root}/jvs073/parallel100/wav24kHz16bit/VOICEACTRESS100_082.wav",
+    "length": 7.462291666666666,
+    "spk_id": "073"
+  },
+  "012-017": {
+    "wav": "{data_root}/jvs012/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.284416666666667,
+    "spk_id": "012"
+  },
+  "017-038": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 8.062166666666666,
+    "spk_id": "017"
+  },
+  "048-086": {
+    "wav": "{data_root}/jvs048/parallel100/wav24kHz16bit/VOICEACTRESS100_086.wav",
+    "length": 8.171375,
+    "spk_id": "048"
+  },
+  "060-032": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_032.wav",
+    "length": 10.533416666666668,
+    "spk_id": "060"
+  },
+  "093-088": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_088.wav",
+    "length": 6.552208333333334,
+    "spk_id": "093"
+  },
+  "029-038": {
+    "wav": "{data_root}/jvs029/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 7.06225,
+    "spk_id": "029"
+  },
+  "075-001": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 7.726708333333334,
+    "spk_id": "075"
+  },
+  "049-018": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.667791666666667,
+    "spk_id": "049"
+  },
+  "051-094": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_094.wav",
+    "length": 17.201208333333334,
+    "spk_id": "051"
+  },
+  "020-023": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_023.wav",
+    "length": 5.900458333333333,
+    "spk_id": "020"
+  },
+  "009-083": {
+    "wav": "{data_root}/jvs009/parallel100/wav24kHz16bit/VOICEACTRESS100_083.wav",
+    "length": 6.9115416666666665,
+    "spk_id": "009"
+  },
+  "053-024": {
+    "wav": "{data_root}/jvs053/parallel100/wav24kHz16bit/VOICEACTRESS100_024.wav",
+    "length": 8.593541666666667,
+    "spk_id": "053"
+  },
+  "065-076": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.322,
+    "spk_id": "065"
+  },
+  "055-032": {
+    "wav": "{data_root}/jvs055/parallel100/wav24kHz16bit/VOICEACTRESS100_032.wav",
+    "length": 10.208916666666667,
+    "spk_id": "055"
+  },
+  "043-044": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 8.96875,
+    "spk_id": "043"
+  },
+  "087-044": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 11.385666666666667,
+    "spk_id": "087"
+  },
+  "001-041": {
+    "wav": "{data_root}/jvs001/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 6.707333333333334,
+    "spk_id": "001"
+  },
+  "049-081": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_081.wav",
+    "length": 9.817125,
+    "spk_id": "049"
+  },
+  "053-001": {
+    "wav": "{data_root}/jvs053/parallel100/wav24kHz16bit/VOICEACTRESS100_001.wav",
+    "length": 8.216208333333332,
+    "spk_id": "053"
+  },
+  "023-007": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_007.wav",
+    "length": 7.751458333333333,
+    "spk_id": "023"
+  },
+  "028-084": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_084.wav",
+    "length": 9.077125,
+    "spk_id": "028"
+  },
+  "072-063": {
+    "wav": "{data_root}/jvs072/parallel100/wav24kHz16bit/VOICEACTRESS100_063.wav",
+    "length": 5.723541666666667,
+    "spk_id": "072"
+  },
+  "096-090": {
+    "wav": "{data_root}/jvs096/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 6.81575,
+    "spk_id": "096"
+  },
+  "044-063": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_063.wav",
+    "length": 4.487958333333333,
+    "spk_id": "044"
+  },
+  "085-057": {
+    "wav": "{data_root}/jvs085/parallel100/wav24kHz16bit/VOICEACTRESS100_057.wav",
+    "length": 5.529,
+    "spk_id": "085"
+  },
+  "078-026": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.288166666666666,
+    "spk_id": "078"
+  },
+  "060-067": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_067.wav",
+    "length": 8.32625,
+    "spk_id": "060"
+  },
+  "041-071": {
+    "wav": "{data_root}/jvs041/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 8.005666666666666,
+    "spk_id": "041"
+  },
+  "023-093": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 8.872708333333334,
+    "spk_id": "023"
+  },
+  "087-030": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_030.wav",
+    "length": 6.286833333333333,
+    "spk_id": "087"
+  },
+  "089-074": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_074.wav",
+    "length": 5.977833333333334,
+    "spk_id": "089"
+  },
+  "080-079": {
+    "wav": "{data_root}/jvs080/parallel100/wav24kHz16bit/VOICEACTRESS100_079.wav",
+    "length": 8.623166666666666,
+    "spk_id": "080"
+  },
+  "090-020": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_020.wav",
+    "length": 8.766416666666666,
+    "spk_id": "090"
+  },
+  "079-093": {
+    "wav": "{data_root}/jvs079/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 11.216416666666667,
+    "spk_id": "079"
+  },
+  "039-006": {
+    "wav": "{data_root}/jvs039/parallel100/wav24kHz16bit/VOICEACTRESS100_006.wav",
+    "length": 4.846208333333333,
+    "spk_id": "039"
+  },
+  "003-036": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 8.728583333333333,
+    "spk_id": "003"
+  },
+  "078-038": {
+    "wav": "{data_root}/jvs078/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 7.858958333333334,
+    "spk_id": "078"
+  },
+  "023-029": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 7.43375,
+    "spk_id": "023"
+  },
+  "088-065": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_065.wav",
+    "length": 8.40025,
+    "spk_id": "088"
+  },
+  "042-076": {
+    "wav": "{data_root}/jvs042/parallel100/wav24kHz16bit/VOICEACTRESS100_076.wav",
+    "length": 11.028041666666667,
+    "spk_id": "042"
+  },
+  "060-051": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 6.156666666666666,
+    "spk_id": "060"
+  },
+  "044-066": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_066.wav",
+    "length": 8.107291666666667,
+    "spk_id": "044"
+  },
+  "094-026": {
+    "wav": "{data_root}/jvs094/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.328,
+    "spk_id": "094"
+  },
+  "098-087": {
+    "wav": "{data_root}/jvs098/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 10.37375,
+    "spk_id": "098"
+  },
+  "077-014": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_014.wav",
+    "length": 3.1746666666666665,
+    "spk_id": "077"
+  },
+  "028-092": {
+    "wav": "{data_root}/jvs028/parallel100/wav24kHz16bit/VOICEACTRESS100_092.wav",
+    "length": 8.65525,
+    "spk_id": "028"
+  },
+  "014-034": {
+    "wav": "{data_root}/jvs014/parallel100/wav24kHz16bit/VOICEACTRESS100_034.wav",
+    "length": 4.370625,
+    "spk_id": "014"
+  },
+  "003-072": {
+    "wav": "{data_root}/jvs003/parallel100/wav24kHz16bit/VOICEACTRESS100_072.wav",
+    "length": 8.892583333333333,
+    "spk_id": "003"
+  },
+  "064-025": {
+    "wav": "{data_root}/jvs064/parallel100/wav24kHz16bit/VOICEACTRESS100_025.wav",
+    "length": 5.481333333333334,
+    "spk_id": "064"
+  },
+  "033-093": {
+    "wav": "{data_root}/jvs033/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 9.849375,
+    "spk_id": "033"
+  },
+  "087-012": {
+    "wav": "{data_root}/jvs087/parallel100/wav24kHz16bit/VOICEACTRESS100_012.wav",
+    "length": 6.70675,
+    "spk_id": "087"
+  },
+  "047-042": {
+    "wav": "{data_root}/jvs047/parallel100/wav24kHz16bit/VOICEACTRESS100_042.wav",
+    "length": 6.140833333333333,
+    "spk_id": "047"
+  },
+  "030-068": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 6.797875,
+    "spk_id": "030"
+  },
+  "043-045": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_045.wav",
+    "length": 8.474541666666667,
+    "spk_id": "043"
+  },
+  "075-068": {
+    "wav": "{data_root}/jvs075/parallel100/wav24kHz16bit/VOICEACTRESS100_068.wav",
+    "length": 7.3072083333333335,
+    "spk_id": "075"
+  },
+  "083-077": {
+    "wav": "{data_root}/jvs083/parallel100/wav24kHz16bit/VOICEACTRESS100_077.wav",
+    "length": 10.698666666666666,
+    "spk_id": "083"
+  },
+  "052-015": {
+    "wav": "{data_root}/jvs052/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 5.8337916666666665,
+    "spk_id": "052"
+  },
+  "038-060": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_060.wav",
+    "length": 7.247833333333333,
+    "spk_id": "038"
+  },
+  "063-095": {
+    "wav": "{data_root}/jvs063/parallel100/wav24kHz16bit/VOICEACTRESS100_095.wav",
+    "length": 8.76775,
+    "spk_id": "063"
+  },
+  "043-014": {
+    "wav": "{data_root}/jvs043/parallel100/wav24kHz16bit/VOICEACTRESS100_014.wav",
+    "length": 3.1502916666666665,
+    "spk_id": "043"
+  },
+  "093-087": {
+    "wav": "{data_root}/jvs093/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 10.037208333333334,
+    "spk_id": "093"
+  },
+  "034-075": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_075.wav",
+    "length": 6.511041666666666,
+    "spk_id": "034"
+  },
+  "030-023": {
+    "wav": "{data_root}/jvs030/parallel100/wav24kHz16bit/VOICEACTRESS100_023.wav",
+    "length": 7.299833333333333,
+    "spk_id": "030"
+  },
+  "032-004": {
+    "wav": "{data_root}/jvs032/parallel100/wav24kHz16bit/VOICEACTRESS100_004.wav",
+    "length": 5.745875,
+    "spk_id": "032"
+  },
+  "100-093": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 11.266166666666667,
+    "spk_id": "100"
+  },
+  "084-071": {
+    "wav": "{data_root}/jvs084/parallel100/wav24kHz16bit/VOICEACTRESS100_071.wav",
+    "length": 10.976,
+    "spk_id": "084"
+  },
+  "034-093": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_093.wav",
+    "length": 10.819375,
+    "spk_id": "034"
+  },
+  "076-099": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_099.wav",
+    "length": 4.843583333333333,
+    "spk_id": "076"
+  },
+  "100-021": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 8.26925,
+    "spk_id": "100"
+  },
+  "095-087": {
+    "wav": "{data_root}/jvs095/parallel100/wav24kHz16bit/VOICEACTRESS100_087.wav",
+    "length": 10.162875,
+    "spk_id": "095"
+  },
+  "020-048": {
+    "wav": "{data_root}/jvs020/parallel100/wav24kHz16bit/VOICEACTRESS100_048.wav",
+    "length": 6.88675,
+    "spk_id": "020"
+  },
+  "077-094": {
+    "wav": "{data_root}/jvs077/parallel100/wav24kHz16bit/VOICEACTRESS100_094.wav",
+    "length": 13.247791666666666,
+    "spk_id": "077"
+  },
+  "076-010": {
+    "wav": "{data_root}/jvs076/parallel100/wav24kHz16bit/VOICEACTRESS100_010.wav",
+    "length": 4.728916666666667,
+    "spk_id": "076"
+  },
+  "090-015": {
+    "wav": "{data_root}/jvs090/parallel100/wav24kHz16bit/VOICEACTRESS100_015.wav",
+    "length": 5.982875,
+    "spk_id": "090"
+  },
+  "065-100": {
+    "wav": "{data_root}/jvs065/parallel100/wav24kHz16bit/VOICEACTRESS100_100.wav",
+    "length": 10.848,
+    "spk_id": "065"
+  },
+  "045-086": {
+    "wav": "{data_root}/jvs045/parallel100/wav24kHz16bit/VOICEACTRESS100_086.wav",
+    "length": 7.052375,
+    "spk_id": "045"
+  },
+  "089-091": {
+    "wav": "{data_root}/jvs089/parallel100/wav24kHz16bit/VOICEACTRESS100_091.wav",
+    "length": 4.868333333333333,
+    "spk_id": "089"
+  },
+  "022-051": {
+    "wav": "{data_root}/jvs022/parallel100/wav24kHz16bit/VOICEACTRESS100_051.wav",
+    "length": 5.601583333333333,
+    "spk_id": "022"
+  },
+  "071-021": {
+    "wav": "{data_root}/jvs071/parallel100/wav24kHz16bit/VOICEACTRESS100_021.wav",
+    "length": 10.780041666666667,
+    "spk_id": "071"
+  },
+  "086-009": {
+    "wav": "{data_root}/jvs086/parallel100/wav24kHz16bit/VOICEACTRESS100_009.wav",
+    "length": 7.424833333333333,
+    "spk_id": "086"
+  },
+  "088-070": {
+    "wav": "{data_root}/jvs088/parallel100/wav24kHz16bit/VOICEACTRESS100_070.wav",
+    "length": 8.20075,
+    "spk_id": "088"
+  },
+  "051-090": {
+    "wav": "{data_root}/jvs051/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 8.374583333333334,
+    "spk_id": "051"
+  },
+  "068-090": {
+    "wav": "{data_root}/jvs068/parallel100/wav24kHz16bit/VOICEACTRESS100_090.wav",
+    "length": 6.778208333333334,
+    "spk_id": "068"
+  },
+  "038-039": {
+    "wav": "{data_root}/jvs038/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 6.731958333333333,
+    "spk_id": "038"
+  },
+  "100-053": {
+    "wav": "{data_root}/jvs100/parallel100/wav24kHz16bit/VOICEACTRESS100_053.wav",
+    "length": 6.887208333333334,
+    "spk_id": "100"
+  },
+  "024-008": {
+    "wav": "{data_root}/jvs024/parallel100/wav24kHz16bit/VOICEACTRESS100_008.wav",
+    "length": 8.002166666666668,
+    "spk_id": "024"
+  },
+  "060-011": {
+    "wav": "{data_root}/jvs060/parallel100/wav24kHz16bit/VOICEACTRESS100_011.wav",
+    "length": 7.28725,
+    "spk_id": "060"
+  },
+  "064-003": {
+    "wav": "{data_root}/jvs064/parallel100/wav24kHz16bit/VOICEACTRESS100_003.wav",
+    "length": 7.146916666666667,
+    "spk_id": "064"
+  },
+  "017-026": {
+    "wav": "{data_root}/jvs017/parallel100/wav24kHz16bit/VOICEACTRESS100_026.wav",
+    "length": 5.543,
+    "spk_id": "017"
+  },
+  "073-018": {
+    "wav": "{data_root}/jvs073/parallel100/wav24kHz16bit/VOICEACTRESS100_018.wav",
+    "length": 7.4895,
+    "spk_id": "073"
+  },
+  "056-017": {
+    "wav": "{data_root}/jvs056/parallel100/wav24kHz16bit/VOICEACTRESS100_017.wav",
+    "length": 6.205916666666667,
+    "spk_id": "056"
+  },
+  "034-039": {
+    "wav": "{data_root}/jvs034/parallel100/wav24kHz16bit/VOICEACTRESS100_039.wav",
+    "length": 7.166875,
+    "spk_id": "034"
+  },
+  "027-044": {
+    "wav": "{data_root}/jvs027/parallel100/wav24kHz16bit/VOICEACTRESS100_044.wav",
+    "length": 10.420708333333334,
+    "spk_id": "027"
+  },
+  "049-029": {
+    "wav": "{data_root}/jvs049/parallel100/wav24kHz16bit/VOICEACTRESS100_029.wav",
+    "length": 9.449208333333333,
+    "spk_id": "049"
+  },
+  "091-069": {
+    "wav": "{data_root}/jvs091/parallel100/wav24kHz16bit/VOICEACTRESS100_069.wav",
+    "length": 12.470083333333333,
+    "spk_id": "091"
+  },
+  "044-033": {
+    "wav": "{data_root}/jvs044/parallel100/wav24kHz16bit/VOICEACTRESS100_033.wav",
+    "length": 3.9162083333333335,
+    "spk_id": "044"
+  },
+  "019-036": {
+    "wav": "{data_root}/jvs019/parallel100/wav24kHz16bit/VOICEACTRESS100_036.wav",
+    "length": 8.174916666666666,
+    "spk_id": "019"
+  },
+  "037-038": {
+    "wav": "{data_root}/jvs037/parallel100/wav24kHz16bit/VOICEACTRESS100_038.wav",
+    "length": 6.8445,
+    "spk_id": "037"
+  },
+  "023-041": {
+    "wav": "{data_root}/jvs023/parallel100/wav24kHz16bit/VOICEACTRESS100_041.wav",
+    "length": 5.828125,
+    "spk_id": "023"
+  },
+  "062-014": {
+    "wav": "{data_root}/jvs062/parallel100/wav24kHz16bit/VOICEACTRESS100_014.wav",
+    "length": 3.4495833333333334,
+    "spk_id": "062"
+  }
+}
