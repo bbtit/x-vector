@@ -1,0 +1,4997 @@
+{
+  "001-035": {
+    "wav": "{data_root}/actor001/035.wav",
+    "length": 5.648916666666667,
+    "spk_id": "001"
+  },
+  "093-034": {
+    "wav": "{data_root}/actor093/034.wav",
+    "length": 2.9855416666666668,
+    "spk_id": "093"
+  },
+  "060-016": {
+    "wav": "{data_root}/actor060/016.wav",
+    "length": 4.205666666666667,
+    "spk_id": "060"
+  },
+  "028-091": {
+    "wav": "{data_root}/actor028/091.wav",
+    "length": 3.222916666666667,
+    "spk_id": "028"
+  },
+  "036-068": {
+    "wav": "{data_root}/actor036/068.wav",
+    "length": 5.450666666666667,
+    "spk_id": "036"
+  },
+  "091-051": {
+    "wav": "{data_root}/actor091/051.wav",
+    "length": 5.029791666666667,
+    "spk_id": "091"
+  },
+  "093-028": {
+    "wav": "{data_root}/actor093/028.wav",
+    "length": 6.934291666666667,
+    "spk_id": "093"
+  },
+  "067-034": {
+    "wav": "{data_root}/actor067/034.wav",
+    "length": 2.9142083333333333,
+    "spk_id": "067"
+  },
+  "014-079": {
+    "wav": "{data_root}/actor014/079.wav",
+    "length": 6.14575,
+    "spk_id": "014"
+  },
+  "093-085": {
+    "wav": "{data_root}/actor093/085.wav",
+    "length": 7.131166666666667,
+    "spk_id": "093"
+  },
+  "052-071": {
+    "wav": "{data_root}/actor052/071.wav",
+    "length": 5.2022916666666665,
+    "spk_id": "052"
+  },
+  "071-050": {
+    "wav": "{data_root}/actor071/050.wav",
+    "length": 7.414125,
+    "spk_id": "071"
+  },
+  "051-085": {
+    "wav": "{data_root}/actor051/085.wav",
+    "length": 7.9318333333333335,
+    "spk_id": "051"
+  },
+  "073-029": {
+    "wav": "{data_root}/actor073/029.wav",
+    "length": 6.1654583333333335,
+    "spk_id": "073"
+  },
+  "035-046": {
+    "wav": "{data_root}/actor035/046.wav",
+    "length": 5.717333333333333,
+    "spk_id": "035"
+  },
+  "056-096": {
+    "wav": "{data_root}/actor056/096.wav",
+    "length": 5.873625,
+    "spk_id": "056"
+  },
+  "092-037": {
+    "wav": "{data_root}/actor092/037.wav",
+    "length": 4.299,
+    "spk_id": "092"
+  },
+  "088-050": {
+    "wav": "{data_root}/actor088/050.wav",
+    "length": 5.6258333333333335,
+    "spk_id": "088"
+  },
+  "081-066": {
+    "wav": "{data_root}/actor081/066.wav",
+    "length": 4.510666666666666,
+    "spk_id": "081"
+  },
+  "027-018": {
+    "wav": "{data_root}/actor027/018.wav",
+    "length": 5.308333333333334,
+    "spk_id": "027"
+  },
+  "029-086": {
+    "wav": "{data_root}/actor029/086.wav",
+    "length": 5.345416666666667,
+    "spk_id": "029"
+  },
+  "064-019": {
+    "wav": "{data_root}/actor064/019.wav",
+    "length": 6.489416666666667,
+    "spk_id": "064"
+  },
+  "053-037": {
+    "wav": "{data_root}/actor053/037.wav",
+    "length": 4.236416666666667,
+    "spk_id": "053"
+  },
+  "051-055": {
+    "wav": "{data_root}/actor051/055.wav",
+    "length": 2.5140416666666665,
+    "spk_id": "051"
+  },
+  "013-071": {
+    "wav": "{data_root}/actor013/071.wav",
+    "length": 4.968541666666667,
+    "spk_id": "013"
+  },
+  "039-071": {
+    "wav": "{data_root}/actor039/071.wav",
+    "length": 4.695416666666667,
+    "spk_id": "039"
+  },
+  "046-054": {
+    "wav": "{data_root}/actor046/054.wav",
+    "length": 8.96725,
+    "spk_id": "046"
+  },
+  "080-018": {
+    "wav": "{data_root}/actor080/018.wav",
+    "length": 4.894208333333333,
+    "spk_id": "080"
+  },
+  "031-058": {
+    "wav": "{data_root}/actor031/058.wav",
+    "length": 4.137625,
+    "spk_id": "031"
+  },
+  "093-082": {
+    "wav": "{data_root}/actor093/082.wav",
+    "length": 4.917333333333334,
+    "spk_id": "093"
+  },
+  "012-053": {
+    "wav": "{data_root}/actor012/053.wav",
+    "length": 4.356125,
+    "spk_id": "012"
+  },
+  "052-002": {
+    "wav": "{data_root}/actor052/002.wav",
+    "length": 6.6342083333333335,
+    "spk_id": "052"
+  },
+  "027-076": {
+    "wav": "{data_root}/actor027/076.wav",
+    "length": 8.047208333333334,
+    "spk_id": "027"
+  },
+  "083-017": {
+    "wav": "{data_root}/actor083/017.wav",
+    "length": 5.461333333333333,
+    "spk_id": "083"
+  },
+  "011-067": {
+    "wav": "{data_root}/actor011/067.wav",
+    "length": 5.362875,
+    "spk_id": "011"
+  },
+  "028-030": {
+    "wav": "{data_root}/actor028/030.wav",
+    "length": 4.3915,
+    "spk_id": "028"
+  },
+  "100-068": {
+    "wav": "{data_root}/actor100/068.wav",
+    "length": 4.834625,
+    "spk_id": "100"
+  },
+  "078-089": {
+    "wav": "{data_root}/actor078/089.wav",
+    "length": 5.196166666666667,
+    "spk_id": "078"
+  },
+  "084-067": {
+    "wav": "{data_root}/actor084/067.wav",
+    "length": 6.544,
+    "spk_id": "084"
+  },
+  "018-023": {
+    "wav": "{data_root}/actor018/023.wav",
+    "length": 5.384416666666667,
+    "spk_id": "018"
+  },
+  "033-002": {
+    "wav": "{data_root}/actor033/002.wav",
+    "length": 5.503125,
+    "spk_id": "033"
+  },
+  "057-096": {
+    "wav": "{data_root}/actor057/096.wav",
+    "length": 6.203375,
+    "spk_id": "057"
+  },
+  "010-084": {
+    "wav": "{data_root}/actor010/084.wav",
+    "length": 5.640916666666667,
+    "spk_id": "010"
+  },
+  "075-011": {
+    "wav": "{data_root}/actor075/011.wav",
+    "length": 4.926291666666667,
+    "spk_id": "075"
+  },
+  "041-030": {
+    "wav": "{data_root}/actor041/030.wav",
+    "length": 4.312291666666667,
+    "spk_id": "041"
+  },
+  "034-059": {
+    "wav": "{data_root}/actor034/059.wav",
+    "length": 4.245583333333333,
+    "spk_id": "034"
+  },
+  "060-002": {
+    "wav": "{data_root}/actor060/002.wav",
+    "length": 6.267625,
+    "spk_id": "060"
+  },
+  "027-066": {
+    "wav": "{data_root}/actor027/066.wav",
+    "length": 5.724833333333334,
+    "spk_id": "027"
+  },
+  "001-069": {
+    "wav": "{data_root}/actor001/069.wav",
+    "length": 6.31725,
+    "spk_id": "001"
+  },
+  "054-026": {
+    "wav": "{data_root}/actor054/026.wav",
+    "length": 3.15225,
+    "spk_id": "054"
+  },
+  "040-068": {
+    "wav": "{data_root}/actor040/068.wav",
+    "length": 5.128666666666667,
+    "spk_id": "040"
+  },
+  "035-096": {
+    "wav": "{data_root}/actor035/096.wav",
+    "length": 8.512,
+    "spk_id": "035"
+  },
+  "049-005": {
+    "wav": "{data_root}/actor049/005.wav",
+    "length": 9.284375,
+    "spk_id": "049"
+  },
+  "040-038": {
+    "wav": "{data_root}/actor040/038.wav",
+    "length": 5.849958333333333,
+    "spk_id": "040"
+  },
+  "093-097": {
+    "wav": "{data_root}/actor093/097.wav",
+    "length": 6.501416666666667,
+    "spk_id": "093"
+  },
+  "097-014": {
+    "wav": "{data_root}/actor097/014.wav",
+    "length": 2.0646666666666667,
+    "spk_id": "097"
+  },
+  "088-098": {
+    "wav": "{data_root}/actor088/098.wav",
+    "length": 4.439666666666667,
+    "spk_id": "088"
+  },
+  "056-016": {
+    "wav": "{data_root}/actor056/016.wav",
+    "length": 3.839583333333333,
+    "spk_id": "056"
+  },
+  "043-054": {
+    "wav": "{data_root}/actor043/054.wav",
+    "length": 8.4325,
+    "spk_id": "043"
+  },
+  "034-088": {
+    "wav": "{data_root}/actor034/088.wav",
+    "length": 4.217083333333333,
+    "spk_id": "034"
+  },
+  "056-042": {
+    "wav": "{data_root}/actor056/042.wav",
+    "length": 3.33625,
+    "spk_id": "056"
+  },
+  "020-067": {
+    "wav": "{data_root}/actor020/067.wav",
+    "length": 3.8497083333333335,
+    "spk_id": "020"
+  },
+  "017-030": {
+    "wav": "{data_root}/actor017/030.wav",
+    "length": 4.491583333333334,
+    "spk_id": "017"
+  },
+  "018-065": {
+    "wav": "{data_root}/actor018/065.wav",
+    "length": 6.793958333333333,
+    "spk_id": "018"
+  },
+  "090-046": {
+    "wav": "{data_root}/actor090/046.wav",
+    "length": 5.315666666666667,
+    "spk_id": "090"
+  },
+  "005-050": {
+    "wav": "{data_root}/actor005/050.wav",
+    "length": 5.25825,
+    "spk_id": "005"
+  },
+  "037-004": {
+    "wav": "{data_root}/actor037/004.wav",
+    "length": 3.9343333333333335,
+    "spk_id": "037"
+  },
+  "058-028": {
+    "wav": "{data_root}/actor058/028.wav",
+    "length": 7.237875,
+    "spk_id": "058"
+  },
+  "034-005": {
+    "wav": "{data_root}/actor034/005.wav",
+    "length": 9.125833333333333,
+    "spk_id": "034"
+  },
+  "061-024": {
+    "wav": "{data_root}/actor061/024.wav",
+    "length": 5.8373333333333335,
+    "spk_id": "061"
+  },
+  "046-078": {
+    "wav": "{data_root}/actor046/078.wav",
+    "length": 6.923666666666667,
+    "spk_id": "046"
+  },
+  "052-061": {
+    "wav": "{data_root}/actor052/061.wav",
+    "length": 5.44275,
+    "spk_id": "052"
+  },
+  "079-066": {
+    "wav": "{data_root}/actor079/066.wav",
+    "length": 5.1634166666666665,
+    "spk_id": "079"
+  },
+  "091-084": {
+    "wav": "{data_root}/actor091/084.wav",
+    "length": 7.730833333333333,
+    "spk_id": "091"
+  },
+  "094-002": {
+    "wav": "{data_root}/actor094/002.wav",
+    "length": 6.980625,
+    "spk_id": "094"
+  },
+  "020-070": {
+    "wav": "{data_root}/actor020/070.wav",
+    "length": 4.362708333333333,
+    "spk_id": "020"
+  },
+  "059-097": {
+    "wav": "{data_root}/actor059/097.wav",
+    "length": 6.31975,
+    "spk_id": "059"
+  },
+  "059-046": {
+    "wav": "{data_root}/actor059/046.wav",
+    "length": 4.239,
+    "spk_id": "059"
+  },
+  "042-070": {
+    "wav": "{data_root}/actor042/070.wav",
+    "length": 5.243333333333333,
+    "spk_id": "042"
+  },
+  "048-014": {
+    "wav": "{data_root}/actor048/014.wav",
+    "length": 2.056625,
+    "spk_id": "048"
+  },
+  "057-039": {
+    "wav": "{data_root}/actor057/039.wav",
+    "length": 4.789166666666667,
+    "spk_id": "057"
+  },
+  "065-023": {
+    "wav": "{data_root}/actor065/023.wav",
+    "length": 4.912166666666667,
+    "spk_id": "065"
+  },
+  "045-007": {
+    "wav": "{data_root}/actor045/007.wav",
+    "length": 5.929583333333333,
+    "spk_id": "045"
+  },
+  "057-077": {
+    "wav": "{data_root}/actor057/077.wav",
+    "length": 6.4385,
+    "spk_id": "057"
+  },
+  "009-097": {
+    "wav": "{data_root}/actor009/097.wav",
+    "length": 7.0175833333333335,
+    "spk_id": "009"
+  },
+  "004-074": {
+    "wav": "{data_root}/actor004/074.wav",
+    "length": 3.9830833333333335,
+    "spk_id": "004"
+  },
+  "071-057": {
+    "wav": "{data_root}/actor071/057.wav",
+    "length": 4.38375,
+    "spk_id": "071"
+  },
+  "085-071": {
+    "wav": "{data_root}/actor085/071.wav",
+    "length": 4.486,
+    "spk_id": "085"
+  },
+  "014-077": {
+    "wav": "{data_root}/actor014/077.wav",
+    "length": 6.2549166666666665,
+    "spk_id": "014"
+  },
+  "090-064": {
+    "wav": "{data_root}/actor090/064.wav",
+    "length": 4.006666666666667,
+    "spk_id": "090"
+  },
+  "092-061": {
+    "wav": "{data_root}/actor092/061.wav",
+    "length": 5.073916666666666,
+    "spk_id": "092"
+  },
+  "063-010": {
+    "wav": "{data_root}/actor063/010.wav",
+    "length": 3.529333333333333,
+    "spk_id": "063"
+  },
+  "073-059": {
+    "wav": "{data_root}/actor073/059.wav",
+    "length": 4.681791666666666,
+    "spk_id": "073"
+  },
+  "100-039": {
+    "wav": "{data_root}/actor100/039.wav",
+    "length": 5.125875,
+    "spk_id": "100"
+  },
+  "093-017": {
+    "wav": "{data_root}/actor093/017.wav",
+    "length": 4.501041666666667,
+    "spk_id": "093"
+  },
+  "019-052": {
+    "wav": "{data_root}/actor019/052.wav",
+    "length": 5.756166666666667,
+    "spk_id": "019"
+  },
+  "055-006": {
+    "wav": "{data_root}/actor055/006.wav",
+    "length": 3.25925,
+    "spk_id": "055"
+  },
+  "077-014": {
+    "wav": "{data_root}/actor077/014.wav",
+    "length": 2.116416666666667,
+    "spk_id": "077"
+  },
+  "008-080": {
+    "wav": "{data_root}/actor008/080.wav",
+    "length": 5.060666666666667,
+    "spk_id": "008"
+  },
+  "011-025": {
+    "wav": "{data_root}/actor011/025.wav",
+    "length": 3.443125,
+    "spk_id": "011"
+  },
+  "021-092": {
+    "wav": "{data_root}/actor021/092.wav",
+    "length": 5.042708333333334,
+    "spk_id": "021"
+  },
+  "039-019": {
+    "wav": "{data_root}/actor039/019.wav",
+    "length": 5.616041666666667,
+    "spk_id": "039"
+  },
+  "025-010": {
+    "wav": "{data_root}/actor025/010.wav",
+    "length": 4.125416666666666,
+    "spk_id": "025"
+  },
+  "040-033": {
+    "wav": "{data_root}/actor040/033.wav",
+    "length": 3.1050833333333334,
+    "spk_id": "040"
+  },
+  "058-042": {
+    "wav": "{data_root}/actor058/042.wav",
+    "length": 3.927416666666667,
+    "spk_id": "058"
+  },
+  "054-092": {
+    "wav": "{data_root}/actor054/092.wav",
+    "length": 5.705625,
+    "spk_id": "054"
+  },
+  "016-026": {
+    "wav": "{data_root}/actor016/026.wav",
+    "length": 3.3549583333333333,
+    "spk_id": "016"
+  },
+  "033-051": {
+    "wav": "{data_root}/actor033/051.wav",
+    "length": 3.5307916666666666,
+    "spk_id": "033"
+  },
+  "096-006": {
+    "wav": "{data_root}/actor096/006.wav",
+    "length": 3.0077083333333334,
+    "spk_id": "096"
+  },
+  "085-049": {
+    "wav": "{data_root}/actor085/049.wav",
+    "length": 4.43525,
+    "spk_id": "085"
+  },
+  "047-058": {
+    "wav": "{data_root}/actor047/058.wav",
+    "length": 5.066583333333333,
+    "spk_id": "047"
+  },
+  "031-054": {
+    "wav": "{data_root}/actor031/054.wav",
+    "length": 7.835833333333333,
+    "spk_id": "031"
+  },
+  "015-082": {
+    "wav": "{data_root}/actor015/082.wav",
+    "length": 4.341333333333333,
+    "spk_id": "015"
+  },
+  "041-012": {
+    "wav": "{data_root}/actor041/012.wav",
+    "length": 4.473166666666667,
+    "spk_id": "041"
+  },
+  "037-094": {
+    "wav": "{data_root}/actor037/094.wav",
+    "length": 8.87125,
+    "spk_id": "037"
+  },
+  "099-015": {
+    "wav": "{data_root}/actor099/015.wav",
+    "length": 3.2045,
+    "spk_id": "099"
+  },
+  "040-069": {
+    "wav": "{data_root}/actor040/069.wav",
+    "length": 7.430958333333334,
+    "spk_id": "040"
+  },
+  "005-076": {
+    "wav": "{data_root}/actor005/076.wav",
+    "length": 6.851708333333334,
+    "spk_id": "005"
+  },
+  "040-060": {
+    "wav": "{data_root}/actor040/060.wav",
+    "length": 5.343833333333333,
+    "spk_id": "040"
+  },
+  "089-007": {
+    "wav": "{data_root}/actor089/007.wav",
+    "length": 5.6098333333333334,
+    "spk_id": "089"
+  },
+  "074-088": {
+    "wav": "{data_root}/actor074/088.wav",
+    "length": 3.9190833333333335,
+    "spk_id": "074"
+  },
+  "037-021": {
+    "wav": "{data_root}/actor037/021.wav",
+    "length": 4.324791666666667,
+    "spk_id": "037"
+  },
+  "039-066": {
+    "wav": "{data_root}/actor039/066.wav",
+    "length": 5.532,
+    "spk_id": "039"
+  },
+  "076-072": {
+    "wav": "{data_root}/actor076/072.wav",
+    "length": 4.544083333333333,
+    "spk_id": "076"
+  },
+  "068-085": {
+    "wav": "{data_root}/actor068/085.wav",
+    "length": 7.143625,
+    "spk_id": "068"
+  },
+  "011-090": {
+    "wav": "{data_root}/actor011/090.wav",
+    "length": 5.3665,
+    "spk_id": "011"
+  },
+  "017-061": {
+    "wav": "{data_root}/actor017/061.wav",
+    "length": 5.363666666666667,
+    "spk_id": "017"
+  },
+  "022-026": {
+    "wav": "{data_root}/actor022/026.wav",
+    "length": 3.491875,
+    "spk_id": "022"
+  },
+  "001-092": {
+    "wav": "{data_root}/actor001/092.wav",
+    "length": 5.375958333333333,
+    "spk_id": "001"
+  },
+  "024-002": {
+    "wav": "{data_root}/actor024/002.wav",
+    "length": 5.835833333333333,
+    "spk_id": "024"
+  },
+  "015-032": {
+    "wav": "{data_root}/actor015/032.wav",
+    "length": 5.93925,
+    "spk_id": "015"
+  },
+  "058-038": {
+    "wav": "{data_root}/actor058/038.wav",
+    "length": 5.2595833333333335,
+    "spk_id": "058"
+  },
+  "054-089": {
+    "wav": "{data_root}/actor054/089.wav",
+    "length": 5.297416666666667,
+    "spk_id": "054"
+  },
+  "074-039": {
+    "wav": "{data_root}/actor074/039.wav",
+    "length": 4.560125,
+    "spk_id": "074"
+  },
+  "026-050": {
+    "wav": "{data_root}/actor026/050.wav",
+    "length": 5.105,
+    "spk_id": "026"
+  },
+  "028-066": {
+    "wav": "{data_root}/actor028/066.wav",
+    "length": 5.81975,
+    "spk_id": "028"
+  },
+  "075-069": {
+    "wav": "{data_root}/actor075/069.wav",
+    "length": 7.412375,
+    "spk_id": "075"
+  },
+  "068-074": {
+    "wav": "{data_root}/actor068/074.wav",
+    "length": 3.9349583333333333,
+    "spk_id": "068"
+  },
+  "065-057": {
+    "wav": "{data_root}/actor065/057.wav",
+    "length": 4.1115,
+    "spk_id": "065"
+  },
+  "079-099": {
+    "wav": "{data_root}/actor079/099.wav",
+    "length": 3.6601666666666666,
+    "spk_id": "079"
+  },
+  "036-072": {
+    "wav": "{data_root}/actor036/072.wav",
+    "length": 6.668416666666666,
+    "spk_id": "036"
+  },
+  "046-043": {
+    "wav": "{data_root}/actor046/043.wav",
+    "length": 4.769083333333334,
+    "spk_id": "046"
+  },
+  "096-075": {
+    "wav": "{data_root}/actor096/075.wav",
+    "length": 4.492,
+    "spk_id": "096"
+  },
+  "025-019": {
+    "wav": "{data_root}/actor025/019.wav",
+    "length": 6.546541666666666,
+    "spk_id": "025"
+  },
+  "074-011": {
+    "wav": "{data_root}/actor074/011.wav",
+    "length": 4.960416666666666,
+    "spk_id": "074"
+  },
+  "059-011": {
+    "wav": "{data_root}/actor059/011.wav",
+    "length": 4.690125,
+    "spk_id": "059"
+  },
+  "097-017": {
+    "wav": "{data_root}/actor097/017.wav",
+    "length": 4.2396666666666665,
+    "spk_id": "097"
+  },
+  "025-047": {
+    "wav": "{data_root}/actor025/047.wav",
+    "length": 6.74125,
+    "spk_id": "025"
+  },
+  "030-096": {
+    "wav": "{data_root}/actor030/096.wav",
+    "length": 6.854916666666667,
+    "spk_id": "030"
+  },
+  "042-071": {
+    "wav": "{data_root}/actor042/071.wav",
+    "length": 4.6765,
+    "spk_id": "042"
+  },
+  "050-098": {
+    "wav": "{data_root}/actor050/098.wav",
+    "length": 4.565708333333333,
+    "spk_id": "050"
+  },
+  "060-090": {
+    "wav": "{data_root}/actor060/090.wav",
+    "length": 5.106833333333333,
+    "spk_id": "060"
+  },
+  "073-083": {
+    "wav": "{data_root}/actor073/083.wav",
+    "length": 4.580166666666667,
+    "spk_id": "073"
+  },
+  "065-048": {
+    "wav": "{data_root}/actor065/048.wav",
+    "length": 6.147833333333334,
+    "spk_id": "065"
+  },
+  "017-008": {
+    "wav": "{data_root}/actor017/008.wav",
+    "length": 5.83875,
+    "spk_id": "017"
+  },
+  "094-067": {
+    "wav": "{data_root}/actor094/067.wav",
+    "length": 6.758666666666667,
+    "spk_id": "094"
+  },
+  "020-080": {
+    "wav": "{data_root}/actor020/080.wav",
+    "length": 3.7035833333333334,
+    "spk_id": "020"
+  },
+  "052-009": {
+    "wav": "{data_root}/actor052/009.wav",
+    "length": 5.210083333333333,
+    "spk_id": "052"
+  },
+  "067-036": {
+    "wav": "{data_root}/actor067/036.wav",
+    "length": 4.841083333333334,
+    "spk_id": "067"
+  },
+  "061-070": {
+    "wav": "{data_root}/actor061/070.wav",
+    "length": 4.970833333333333,
+    "spk_id": "061"
+  },
+  "029-066": {
+    "wav": "{data_root}/actor029/066.wav",
+    "length": 5.057083333333333,
+    "spk_id": "029"
+  },
+  "057-041": {
+    "wav": "{data_root}/actor057/041.wav",
+    "length": 4.375041666666666,
+    "spk_id": "057"
+  },
+  "090-071": {
+    "wav": "{data_root}/actor090/071.wav",
+    "length": 5.170125,
+    "spk_id": "090"
+  },
+  "073-082": {
+    "wav": "{data_root}/actor073/082.wav",
+    "length": 4.974833333333334,
+    "spk_id": "073"
+  },
+  "067-028": {
+    "wav": "{data_root}/actor067/028.wav",
+    "length": 5.91825,
+    "spk_id": "067"
+  },
+  "013-085": {
+    "wav": "{data_root}/actor013/085.wav",
+    "length": 7.69025,
+    "spk_id": "013"
+  },
+  "023-037": {
+    "wav": "{data_root}/actor023/037.wav",
+    "length": 3.6531666666666665,
+    "spk_id": "023"
+  },
+  "093-025": {
+    "wav": "{data_root}/actor093/025.wav",
+    "length": 3.347166666666667,
+    "spk_id": "093"
+  },
+  "034-031": {
+    "wav": "{data_root}/actor034/031.wav",
+    "length": 3.1341666666666668,
+    "spk_id": "034"
+  },
+  "014-091": {
+    "wav": "{data_root}/actor014/091.wav",
+    "length": 3.1603333333333334,
+    "spk_id": "014"
+  },
+  "045-010": {
+    "wav": "{data_root}/actor045/010.wav",
+    "length": 3.5344166666666665,
+    "spk_id": "045"
+  },
+  "056-017": {
+    "wav": "{data_root}/actor056/017.wav",
+    "length": 4.13725,
+    "spk_id": "056"
+  },
+  "059-057": {
+    "wav": "{data_root}/actor059/057.wav",
+    "length": 3.9888333333333335,
+    "spk_id": "059"
+  },
+  "032-013": {
+    "wav": "{data_root}/actor032/013.wav",
+    "length": 3.577166666666667,
+    "spk_id": "032"
+  },
+  "064-090": {
+    "wav": "{data_root}/actor064/090.wav",
+    "length": 5.46325,
+    "spk_id": "064"
+  },
+  "017-086": {
+    "wav": "{data_root}/actor017/086.wav",
+    "length": 5.718583333333333,
+    "spk_id": "017"
+  },
+  "026-072": {
+    "wav": "{data_root}/actor026/072.wav",
+    "length": 4.672166666666667,
+    "spk_id": "026"
+  },
+  "012-082": {
+    "wav": "{data_root}/actor012/082.wav",
+    "length": 4.978833333333333,
+    "spk_id": "012"
+  },
+  "038-072": {
+    "wav": "{data_root}/actor038/072.wav",
+    "length": 5.233416666666667,
+    "spk_id": "038"
+  },
+  "072-007": {
+    "wav": "{data_root}/actor072/007.wav",
+    "length": 7.77625,
+    "spk_id": "072"
+  },
+  "089-040": {
+    "wav": "{data_root}/actor089/040.wav",
+    "length": 3.2375416666666665,
+    "spk_id": "089"
+  },
+  "088-003": {
+    "wav": "{data_root}/actor088/003.wav",
+    "length": 4.020333333333333,
+    "spk_id": "088"
+  },
+  "073-077": {
+    "wav": "{data_root}/actor073/077.wav",
+    "length": 5.944958333333333,
+    "spk_id": "073"
+  },
+  "054-059": {
+    "wav": "{data_root}/actor054/059.wav",
+    "length": 4.694833333333333,
+    "spk_id": "054"
+  },
+  "044-035": {
+    "wav": "{data_root}/actor044/035.wav",
+    "length": 5.416916666666666,
+    "spk_id": "044"
+  },
+  "052-029": {
+    "wav": "{data_root}/actor052/029.wav",
+    "length": 6.718458333333333,
+    "spk_id": "052"
+  },
+  "026-022": {
+    "wav": "{data_root}/actor026/022.wav",
+    "length": 8.589916666666667,
+    "spk_id": "026"
+  },
+  "047-068": {
+    "wav": "{data_root}/actor047/068.wav",
+    "length": 5.447541666666667,
+    "spk_id": "047"
+  },
+  "042-078": {
+    "wav": "{data_root}/actor042/078.wav",
+    "length": 6.699833333333333,
+    "spk_id": "042"
+  },
+  "071-044": {
+    "wav": "{data_root}/actor071/044.wav",
+    "length": 10.228875,
+    "spk_id": "071"
+  },
+  "099-039": {
+    "wav": "{data_root}/actor099/039.wav",
+    "length": 3.979625,
+    "spk_id": "099"
+  },
+  "086-003": {
+    "wav": "{data_root}/actor086/003.wav",
+    "length": 4.328625,
+    "spk_id": "086"
+  },
+  "018-044": {
+    "wav": "{data_root}/actor018/044.wav",
+    "length": 8.789333333333333,
+    "spk_id": "018"
+  },
+  "050-083": {
+    "wav": "{data_root}/actor050/083.wav",
+    "length": 4.532375,
+    "spk_id": "050"
+  },
+  "066-076": {
+    "wav": "{data_root}/actor066/076.wav",
+    "length": 8.026458333333334,
+    "spk_id": "066"
+  },
+  "078-044": {
+    "wav": "{data_root}/actor078/044.wav",
+    "length": 7.1365,
+    "spk_id": "078"
+  },
+  "035-030": {
+    "wav": "{data_root}/actor035/030.wav",
+    "length": 4.949333333333334,
+    "spk_id": "035"
+  },
+  "016-009": {
+    "wav": "{data_root}/actor016/009.wav",
+    "length": 4.481,
+    "spk_id": "016"
+  },
+  "050-066": {
+    "wav": "{data_root}/actor050/066.wav",
+    "length": 5.010791666666667,
+    "spk_id": "050"
+  },
+  "084-070": {
+    "wav": "{data_root}/actor084/070.wav",
+    "length": 8.028416666666667,
+    "spk_id": "084"
+  },
+  "007-043": {
+    "wav": "{data_root}/actor007/043.wav",
+    "length": 4.810333333333333,
+    "spk_id": "007"
+  },
+  "052-022": {
+    "wav": "{data_root}/actor052/022.wav",
+    "length": 10.490041666666666,
+    "spk_id": "052"
+  },
+  "092-036": {
+    "wav": "{data_root}/actor092/036.wav",
+    "length": 5.354583333333333,
+    "spk_id": "092"
+  },
+  "099-011": {
+    "wav": "{data_root}/actor099/011.wav",
+    "length": 4.117,
+    "spk_id": "099"
+  },
+  "042-013": {
+    "wav": "{data_root}/actor042/013.wav",
+    "length": 3.884708333333333,
+    "spk_id": "042"
+  },
+  "063-050": {
+    "wav": "{data_root}/actor063/050.wav",
+    "length": 6.055916666666667,
+    "spk_id": "063"
+  },
+  "014-066": {
+    "wav": "{data_root}/actor014/066.wav",
+    "length": 5.426458333333334,
+    "spk_id": "014"
+  },
+  "065-067": {
+    "wav": "{data_root}/actor065/067.wav",
+    "length": 5.666875,
+    "spk_id": "065"
+  },
+  "031-038": {
+    "wav": "{data_root}/actor031/038.wav",
+    "length": 4.537875,
+    "spk_id": "031"
+  },
+  "092-081": {
+    "wav": "{data_root}/actor092/081.wav",
+    "length": 5.8495,
+    "spk_id": "092"
+  },
+  "093-059": {
+    "wav": "{data_root}/actor093/059.wav",
+    "length": 4.6365,
+    "spk_id": "093"
+  },
+  "087-026": {
+    "wav": "{data_root}/actor087/026.wav",
+    "length": 3.4069166666666666,
+    "spk_id": "087"
+  },
+  "061-002": {
+    "wav": "{data_root}/actor061/002.wav",
+    "length": 5.904416666666667,
+    "spk_id": "061"
+  },
+  "041-093": {
+    "wav": "{data_root}/actor041/093.wav",
+    "length": 7.230666666666667,
+    "spk_id": "041"
+  },
+  "047-025": {
+    "wav": "{data_root}/actor047/025.wav",
+    "length": 3.5856666666666666,
+    "spk_id": "047"
+  },
+  "063-079": {
+    "wav": "{data_root}/actor063/079.wav",
+    "length": 6.2339166666666666,
+    "spk_id": "063"
+  },
+  "086-091": {
+    "wav": "{data_root}/actor086/091.wav",
+    "length": 3.3720416666666666,
+    "spk_id": "086"
+  },
+  "022-031": {
+    "wav": "{data_root}/actor022/031.wav",
+    "length": 3.1731666666666665,
+    "spk_id": "022"
+  },
+  "012-036": {
+    "wav": "{data_root}/actor012/036.wav",
+    "length": 5.326666666666667,
+    "spk_id": "012"
+  },
+  "100-045": {
+    "wav": "{data_root}/actor100/045.wav",
+    "length": 6.254583333333334,
+    "spk_id": "100"
+  },
+  "044-026": {
+    "wav": "{data_root}/actor044/026.wav",
+    "length": 3.2319166666666668,
+    "spk_id": "044"
+  },
+  "078-034": {
+    "wav": "{data_root}/actor078/034.wav",
+    "length": 3.16875,
+    "spk_id": "078"
+  },
+  "035-093": {
+    "wav": "{data_root}/actor035/093.wav",
+    "length": 8.544,
+    "spk_id": "035"
+  },
+  "080-010": {
+    "wav": "{data_root}/actor080/010.wav",
+    "length": 3.525875,
+    "spk_id": "080"
+  },
+  "007-066": {
+    "wav": "{data_root}/actor007/066.wav",
+    "length": 5.508791666666666,
+    "spk_id": "007"
+  },
+  "030-078": {
+    "wav": "{data_root}/actor030/078.wav",
+    "length": 7.112875,
+    "spk_id": "030"
+  },
+  "030-013": {
+    "wav": "{data_root}/actor030/013.wav",
+    "length": 4.552625,
+    "spk_id": "030"
+  },
+  "003-086": {
+    "wav": "{data_root}/actor003/086.wav",
+    "length": 6.614083333333333,
+    "spk_id": "003"
+  },
+  "002-006": {
+    "wav": "{data_root}/actor002/006.wav",
+    "length": 3.0615,
+    "spk_id": "002"
+  },
+  "079-002": {
+    "wav": "{data_root}/actor079/002.wav",
+    "length": 5.351,
+    "spk_id": "079"
+  },
+  "061-053": {
+    "wav": "{data_root}/actor061/053.wav",
+    "length": 4.069708333333334,
+    "spk_id": "061"
+  },
+  "013-037": {
+    "wav": "{data_root}/actor013/037.wav",
+    "length": 4.720833333333333,
+    "spk_id": "013"
+  },
+  "003-100": {
+    "wav": "{data_root}/actor003/100.wav",
+    "length": 7.608208333333334,
+    "spk_id": "003"
+  },
+  "017-079": {
+    "wav": "{data_root}/actor017/079.wav",
+    "length": 6.2815,
+    "spk_id": "017"
+  },
+  "050-075": {
+    "wav": "{data_root}/actor050/075.wav",
+    "length": 4.7636666666666665,
+    "spk_id": "050"
+  },
+  "025-008": {
+    "wav": "{data_root}/actor025/008.wav",
+    "length": 6.516916666666667,
+    "spk_id": "025"
+  },
+  "006-045": {
+    "wav": "{data_root}/actor006/045.wav",
+    "length": 6.615625,
+    "spk_id": "006"
+  },
+  "048-065": {
+    "wav": "{data_root}/actor048/065.wav",
+    "length": 6.460041666666666,
+    "spk_id": "048"
+  },
+  "068-035": {
+    "wav": "{data_root}/actor068/035.wav",
+    "length": 5.279541666666667,
+    "spk_id": "068"
+  },
+  "083-068": {
+    "wav": "{data_root}/actor083/068.wav",
+    "length": 5.143541666666667,
+    "spk_id": "083"
+  },
+  "003-063": {
+    "wav": "{data_root}/actor003/063.wav",
+    "length": 3.4635416666666665,
+    "spk_id": "003"
+  },
+  "063-049": {
+    "wav": "{data_root}/actor063/049.wav",
+    "length": 4.691041666666667,
+    "spk_id": "063"
+  },
+  "094-050": {
+    "wav": "{data_root}/actor094/050.wav",
+    "length": 6.4275,
+    "spk_id": "094"
+  },
+  "046-063": {
+    "wav": "{data_root}/actor046/063.wav",
+    "length": 3.1325,
+    "spk_id": "046"
+  },
+  "095-011": {
+    "wav": "{data_root}/actor095/011.wav",
+    "length": 4.908833333333333,
+    "spk_id": "095"
+  },
+  "082-064": {
+    "wav": "{data_root}/actor082/064.wav",
+    "length": 3.709,
+    "spk_id": "082"
+  },
+  "087-064": {
+    "wav": "{data_root}/actor087/064.wav",
+    "length": 4.093833333333333,
+    "spk_id": "087"
+  },
+  "024-023": {
+    "wav": "{data_root}/actor024/023.wav",
+    "length": 4.960625,
+    "spk_id": "024"
+  },
+  "044-083": {
+    "wav": "{data_root}/actor044/083.wav",
+    "length": 4.718166666666667,
+    "spk_id": "044"
+  },
+  "086-036": {
+    "wav": "{data_root}/actor086/036.wav",
+    "length": 5.6650833333333335,
+    "spk_id": "086"
+  },
+  "017-039": {
+    "wav": "{data_root}/actor017/039.wav",
+    "length": 5.128666666666667,
+    "spk_id": "017"
+  },
+  "056-023": {
+    "wav": "{data_root}/actor056/023.wav",
+    "length": 4.081083333333333,
+    "spk_id": "056"
+  },
+  "032-066": {
+    "wav": "{data_root}/actor032/066.wav",
+    "length": 4.720125,
+    "spk_id": "032"
+  },
+  "027-010": {
+    "wav": "{data_root}/actor027/010.wav",
+    "length": 3.6886666666666668,
+    "spk_id": "027"
+  },
+  "015-075": {
+    "wav": "{data_root}/actor015/075.wav",
+    "length": 4.0841666666666665,
+    "spk_id": "015"
+  },
+  "005-064": {
+    "wav": "{data_root}/actor005/064.wav",
+    "length": 3.4865833333333334,
+    "spk_id": "005"
+  },
+  "049-065": {
+    "wav": "{data_root}/actor049/065.wav",
+    "length": 6.319541666666667,
+    "spk_id": "049"
+  },
+  "095-092": {
+    "wav": "{data_root}/actor095/092.wav",
+    "length": 5.5499583333333335,
+    "spk_id": "095"
+  },
+  "039-031": {
+    "wav": "{data_root}/actor039/031.wav",
+    "length": 3.53925,
+    "spk_id": "039"
+  },
+  "028-074": {
+    "wav": "{data_root}/actor028/074.wav",
+    "length": 4.013,
+    "spk_id": "028"
+  },
+  "091-010": {
+    "wav": "{data_root}/actor091/010.wav",
+    "length": 4.594916666666666,
+    "spk_id": "091"
+  },
+  "014-037": {
+    "wav": "{data_root}/actor014/037.wav",
+    "length": 3.9055,
+    "spk_id": "014"
+  },
+  "072-077": {
+    "wav": "{data_root}/actor072/077.wav",
+    "length": 7.888583333333333,
+    "spk_id": "072"
+  },
+  "049-023": {
+    "wav": "{data_root}/actor049/023.wav",
+    "length": 5.6074166666666665,
+    "spk_id": "049"
+  },
+  "054-021": {
+    "wav": "{data_root}/actor054/021.wav",
+    "length": 4.6015,
+    "spk_id": "054"
+  },
+  "087-049": {
+    "wav": "{data_root}/actor087/049.wav",
+    "length": 4.596583333333333,
+    "spk_id": "087"
+  },
+  "063-070": {
+    "wav": "{data_root}/actor063/070.wav",
+    "length": 5.6695,
+    "spk_id": "063"
+  },
+  "003-026": {
+    "wav": "{data_root}/actor003/026.wav",
+    "length": 3.822583333333333,
+    "spk_id": "003"
+  },
+  "097-050": {
+    "wav": "{data_root}/actor097/050.wav",
+    "length": 5.639333333333333,
+    "spk_id": "097"
+  },
+  "012-063": {
+    "wav": "{data_root}/actor012/063.wav",
+    "length": 3.113583333333333,
+    "spk_id": "012"
+  },
+  "078-015": {
+    "wav": "{data_root}/actor078/015.wav",
+    "length": 3.891166666666667,
+    "spk_id": "078"
+  },
+  "026-025": {
+    "wav": "{data_root}/actor026/025.wav",
+    "length": 3.1549583333333335,
+    "spk_id": "026"
+  },
+  "062-004": {
+    "wav": "{data_root}/actor062/004.wav",
+    "length": 5.059375,
+    "spk_id": "062"
+  },
+  "071-074": {
+    "wav": "{data_root}/actor071/074.wav",
+    "length": 5.140583333333334,
+    "spk_id": "071"
+  },
+  "028-019": {
+    "wav": "{data_root}/actor028/019.wav",
+    "length": 6.084833333333333,
+    "spk_id": "028"
+  },
+  "010-077": {
+    "wav": "{data_root}/actor010/077.wav",
+    "length": 6.678083333333333,
+    "spk_id": "010"
+  },
+  "063-085": {
+    "wav": "{data_root}/actor063/085.wav",
+    "length": 8.051208333333333,
+    "spk_id": "063"
+  },
+  "043-070": {
+    "wav": "{data_root}/actor043/070.wav",
+    "length": 5.102708333333333,
+    "spk_id": "043"
+  },
+  "012-013": {
+    "wav": "{data_root}/actor012/013.wav",
+    "length": 3.95075,
+    "spk_id": "012"
+  },
+  "065-013": {
+    "wav": "{data_root}/actor065/013.wav",
+    "length": 4.234375,
+    "spk_id": "065"
+  },
+  "049-022": {
+    "wav": "{data_root}/actor049/022.wav",
+    "length": 10.312416666666667,
+    "spk_id": "049"
+  },
+  "011-085": {
+    "wav": "{data_root}/actor011/085.wav",
+    "length": 7.532666666666667,
+    "spk_id": "011"
+  },
+  "011-012": {
+    "wav": "{data_root}/actor011/012.wav",
+    "length": 3.87025,
+    "spk_id": "011"
+  },
+  "100-032": {
+    "wav": "{data_root}/actor100/032.wav",
+    "length": 7.33875,
+    "spk_id": "100"
+  },
+  "035-027": {
+    "wav": "{data_root}/actor035/027.wav",
+    "length": 6.172416666666667,
+    "spk_id": "035"
+  },
+  "011-019": {
+    "wav": "{data_root}/actor011/019.wav",
+    "length": 4.965,
+    "spk_id": "011"
+  },
+  "089-079": {
+    "wav": "{data_root}/actor089/079.wav",
+    "length": 5.953916666666666,
+    "spk_id": "089"
+  },
+  "022-070": {
+    "wav": "{data_root}/actor022/070.wav",
+    "length": 5.623833333333334,
+    "spk_id": "022"
+  },
+  "044-091": {
+    "wav": "{data_root}/actor044/091.wav",
+    "length": 3.183625,
+    "spk_id": "044"
+  },
+  "072-018": {
+    "wav": "{data_root}/actor072/018.wav",
+    "length": 6.44025,
+    "spk_id": "072"
+  },
+  "046-012": {
+    "wav": "{data_root}/actor046/012.wav",
+    "length": 4.284458333333333,
+    "spk_id": "046"
+  },
+  "042-014": {
+    "wav": "{data_root}/actor042/014.wav",
+    "length": 2.267,
+    "spk_id": "042"
+  },
+  "087-065": {
+    "wav": "{data_root}/actor087/065.wav",
+    "length": 6.75475,
+    "spk_id": "087"
+  },
+  "053-069": {
+    "wav": "{data_root}/actor053/069.wav",
+    "length": 6.702708333333334,
+    "spk_id": "053"
+  },
+  "013-098": {
+    "wav": "{data_root}/actor013/098.wav",
+    "length": 4.335,
+    "spk_id": "013"
+  },
+  "018-041": {
+    "wav": "{data_root}/actor018/041.wav",
+    "length": 5.125958333333333,
+    "spk_id": "018"
+  },
+  "086-052": {
+    "wav": "{data_root}/actor086/052.wav",
+    "length": 6.0335,
+    "spk_id": "086"
+  },
+  "052-095": {
+    "wav": "{data_root}/actor052/095.wav",
+    "length": 5.945666666666667,
+    "spk_id": "052"
+  },
+  "051-050": {
+    "wav": "{data_root}/actor051/050.wav",
+    "length": 5.782666666666667,
+    "spk_id": "051"
+  },
+  "087-016": {
+    "wav": "{data_root}/actor087/016.wav",
+    "length": 4.203291666666667,
+    "spk_id": "087"
+  },
+  "028-047": {
+    "wav": "{data_root}/actor028/047.wav",
+    "length": 6.422583333333334,
+    "spk_id": "028"
+  },
+  "044-015": {
+    "wav": "{data_root}/actor044/015.wav",
+    "length": 3.7375,
+    "spk_id": "044"
+  },
+  "079-059": {
+    "wav": "{data_root}/actor079/059.wav",
+    "length": 4.742291666666667,
+    "spk_id": "079"
+  },
+  "066-075": {
+    "wav": "{data_root}/actor066/075.wav",
+    "length": 4.839625,
+    "spk_id": "066"
+  },
+  "043-016": {
+    "wav": "{data_root}/actor043/016.wav",
+    "length": 3.895583333333333,
+    "spk_id": "043"
+  },
+  "046-027": {
+    "wav": "{data_root}/actor046/027.wav",
+    "length": 4.93875,
+    "spk_id": "046"
+  },
+  "040-020": {
+    "wav": "{data_root}/actor040/020.wav",
+    "length": 5.310791666666667,
+    "spk_id": "040"
+  },
+  "056-039": {
+    "wav": "{data_root}/actor056/039.wav",
+    "length": 4.307833333333333,
+    "spk_id": "056"
+  },
+  "031-046": {
+    "wav": "{data_root}/actor031/046.wav",
+    "length": 3.825833333333333,
+    "spk_id": "031"
+  },
+  "061-063": {
+    "wav": "{data_root}/actor061/063.wav",
+    "length": 3.032208333333333,
+    "spk_id": "061"
+  },
+  "016-060": {
+    "wav": "{data_root}/actor016/060.wav",
+    "length": 5.782416666666666,
+    "spk_id": "016"
+  },
+  "039-097": {
+    "wav": "{data_root}/actor039/097.wav",
+    "length": 6.412458333333333,
+    "spk_id": "039"
+  },
+  "045-069": {
+    "wav": "{data_root}/actor045/069.wav",
+    "length": 5.855583333333334,
+    "spk_id": "045"
+  },
+  "015-002": {
+    "wav": "{data_root}/actor015/002.wav",
+    "length": 5.109583333333333,
+    "spk_id": "015"
+  },
+  "001-072": {
+    "wav": "{data_root}/actor001/072.wav",
+    "length": 5.0775,
+    "spk_id": "001"
+  },
+  "030-094": {
+    "wav": "{data_root}/actor030/094.wav",
+    "length": 10.470708333333333,
+    "spk_id": "030"
+  },
+  "092-065": {
+    "wav": "{data_root}/actor092/065.wav",
+    "length": 5.90725,
+    "spk_id": "092"
+  },
+  "029-018": {
+    "wav": "{data_root}/actor029/018.wav",
+    "length": 5.078375,
+    "spk_id": "029"
+  },
+  "051-035": {
+    "wav": "{data_root}/actor051/035.wav",
+    "length": 5.26775,
+    "spk_id": "051"
+  },
+  "095-055": {
+    "wav": "{data_root}/actor095/055.wav",
+    "length": 2.622916666666667,
+    "spk_id": "095"
+  },
+  "073-075": {
+    "wav": "{data_root}/actor073/075.wav",
+    "length": 4.815333333333333,
+    "spk_id": "073"
+  },
+  "076-036": {
+    "wav": "{data_root}/actor076/036.wav",
+    "length": 4.4599166666666665,
+    "spk_id": "076"
+  },
+  "096-053": {
+    "wav": "{data_root}/actor096/053.wav",
+    "length": 4.332666666666666,
+    "spk_id": "096"
+  },
+  "040-081": {
+    "wav": "{data_root}/actor040/081.wav",
+    "length": 6.898875,
+    "spk_id": "040"
+  },
+  "093-055": {
+    "wav": "{data_root}/actor093/055.wav",
+    "length": 2.7625416666666665,
+    "spk_id": "093"
+  },
+  "085-036": {
+    "wav": "{data_root}/actor085/036.wav",
+    "length": 5.339916666666666,
+    "spk_id": "085"
+  },
+  "054-030": {
+    "wav": "{data_root}/actor054/030.wav",
+    "length": 4.1475,
+    "spk_id": "054"
+  },
+  "095-073": {
+    "wav": "{data_root}/actor095/073.wav",
+    "length": 5.059125,
+    "spk_id": "095"
+  },
+  "065-024": {
+    "wav": "{data_root}/actor065/024.wav",
+    "length": 6.255458333333333,
+    "spk_id": "065"
+  },
+  "074-012": {
+    "wav": "{data_root}/actor074/012.wav",
+    "length": 4.039041666666667,
+    "spk_id": "074"
+  },
+  "005-014": {
+    "wav": "{data_root}/actor005/014.wav",
+    "length": 2.1045416666666665,
+    "spk_id": "005"
+  },
+  "085-007": {
+    "wav": "{data_root}/actor085/007.wav",
+    "length": 5.831333333333333,
+    "spk_id": "085"
+  },
+  "038-083": {
+    "wav": "{data_root}/actor038/083.wav",
+    "length": 4.939583333333333,
+    "spk_id": "038"
+  },
+  "053-081": {
+    "wav": "{data_root}/actor053/081.wav",
+    "length": 6.6662083333333335,
+    "spk_id": "053"
+  },
+  "098-053": {
+    "wav": "{data_root}/actor098/053.wav",
+    "length": 4.294833333333333,
+    "spk_id": "098"
+  },
+  "013-080": {
+    "wav": "{data_root}/actor013/080.wav",
+    "length": 4.262625,
+    "spk_id": "013"
+  },
+  "077-094": {
+    "wav": "{data_root}/actor077/094.wav",
+    "length": 8.831833333333334,
+    "spk_id": "077"
+  },
+  "087-027": {
+    "wav": "{data_root}/actor087/027.wav",
+    "length": 5.258416666666666,
+    "spk_id": "087"
+  },
+  "063-076": {
+    "wav": "{data_root}/actor063/076.wav",
+    "length": 8.451833333333333,
+    "spk_id": "063"
+  },
+  "048-030": {
+    "wav": "{data_root}/actor048/030.wav",
+    "length": 3.8647916666666666,
+    "spk_id": "048"
+  },
+  "050-091": {
+    "wav": "{data_root}/actor050/091.wav",
+    "length": 2.8175833333333333,
+    "spk_id": "050"
+  },
+  "072-078": {
+    "wav": "{data_root}/actor072/078.wav",
+    "length": 8.228333333333333,
+    "spk_id": "072"
+  },
+  "080-093": {
+    "wav": "{data_root}/actor080/093.wav",
+    "length": 7.383666666666667,
+    "spk_id": "080"
+  },
+  "041-035": {
+    "wav": "{data_root}/actor041/035.wav",
+    "length": 5.714,
+    "spk_id": "041"
+  },
+  "023-001": {
+    "wav": "{data_root}/actor023/001.wav",
+    "length": 4.990666666666667,
+    "spk_id": "023"
+  },
+  "005-020": {
+    "wav": "{data_root}/actor005/020.wav",
+    "length": 4.681333333333333,
+    "spk_id": "005"
+  },
+  "091-036": {
+    "wav": "{data_root}/actor091/036.wav",
+    "length": 6.535833333333334,
+    "spk_id": "091"
+  },
+  "018-085": {
+    "wav": "{data_root}/actor018/085.wav",
+    "length": 9.627083333333333,
+    "spk_id": "018"
+  },
+  "073-033": {
+    "wav": "{data_root}/actor073/033.wav",
+    "length": 2.761125,
+    "spk_id": "073"
+  },
+  "007-068": {
+    "wav": "{data_root}/actor007/068.wav",
+    "length": 4.536833333333333,
+    "spk_id": "007"
+  },
+  "097-094": {
+    "wav": "{data_root}/actor097/094.wav",
+    "length": 11.188208333333334,
+    "spk_id": "097"
+  },
+  "016-065": {
+    "wav": "{data_root}/actor016/065.wav",
+    "length": 6.811875,
+    "spk_id": "016"
+  },
+  "023-045": {
+    "wav": "{data_root}/actor023/045.wav",
+    "length": 5.049875,
+    "spk_id": "023"
+  },
+  "081-002": {
+    "wav": "{data_root}/actor081/002.wav",
+    "length": 5.305416666666667,
+    "spk_id": "081"
+  },
+  "044-072": {
+    "wav": "{data_root}/actor044/072.wav",
+    "length": 4.922958333333334,
+    "spk_id": "044"
+  },
+  "010-080": {
+    "wav": "{data_root}/actor010/080.wav",
+    "length": 5.022166666666666,
+    "spk_id": "010"
+  },
+  "044-025": {
+    "wav": "{data_root}/actor044/025.wav",
+    "length": 3.0736666666666665,
+    "spk_id": "044"
+  },
+  "085-060": {
+    "wav": "{data_root}/actor085/060.wav",
+    "length": 4.64925,
+    "spk_id": "085"
+  },
+  "063-096": {
+    "wav": "{data_root}/actor063/096.wav",
+    "length": 7.072125,
+    "spk_id": "063"
+  },
+  "037-058": {
+    "wav": "{data_root}/actor037/058.wav",
+    "length": 4.033291666666667,
+    "spk_id": "037"
+  },
+  "080-046": {
+    "wav": "{data_root}/actor080/046.wav",
+    "length": 4.326083333333333,
+    "spk_id": "080"
+  },
+  "085-062": {
+    "wav": "{data_root}/actor085/062.wav",
+    "length": 5.5105,
+    "spk_id": "085"
+  },
+  "052-067": {
+    "wav": "{data_root}/actor052/067.wav",
+    "length": 5.406416666666667,
+    "spk_id": "052"
+  },
+  "019-015": {
+    "wav": "{data_root}/actor019/015.wav",
+    "length": 3.63425,
+    "spk_id": "019"
+  },
+  "079-037": {
+    "wav": "{data_root}/actor079/037.wav",
+    "length": 3.9629166666666666,
+    "spk_id": "079"
+  },
+  "017-076": {
+    "wav": "{data_root}/actor017/076.wav",
+    "length": 9.2665,
+    "spk_id": "017"
+  },
+  "017-069": {
+    "wav": "{data_root}/actor017/069.wav",
+    "length": 7.114166666666667,
+    "spk_id": "017"
+  },
+  "081-077": {
+    "wav": "{data_root}/actor081/077.wav",
+    "length": 5.526458333333333,
+    "spk_id": "081"
+  },
+  "085-090": {
+    "wav": "{data_root}/actor085/090.wav",
+    "length": 5.0115,
+    "spk_id": "085"
+  },
+  "071-067": {
+    "wav": "{data_root}/actor071/067.wav",
+    "length": 6.963708333333333,
+    "spk_id": "071"
+  },
+  "085-031": {
+    "wav": "{data_root}/actor085/031.wav",
+    "length": 3.236666666666667,
+    "spk_id": "085"
+  },
+  "007-001": {
+    "wav": "{data_root}/actor007/001.wav",
+    "length": 5.45775,
+    "spk_id": "007"
+  },
+  "095-036": {
+    "wav": "{data_root}/actor095/036.wav",
+    "length": 5.1630416666666665,
+    "spk_id": "095"
+  },
+  "068-003": {
+    "wav": "{data_root}/actor068/003.wav",
+    "length": 3.809,
+    "spk_id": "068"
+  },
+  "091-075": {
+    "wav": "{data_root}/actor091/075.wav",
+    "length": 6.128916666666667,
+    "spk_id": "091"
+  },
+  "046-076": {
+    "wav": "{data_root}/actor046/076.wav",
+    "length": 7.881833333333334,
+    "spk_id": "046"
+  },
+  "012-030": {
+    "wav": "{data_root}/actor012/030.wav",
+    "length": 4.037416666666667,
+    "spk_id": "012"
+  },
+  "021-078": {
+    "wav": "{data_root}/actor021/078.wav",
+    "length": 6.236125,
+    "spk_id": "021"
+  },
+  "087-048": {
+    "wav": "{data_root}/actor087/048.wav",
+    "length": 6.161791666666667,
+    "spk_id": "087"
+  },
+  "065-035": {
+    "wav": "{data_root}/actor065/035.wav",
+    "length": 5.9210416666666665,
+    "spk_id": "065"
+  },
+  "087-034": {
+    "wav": "{data_root}/actor087/034.wav",
+    "length": 3.0580833333333333,
+    "spk_id": "087"
+  },
+  "044-033": {
+    "wav": "{data_root}/actor044/033.wav",
+    "length": 2.6107916666666666,
+    "spk_id": "044"
+  },
+  "088-035": {
+    "wav": "{data_root}/actor088/035.wav",
+    "length": 5.417333333333334,
+    "spk_id": "088"
+  },
+  "004-014": {
+    "wav": "{data_root}/actor004/014.wav",
+    "length": 2.1195,
+    "spk_id": "004"
+  },
+  "035-092": {
+    "wav": "{data_root}/actor035/092.wav",
+    "length": 6.069333333333334,
+    "spk_id": "035"
+  },
+  "066-018": {
+    "wav": "{data_root}/actor066/018.wav",
+    "length": 5.050041666666667,
+    "spk_id": "066"
+  },
+  "005-044": {
+    "wav": "{data_root}/actor005/044.wav",
+    "length": 6.510875,
+    "spk_id": "005"
+  },
+  "032-078": {
+    "wav": "{data_root}/actor032/078.wav",
+    "length": 5.671666666666667,
+    "spk_id": "032"
+  },
+  "037-093": {
+    "wav": "{data_root}/actor037/093.wav",
+    "length": 6.581791666666667,
+    "spk_id": "037"
+  },
+  "030-091": {
+    "wav": "{data_root}/actor030/091.wav",
+    "length": 3.069166666666667,
+    "spk_id": "030"
+  },
+  "047-039": {
+    "wav": "{data_root}/actor047/039.wav",
+    "length": 5.684166666666667,
+    "spk_id": "047"
+  },
+  "002-054": {
+    "wav": "{data_root}/actor002/054.wav",
+    "length": 8.190833333333334,
+    "spk_id": "002"
+  },
+  "043-028": {
+    "wav": "{data_root}/actor043/028.wav",
+    "length": 5.917416666666667,
+    "spk_id": "043"
+  },
+  "060-038": {
+    "wav": "{data_root}/actor060/038.wav",
+    "length": 5.167166666666667,
+    "spk_id": "060"
+  },
+  "031-031": {
+    "wav": "{data_root}/actor031/031.wav",
+    "length": 3.1021666666666667,
+    "spk_id": "031"
+  },
+  "076-049": {
+    "wav": "{data_root}/actor076/049.wav",
+    "length": 3.7645,
+    "spk_id": "076"
+  },
+  "051-002": {
+    "wav": "{data_root}/actor051/002.wav",
+    "length": 5.546333333333333,
+    "spk_id": "051"
+  },
+  "045-096": {
+    "wav": "{data_root}/actor045/096.wav",
+    "length": 5.315791666666667,
+    "spk_id": "045"
+  },
+  "044-085": {
+    "wav": "{data_root}/actor044/085.wav",
+    "length": 7.301833333333334,
+    "spk_id": "044"
+  },
+  "075-015": {
+    "wav": "{data_root}/actor075/015.wav",
+    "length": 3.908541666666667,
+    "spk_id": "075"
+  },
+  "061-073": {
+    "wav": "{data_root}/actor061/073.wav",
+    "length": 4.548666666666667,
+    "spk_id": "061"
+  },
+  "043-092": {
+    "wav": "{data_root}/actor043/092.wav",
+    "length": 4.761416666666666,
+    "spk_id": "043"
+  },
+  "024-022": {
+    "wav": "{data_root}/actor024/022.wav",
+    "length": 8.988375,
+    "spk_id": "024"
+  },
+  "002-088": {
+    "wav": "{data_root}/actor002/088.wav",
+    "length": 4.234208333333333,
+    "spk_id": "002"
+  },
+  "009-061": {
+    "wav": "{data_root}/actor009/061.wav",
+    "length": 4.956,
+    "spk_id": "009"
+  },
+  "046-038": {
+    "wav": "{data_root}/actor046/038.wav",
+    "length": 5.241666666666666,
+    "spk_id": "046"
+  },
+  "046-051": {
+    "wav": "{data_root}/actor046/051.wav",
+    "length": 3.7729583333333334,
+    "spk_id": "046"
+  },
+  "034-051": {
+    "wav": "{data_root}/actor034/051.wav",
+    "length": 3.637958333333333,
+    "spk_id": "034"
+  },
+  "010-041": {
+    "wav": "{data_root}/actor010/041.wav",
+    "length": 4.398583333333334,
+    "spk_id": "010"
+  },
+  "066-035": {
+    "wav": "{data_root}/actor066/035.wav",
+    "length": 5.722333333333333,
+    "spk_id": "066"
+  },
+  "063-071": {
+    "wav": "{data_root}/actor063/071.wav",
+    "length": 4.4783333333333335,
+    "spk_id": "063"
+  },
+  "026-054": {
+    "wav": "{data_root}/actor026/054.wav",
+    "length": 8.320333333333334,
+    "spk_id": "026"
+  },
+  "081-092": {
+    "wav": "{data_root}/actor081/092.wav",
+    "length": 4.728041666666667,
+    "spk_id": "081"
+  },
+  "062-051": {
+    "wav": "{data_root}/actor062/051.wav",
+    "length": 4.246333333333333,
+    "spk_id": "062"
+  },
+  "061-035": {
+    "wav": "{data_root}/actor061/035.wav",
+    "length": 5.297083333333333,
+    "spk_id": "061"
+  },
+  "019-094": {
+    "wav": "{data_root}/actor019/094.wav",
+    "length": 9.287958333333334,
+    "spk_id": "019"
+  },
+  "012-097": {
+    "wav": "{data_root}/actor012/097.wav",
+    "length": 6.602833333333334,
+    "spk_id": "012"
+  },
+  "021-001": {
+    "wav": "{data_root}/actor021/001.wav",
+    "length": 5.832041666666667,
+    "spk_id": "021"
+  },
+  "059-013": {
+    "wav": "{data_root}/actor059/013.wav",
+    "length": 3.96525,
+    "spk_id": "059"
+  },
+  "080-025": {
+    "wav": "{data_root}/actor080/025.wav",
+    "length": 3.1855,
+    "spk_id": "080"
+  },
+  "062-060": {
+    "wav": "{data_root}/actor062/060.wav",
+    "length": 5.069916666666667,
+    "spk_id": "062"
+  },
+  "004-047": {
+    "wav": "{data_root}/actor004/047.wav",
+    "length": 6.422625,
+    "spk_id": "004"
+  },
+  "099-054": {
+    "wav": "{data_root}/actor099/054.wav",
+    "length": 7.226708333333334,
+    "spk_id": "099"
+  },
+  "071-036": {
+    "wav": "{data_root}/actor071/036.wav",
+    "length": 7.496416666666667,
+    "spk_id": "071"
+  },
+  "017-051": {
+    "wav": "{data_root}/actor017/051.wav",
+    "length": 4.0105,
+    "spk_id": "017"
+  },
+  "086-008": {
+    "wav": "{data_root}/actor086/008.wav",
+    "length": 6.130916666666667,
+    "spk_id": "086"
+  },
+  "005-035": {
+    "wav": "{data_root}/actor005/035.wav",
+    "length": 5.2679583333333335,
+    "spk_id": "005"
+  },
+  "069-063": {
+    "wav": "{data_root}/actor069/063.wav",
+    "length": 3.4691666666666667,
+    "spk_id": "069"
+  },
+  "003-002": {
+    "wav": "{data_root}/actor003/002.wav",
+    "length": 6.895458333333333,
+    "spk_id": "003"
+  },
+  "003-053": {
+    "wav": "{data_root}/actor003/053.wav",
+    "length": 4.903208333333334,
+    "spk_id": "003"
+  },
+  "068-086": {
+    "wav": "{data_root}/actor068/086.wav",
+    "length": 5.397083333333334,
+    "spk_id": "068"
+  },
+  "022-049": {
+    "wav": "{data_root}/actor022/049.wav",
+    "length": 4.173041666666666,
+    "spk_id": "022"
+  },
+  "083-098": {
+    "wav": "{data_root}/actor083/098.wav",
+    "length": 4.942208333333333,
+    "spk_id": "083"
+  },
+  "002-030": {
+    "wav": "{data_root}/actor002/030.wav",
+    "length": 3.8196666666666665,
+    "spk_id": "002"
+  },
+  "030-003": {
+    "wav": "{data_root}/actor030/003.wav",
+    "length": 3.947416666666667,
+    "spk_id": "030"
+  },
+  "011-023": {
+    "wav": "{data_root}/actor011/023.wav",
+    "length": 5.155625,
+    "spk_id": "011"
+  },
+  "092-041": {
+    "wav": "{data_root}/actor092/041.wav",
+    "length": 4.281583333333334,
+    "spk_id": "092"
+  },
+  "062-065": {
+    "wav": "{data_root}/actor062/065.wav",
+    "length": 6.393583333333333,
+    "spk_id": "062"
+  },
+  "032-006": {
+    "wav": "{data_root}/actor032/006.wav",
+    "length": 2.8993333333333333,
+    "spk_id": "032"
+  },
+  "082-060": {
+    "wav": "{data_root}/actor082/060.wav",
+    "length": 4.774416666666666,
+    "spk_id": "082"
+  },
+  "038-015": {
+    "wav": "{data_root}/actor038/015.wav",
+    "length": 3.638916666666667,
+    "spk_id": "038"
+  },
+  "034-075": {
+    "wav": "{data_root}/actor034/075.wav",
+    "length": 4.3406666666666665,
+    "spk_id": "034"
+  },
+  "017-049": {
+    "wav": "{data_root}/actor017/049.wav",
+    "length": 4.807916666666666,
+    "spk_id": "017"
+  },
+  "002-065": {
+    "wav": "{data_root}/actor002/065.wav",
+    "length": 5.684375,
+    "spk_id": "002"
+  },
+  "043-038": {
+    "wav": "{data_root}/actor043/038.wav",
+    "length": 4.4943333333333335,
+    "spk_id": "043"
+  },
+  "084-032": {
+    "wav": "{data_root}/actor084/032.wav",
+    "length": 9.066666666666666,
+    "spk_id": "084"
+  },
+  "068-018": {
+    "wav": "{data_root}/actor068/018.wav",
+    "length": 4.507625,
+    "spk_id": "068"
+  },
+  "014-078": {
+    "wav": "{data_root}/actor014/078.wav",
+    "length": 6.6662083333333335,
+    "spk_id": "014"
+  },
+  "050-061": {
+    "wav": "{data_root}/actor050/061.wav",
+    "length": 5.15425,
+    "spk_id": "050"
+  },
+  "077-084": {
+    "wav": "{data_root}/actor077/084.wav",
+    "length": 5.740375,
+    "spk_id": "077"
+  },
+  "095-043": {
+    "wav": "{data_root}/actor095/043.wav",
+    "length": 5.360666666666667,
+    "spk_id": "095"
+  },
+  "063-082": {
+    "wav": "{data_root}/actor063/082.wav",
+    "length": 5.029583333333333,
+    "spk_id": "063"
+  },
+  "028-055": {
+    "wav": "{data_root}/actor028/055.wav",
+    "length": 3.0881666666666665,
+    "spk_id": "028"
+  },
+  "083-020": {
+    "wav": "{data_root}/actor083/020.wav",
+    "length": 6.755541666666667,
+    "spk_id": "083"
+  },
+  "008-069": {
+    "wav": "{data_root}/actor008/069.wav",
+    "length": 6.777,
+    "spk_id": "008"
+  },
+  "087-084": {
+    "wav": "{data_root}/actor087/084.wav",
+    "length": 6.553041666666667,
+    "spk_id": "087"
+  },
+  "070-049": {
+    "wav": "{data_root}/actor070/049.wav",
+    "length": 3.84075,
+    "spk_id": "070"
+  },
+  "065-074": {
+    "wav": "{data_root}/actor065/074.wav",
+    "length": 4.078041666666667,
+    "spk_id": "065"
+  },
+  "069-028": {
+    "wav": "{data_root}/actor069/028.wav",
+    "length": 7.224708333333333,
+    "spk_id": "069"
+  },
+  "088-056": {
+    "wav": "{data_root}/actor088/056.wav",
+    "length": 5.799541666666666,
+    "spk_id": "088"
+  },
+  "042-046": {
+    "wav": "{data_root}/actor042/046.wav",
+    "length": 3.790875,
+    "spk_id": "042"
+  },
+  "002-068": {
+    "wav": "{data_root}/actor002/068.wav",
+    "length": 4.344541666666666,
+    "spk_id": "002"
+  },
+  "035-011": {
+    "wav": "{data_root}/actor035/011.wav",
+    "length": 6.755541666666667,
+    "spk_id": "035"
+  },
+  "006-080": {
+    "wav": "{data_root}/actor006/080.wav",
+    "length": 5.369041666666667,
+    "spk_id": "006"
+  },
+  "065-064": {
+    "wav": "{data_root}/actor065/064.wav",
+    "length": 4.020791666666667,
+    "spk_id": "065"
+  },
+  "090-051": {
+    "wav": "{data_root}/actor090/051.wav",
+    "length": 4.817666666666667,
+    "spk_id": "090"
+  },
+  "046-067": {
+    "wav": "{data_root}/actor046/067.wav",
+    "length": 5.081541666666666,
+    "spk_id": "046"
+  },
+  "010-011": {
+    "wav": "{data_root}/actor010/011.wav",
+    "length": 4.720375,
+    "spk_id": "010"
+  },
+  "040-052": {
+    "wav": "{data_root}/actor040/052.wav",
+    "length": 6.654916666666667,
+    "spk_id": "040"
+  },
+  "069-029": {
+    "wav": "{data_root}/actor069/029.wav",
+    "length": 6.401833333333333,
+    "spk_id": "069"
+  },
+  "072-099": {
+    "wav": "{data_root}/actor072/099.wav",
+    "length": 4.72975,
+    "spk_id": "072"
+  },
+  "099-085": {
+    "wav": "{data_root}/actor099/085.wav",
+    "length": 5.868166666666666,
+    "spk_id": "099"
+  },
+  "034-063": {
+    "wav": "{data_root}/actor034/063.wav",
+    "length": 3.011791666666667,
+    "spk_id": "034"
+  },
+  "060-080": {
+    "wav": "{data_root}/actor060/080.wav",
+    "length": 5.05825,
+    "spk_id": "060"
+  },
+  "015-099": {
+    "wav": "{data_root}/actor015/099.wav",
+    "length": 3.387875,
+    "spk_id": "015"
+  },
+  "050-051": {
+    "wav": "{data_root}/actor050/051.wav",
+    "length": 3.6605416666666666,
+    "spk_id": "050"
+  },
+  "089-010": {
+    "wav": "{data_root}/actor089/010.wav",
+    "length": 3.3152916666666665,
+    "spk_id": "089"
+  },
+  "029-031": {
+    "wav": "{data_root}/actor029/031.wav",
+    "length": 3.2165,
+    "spk_id": "029"
+  },
+  "098-018": {
+    "wav": "{data_root}/actor098/018.wav",
+    "length": 4.733125,
+    "spk_id": "098"
+  },
+  "081-047": {
+    "wav": "{data_root}/actor081/047.wav",
+    "length": 5.2195,
+    "spk_id": "081"
+  },
+  "083-070": {
+    "wav": "{data_root}/actor083/070.wav",
+    "length": 6.248875,
+    "spk_id": "083"
+  },
+  "029-073": {
+    "wav": "{data_root}/actor029/073.wav",
+    "length": 4.675166666666667,
+    "spk_id": "029"
+  },
+  "087-021": {
+    "wav": "{data_root}/actor087/021.wav",
+    "length": 5.0869583333333335,
+    "spk_id": "087"
+  },
+  "025-039": {
+    "wav": "{data_root}/actor025/039.wav",
+    "length": 5.43875,
+    "spk_id": "025"
+  },
+  "080-085": {
+    "wav": "{data_root}/actor080/085.wav",
+    "length": 7.5921666666666665,
+    "spk_id": "080"
+  },
+  "035-038": {
+    "wav": "{data_root}/actor035/038.wav",
+    "length": 5.9093333333333335,
+    "spk_id": "035"
+  },
+  "045-001": {
+    "wav": "{data_root}/actor045/001.wav",
+    "length": 5.318791666666667,
+    "spk_id": "045"
+  },
+  "081-037": {
+    "wav": "{data_root}/actor081/037.wav",
+    "length": 3.6151666666666666,
+    "spk_id": "081"
+  },
+  "019-026": {
+    "wav": "{data_root}/actor019/026.wav",
+    "length": 3.102,
+    "spk_id": "019"
+  },
+  "043-072": {
+    "wav": "{data_root}/actor043/072.wav",
+    "length": 4.8195,
+    "spk_id": "043"
+  },
+  "039-074": {
+    "wav": "{data_root}/actor039/074.wav",
+    "length": 3.97425,
+    "spk_id": "039"
+  },
+  "031-049": {
+    "wav": "{data_root}/actor031/049.wav",
+    "length": 3.8857083333333335,
+    "spk_id": "031"
+  },
+  "014-060": {
+    "wav": "{data_root}/actor014/060.wav",
+    "length": 4.703458333333334,
+    "spk_id": "014"
+  },
+  "097-097": {
+    "wav": "{data_root}/actor097/097.wav",
+    "length": 6.75975,
+    "spk_id": "097"
+  },
+  "037-063": {
+    "wav": "{data_root}/actor037/063.wav",
+    "length": 3.0294166666666666,
+    "spk_id": "037"
+  },
+  "027-050": {
+    "wav": "{data_root}/actor027/050.wav",
+    "length": 5.98175,
+    "spk_id": "027"
+  },
+  "095-082": {
+    "wav": "{data_root}/actor095/082.wav",
+    "length": 5.117625,
+    "spk_id": "095"
+  },
+  "039-012": {
+    "wav": "{data_root}/actor039/012.wav",
+    "length": 4.432916666666666,
+    "spk_id": "039"
+  },
+  "079-039": {
+    "wav": "{data_root}/actor079/039.wav",
+    "length": 4.780666666666667,
+    "spk_id": "079"
+  },
+  "038-097": {
+    "wav": "{data_root}/actor038/097.wav",
+    "length": 6.247083333333333,
+    "spk_id": "038"
+  },
+  "072-051": {
+    "wav": "{data_root}/actor072/051.wav",
+    "length": 4.471166666666667,
+    "spk_id": "072"
+  },
+  "006-026": {
+    "wav": "{data_root}/actor006/026.wav",
+    "length": 3.512583333333333,
+    "spk_id": "006"
+  },
+  "025-093": {
+    "wav": "{data_root}/actor025/093.wav",
+    "length": 8.28575,
+    "spk_id": "025"
+  },
+  "047-002": {
+    "wav": "{data_root}/actor047/002.wav",
+    "length": 7.168041666666666,
+    "spk_id": "047"
+  },
+  "062-029": {
+    "wav": "{data_root}/actor062/029.wav",
+    "length": 6.457333333333334,
+    "spk_id": "062"
+  },
+  "070-011": {
+    "wav": "{data_root}/actor070/011.wav",
+    "length": 4.448166666666666,
+    "spk_id": "070"
+  },
+  "073-056": {
+    "wav": "{data_root}/actor073/056.wav",
+    "length": 5.650916666666666,
+    "spk_id": "073"
+  },
+  "083-044": {
+    "wav": "{data_root}/actor083/044.wav",
+    "length": 7.338666666666667,
+    "spk_id": "083"
+  },
+  "009-071": {
+    "wav": "{data_root}/actor009/071.wav",
+    "length": 4.964,
+    "spk_id": "009"
+  },
+  "058-061": {
+    "wav": "{data_root}/actor058/061.wav",
+    "length": 5.5917916666666665,
+    "spk_id": "058"
+  },
+  "070-081": {
+    "wav": "{data_root}/actor070/081.wav",
+    "length": 5.33575,
+    "spk_id": "070"
+  },
+  "041-010": {
+    "wav": "{data_root}/actor041/010.wav",
+    "length": 3.9987083333333335,
+    "spk_id": "041"
+  },
+  "005-062": {
+    "wav": "{data_root}/actor005/062.wav",
+    "length": 5.095166666666667,
+    "spk_id": "005"
+  },
+  "039-015": {
+    "wav": "{data_root}/actor039/015.wav",
+    "length": 3.80575,
+    "spk_id": "039"
+  },
+  "020-071": {
+    "wav": "{data_root}/actor020/071.wav",
+    "length": 3.7220833333333334,
+    "spk_id": "020"
+  },
+  "082-084": {
+    "wav": "{data_root}/actor082/084.wav",
+    "length": 6.068333333333333,
+    "spk_id": "082"
+  },
+  "077-075": {
+    "wav": "{data_root}/actor077/075.wav",
+    "length": 4.476,
+    "spk_id": "077"
+  },
+  "009-096": {
+    "wav": "{data_root}/actor009/096.wav",
+    "length": 6.428916666666667,
+    "spk_id": "009"
+  },
+  "075-017": {
+    "wav": "{data_root}/actor075/017.wav",
+    "length": 4.5515,
+    "spk_id": "075"
+  },
+  "055-026": {
+    "wav": "{data_root}/actor055/026.wav",
+    "length": 3.06275,
+    "spk_id": "055"
+  },
+  "099-096": {
+    "wav": "{data_root}/actor099/096.wav",
+    "length": 5.036583333333334,
+    "spk_id": "099"
+  },
+  "012-005": {
+    "wav": "{data_root}/actor012/005.wav",
+    "length": 8.461166666666667,
+    "spk_id": "012"
+  },
+  "079-083": {
+    "wav": "{data_root}/actor079/083.wav",
+    "length": 4.8152083333333335,
+    "spk_id": "079"
+  },
+  "051-080": {
+    "wav": "{data_root}/actor051/080.wav",
+    "length": 4.830166666666667,
+    "spk_id": "051"
+  },
+  "072-049": {
+    "wav": "{data_root}/actor072/049.wav",
+    "length": 4.864833333333333,
+    "spk_id": "072"
+  },
+  "023-046": {
+    "wav": "{data_root}/actor023/046.wav",
+    "length": 4.10675,
+    "spk_id": "023"
+  },
+  "098-025": {
+    "wav": "{data_root}/actor098/025.wav",
+    "length": 3.206875,
+    "spk_id": "098"
+  },
+  "061-021": {
+    "wav": "{data_root}/actor061/021.wav",
+    "length": 4.551916666666667,
+    "spk_id": "061"
+  },
+  "099-055": {
+    "wav": "{data_root}/actor099/055.wav",
+    "length": 2.294583333333333,
+    "spk_id": "099"
+  },
+  "050-063": {
+    "wav": "{data_root}/actor050/063.wav",
+    "length": 3.103833333333333,
+    "spk_id": "050"
+  },
+  "063-074": {
+    "wav": "{data_root}/actor063/074.wav",
+    "length": 4.060083333333333,
+    "spk_id": "063"
+  },
+  "081-057": {
+    "wav": "{data_root}/actor081/057.wav",
+    "length": 3.6702083333333335,
+    "spk_id": "081"
+  },
+  "097-096": {
+    "wav": "{data_root}/actor097/096.wav",
+    "length": 7.112666666666667,
+    "spk_id": "097"
+  },
+  "095-071": {
+    "wav": "{data_root}/actor095/071.wav",
+    "length": 4.64975,
+    "spk_id": "095"
+  },
+  "065-093": {
+    "wav": "{data_root}/actor065/093.wav",
+    "length": 7.449583333333333,
+    "spk_id": "065"
+  },
+  "019-011": {
+    "wav": "{data_root}/actor019/011.wav",
+    "length": 4.999,
+    "spk_id": "019"
+  },
+  "073-045": {
+    "wav": "{data_root}/actor073/045.wav",
+    "length": 5.939041666666666,
+    "spk_id": "073"
+  },
+  "039-025": {
+    "wav": "{data_root}/actor039/025.wav",
+    "length": 3.4444166666666667,
+    "spk_id": "039"
+  },
+  "020-090": {
+    "wav": "{data_root}/actor020/090.wav",
+    "length": 3.6962083333333333,
+    "spk_id": "020"
+  },
+  "018-100": {
+    "wav": "{data_root}/actor018/100.wav",
+    "length": 9.689,
+    "spk_id": "018"
+  },
+  "053-008": {
+    "wav": "{data_root}/actor053/008.wav",
+    "length": 5.678166666666667,
+    "spk_id": "053"
+  },
+  "086-051": {
+    "wav": "{data_root}/actor086/051.wav",
+    "length": 3.9945833333333334,
+    "spk_id": "086"
+  },
+  "073-068": {
+    "wav": "{data_root}/actor073/068.wav",
+    "length": 4.547458333333333,
+    "spk_id": "073"
+  },
+  "014-001": {
+    "wav": "{data_root}/actor014/001.wav",
+    "length": 5.611875,
+    "spk_id": "014"
+  },
+  "052-044": {
+    "wav": "{data_root}/actor052/044.wav",
+    "length": 7.172041666666667,
+    "spk_id": "052"
+  },
+  "037-095": {
+    "wav": "{data_root}/actor037/095.wav",
+    "length": 5.122583333333333,
+    "spk_id": "037"
+  },
+  "057-063": {
+    "wav": "{data_root}/actor057/063.wav",
+    "length": 3.3930833333333332,
+    "spk_id": "057"
+  },
+  "064-088": {
+    "wav": "{data_root}/actor064/088.wav",
+    "length": 5.354291666666667,
+    "spk_id": "064"
+  },
+  "043-077": {
+    "wav": "{data_root}/actor043/077.wav",
+    "length": 5.7355,
+    "spk_id": "043"
+  },
+  "020-031": {
+    "wav": "{data_root}/actor020/031.wav",
+    "length": 2.8320833333333333,
+    "spk_id": "020"
+  },
+  "020-053": {
+    "wav": "{data_root}/actor020/053.wav",
+    "length": 3.4235,
+    "spk_id": "020"
+  },
+  "018-046": {
+    "wav": "{data_root}/actor018/046.wav",
+    "length": 5.070583333333333,
+    "spk_id": "018"
+  },
+  "094-083": {
+    "wav": "{data_root}/actor094/083.wav",
+    "length": 6.050333333333334,
+    "spk_id": "094"
+  },
+  "044-073": {
+    "wav": "{data_root}/actor044/073.wav",
+    "length": 4.930208333333334,
+    "spk_id": "044"
+  },
+  "053-063": {
+    "wav": "{data_root}/actor053/063.wav",
+    "length": 3.2339166666666666,
+    "spk_id": "053"
+  },
+  "077-021": {
+    "wav": "{data_root}/actor077/021.wav",
+    "length": 4.35425,
+    "spk_id": "077"
+  },
+  "007-055": {
+    "wav": "{data_root}/actor007/055.wav",
+    "length": 2.606875,
+    "spk_id": "007"
+  },
+  "034-049": {
+    "wav": "{data_root}/actor034/049.wav",
+    "length": 4.06025,
+    "spk_id": "034"
+  },
+  "092-022": {
+    "wav": "{data_root}/actor092/022.wav",
+    "length": 9.400625,
+    "spk_id": "092"
+  },
+  "050-088": {
+    "wav": "{data_root}/actor050/088.wav",
+    "length": 3.992541666666667,
+    "spk_id": "050"
+  },
+  "068-041": {
+    "wav": "{data_root}/actor068/041.wav",
+    "length": 4.331166666666666,
+    "spk_id": "068"
+  },
+  "033-056": {
+    "wav": "{data_root}/actor033/056.wav",
+    "length": 5.38675,
+    "spk_id": "033"
+  },
+  "011-072": {
+    "wav": "{data_root}/actor011/072.wav",
+    "length": 5.449708333333334,
+    "spk_id": "011"
+  },
+  "008-068": {
+    "wav": "{data_root}/actor008/068.wav",
+    "length": 4.596,
+    "spk_id": "008"
+  },
+  "096-077": {
+    "wav": "{data_root}/actor096/077.wav",
+    "length": 6.489166666666667,
+    "spk_id": "096"
+  },
+  "051-007": {
+    "wav": "{data_root}/actor051/007.wav",
+    "length": 6.020333333333333,
+    "spk_id": "051"
+  },
+  "081-086": {
+    "wav": "{data_root}/actor081/086.wav",
+    "length": 4.79775,
+    "spk_id": "081"
+  },
+  "053-016": {
+    "wav": "{data_root}/actor053/016.wav",
+    "length": 4.1931666666666665,
+    "spk_id": "053"
+  },
+  "040-074": {
+    "wav": "{data_root}/actor040/074.wav",
+    "length": 4.704,
+    "spk_id": "040"
+  },
+  "024-018": {
+    "wav": "{data_root}/actor024/018.wav",
+    "length": 4.761708333333333,
+    "spk_id": "024"
+  },
+  "016-028": {
+    "wav": "{data_root}/actor016/028.wav",
+    "length": 6.5395,
+    "spk_id": "016"
+  },
+  "019-040": {
+    "wav": "{data_root}/actor019/040.wav",
+    "length": 3.2234166666666666,
+    "spk_id": "019"
+  },
+  "012-038": {
+    "wav": "{data_root}/actor012/038.wav",
+    "length": 5.246125,
+    "spk_id": "012"
+  },
+  "045-018": {
+    "wav": "{data_root}/actor045/018.wav",
+    "length": 4.878958333333333,
+    "spk_id": "045"
+  },
+  "006-055": {
+    "wav": "{data_root}/actor006/055.wav",
+    "length": 2.6616666666666666,
+    "spk_id": "006"
+  },
+  "051-013": {
+    "wav": "{data_root}/actor051/013.wav",
+    "length": 3.685416666666667,
+    "spk_id": "051"
+  },
+  "052-070": {
+    "wav": "{data_root}/actor052/070.wav",
+    "length": 6.275,
+    "spk_id": "052"
+  },
+  "061-086": {
+    "wav": "{data_root}/actor061/086.wav",
+    "length": 5.051333333333333,
+    "spk_id": "061"
+  },
+  "061-006": {
+    "wav": "{data_root}/actor061/006.wav",
+    "length": 2.9800833333333334,
+    "spk_id": "061"
+  },
+  "015-057": {
+    "wav": "{data_root}/actor015/057.wav",
+    "length": 3.479833333333333,
+    "spk_id": "015"
+  },
+  "058-084": {
+    "wav": "{data_root}/actor058/084.wav",
+    "length": 6.511333333333333,
+    "spk_id": "058"
+  },
+  "098-031": {
+    "wav": "{data_root}/actor098/031.wav",
+    "length": 3.4283333333333332,
+    "spk_id": "098"
+  },
+  "079-012": {
+    "wav": "{data_root}/actor079/012.wav",
+    "length": 3.8625416666666665,
+    "spk_id": "079"
+  },
+  "025-081": {
+    "wav": "{data_root}/actor025/081.wav",
+    "length": 7.121291666666667,
+    "spk_id": "025"
+  },
+  "025-002": {
+    "wav": "{data_root}/actor025/002.wav",
+    "length": 6.706791666666667,
+    "spk_id": "025"
+  },
+  "041-089": {
+    "wav": "{data_root}/actor041/089.wav",
+    "length": 5.176291666666667,
+    "spk_id": "041"
+  },
+  "061-072": {
+    "wav": "{data_root}/actor061/072.wav",
+    "length": 4.816583333333333,
+    "spk_id": "061"
+  },
+  "058-074": {
+    "wav": "{data_root}/actor058/074.wav",
+    "length": 4.201333333333333,
+    "spk_id": "058"
+  },
+  "022-007": {
+    "wav": "{data_root}/actor022/007.wav",
+    "length": 5.978291666666666,
+    "spk_id": "022"
+  },
+  "086-010": {
+    "wav": "{data_root}/actor086/010.wav",
+    "length": 3.938625,
+    "spk_id": "086"
+  },
+  "004-027": {
+    "wav": "{data_root}/actor004/027.wav",
+    "length": 5.361833333333333,
+    "spk_id": "004"
+  },
+  "002-059": {
+    "wav": "{data_root}/actor002/059.wav",
+    "length": 4.3373333333333335,
+    "spk_id": "002"
+  },
+  "071-033": {
+    "wav": "{data_root}/actor071/033.wav",
+    "length": 3.4797083333333334,
+    "spk_id": "071"
+  },
+  "054-037": {
+    "wav": "{data_root}/actor054/037.wav",
+    "length": 4.5305,
+    "spk_id": "054"
+  },
+  "023-091": {
+    "wav": "{data_root}/actor023/091.wav",
+    "length": 3.0086666666666666,
+    "spk_id": "023"
+  },
+  "088-018": {
+    "wav": "{data_root}/actor088/018.wav",
+    "length": 4.798291666666667,
+    "spk_id": "088"
+  },
+  "003-008": {
+    "wav": "{data_root}/actor003/008.wav",
+    "length": 6.071625,
+    "spk_id": "003"
+  },
+  "027-055": {
+    "wav": "{data_root}/actor027/055.wav",
+    "length": 2.7903333333333333,
+    "spk_id": "027"
+  },
+  "095-066": {
+    "wav": "{data_root}/actor095/066.wav",
+    "length": 5.4395,
+    "spk_id": "095"
+  },
+  "037-039": {
+    "wav": "{data_root}/actor037/039.wav",
+    "length": 4.3581666666666665,
+    "spk_id": "037"
+  },
+  "031-021": {
+    "wav": "{data_root}/actor031/021.wav",
+    "length": 4.280208333333333,
+    "spk_id": "031"
+  },
+  "086-030": {
+    "wav": "{data_root}/actor086/030.wav",
+    "length": 4.097083333333333,
+    "spk_id": "086"
+  },
+  "087-039": {
+    "wav": "{data_root}/actor087/039.wav",
+    "length": 5.3228333333333335,
+    "spk_id": "087"
+  },
+  "046-100": {
+    "wav": "{data_root}/actor046/100.wav",
+    "length": 6.924458333333333,
+    "spk_id": "046"
+  },
+  "059-076": {
+    "wav": "{data_root}/actor059/076.wav",
+    "length": 6.458333333333333,
+    "spk_id": "059"
+  },
+  "098-079": {
+    "wav": "{data_root}/actor098/079.wav",
+    "length": 6.15325,
+    "spk_id": "098"
+  },
+  "046-057": {
+    "wav": "{data_root}/actor046/057.wav",
+    "length": 3.362833333333333,
+    "spk_id": "046"
+  },
+  "044-100": {
+    "wav": "{data_root}/actor044/100.wav",
+    "length": 6.844083333333334,
+    "spk_id": "044"
+  },
+  "087-099": {
+    "wav": "{data_root}/actor087/099.wav",
+    "length": 4.065875,
+    "spk_id": "087"
+  },
+  "059-036": {
+    "wav": "{data_root}/actor059/036.wav",
+    "length": 4.8726666666666665,
+    "spk_id": "059"
+  },
+  "022-069": {
+    "wav": "{data_root}/actor022/069.wav",
+    "length": 6.678166666666667,
+    "spk_id": "022"
+  },
+  "019-053": {
+    "wav": "{data_root}/actor019/053.wav",
+    "length": 4.1695,
+    "spk_id": "019"
+  },
+  "045-002": {
+    "wav": "{data_root}/actor045/002.wav",
+    "length": 5.839416666666667,
+    "spk_id": "045"
+  },
+  "070-001": {
+    "wav": "{data_root}/actor070/001.wav",
+    "length": 4.715583333333333,
+    "spk_id": "070"
+  },
+  "001-020": {
+    "wav": "{data_root}/actor001/020.wav",
+    "length": 4.910583333333333,
+    "spk_id": "001"
+  },
+  "039-060": {
+    "wav": "{data_root}/actor039/060.wav",
+    "length": 4.889583333333333,
+    "spk_id": "039"
+  },
+  "008-059": {
+    "wav": "{data_root}/actor008/059.wav",
+    "length": 4.980625,
+    "spk_id": "008"
+  },
+  "098-013": {
+    "wav": "{data_root}/actor098/013.wav",
+    "length": 3.9635,
+    "spk_id": "098"
+  },
+  "057-003": {
+    "wav": "{data_root}/actor057/003.wav",
+    "length": 4.239083333333333,
+    "spk_id": "057"
+  },
+  "031-035": {
+    "wav": "{data_root}/actor031/035.wav",
+    "length": 5.114583333333333,
+    "spk_id": "031"
+  },
+  "083-073": {
+    "wav": "{data_root}/actor083/073.wav",
+    "length": 6.083541666666667,
+    "spk_id": "083"
+  },
+  "004-010": {
+    "wav": "{data_root}/actor004/010.wav",
+    "length": 3.550666666666667,
+    "spk_id": "004"
+  },
+  "073-087": {
+    "wav": "{data_root}/actor073/087.wav",
+    "length": 6.625958333333333,
+    "spk_id": "073"
+  },
+  "018-036": {
+    "wav": "{data_root}/actor018/036.wav",
+    "length": 6.1593333333333335,
+    "spk_id": "018"
+  },
+  "070-073": {
+    "wav": "{data_root}/actor070/073.wav",
+    "length": 4.320833333333334,
+    "spk_id": "070"
+  },
+  "027-039": {
+    "wav": "{data_root}/actor027/039.wav",
+    "length": 4.940625,
+    "spk_id": "027"
+  },
+  "002-040": {
+    "wav": "{data_root}/actor002/040.wav",
+    "length": 3.3085833333333334,
+    "spk_id": "002"
+  },
+  "071-007": {
+    "wav": "{data_root}/actor071/007.wav",
+    "length": 7.824333333333334,
+    "spk_id": "071"
+  },
+  "031-040": {
+    "wav": "{data_root}/actor031/040.wav",
+    "length": 3.128833333333333,
+    "spk_id": "031"
+  },
+  "069-082": {
+    "wav": "{data_root}/actor069/082.wav",
+    "length": 5.11625,
+    "spk_id": "069"
+  },
+  "032-049": {
+    "wav": "{data_root}/actor032/049.wav",
+    "length": 4.074625,
+    "spk_id": "032"
+  },
+  "039-001": {
+    "wav": "{data_root}/actor039/001.wav",
+    "length": 5.582791666666667,
+    "spk_id": "039"
+  },
+  "066-010": {
+    "wav": "{data_root}/actor066/010.wav",
+    "length": 3.5936666666666666,
+    "spk_id": "066"
+  },
+  "035-060": {
+    "wav": "{data_root}/actor035/060.wav",
+    "length": 6.634666666666667,
+    "spk_id": "035"
+  },
+  "068-011": {
+    "wav": "{data_root}/actor068/011.wav",
+    "length": 4.444166666666667,
+    "spk_id": "068"
+  },
+  "100-044": {
+    "wav": "{data_root}/actor100/044.wav",
+    "length": 7.226166666666667,
+    "spk_id": "100"
+  },
+  "054-079": {
+    "wav": "{data_root}/actor054/079.wav",
+    "length": 6.214333333333333,
+    "spk_id": "054"
+  },
+  "051-048": {
+    "wav": "{data_root}/actor051/048.wav",
+    "length": 5.707041666666667,
+    "spk_id": "051"
+  },
+  "049-043": {
+    "wav": "{data_root}/actor049/043.wav",
+    "length": 5.754,
+    "spk_id": "049"
+  },
+  "049-048": {
+    "wav": "{data_root}/actor049/048.wav",
+    "length": 6.107083333333334,
+    "spk_id": "049"
+  },
+  "009-039": {
+    "wav": "{data_root}/actor009/039.wav",
+    "length": 4.616125,
+    "spk_id": "009"
+  },
+  "052-005": {
+    "wav": "{data_root}/actor052/005.wav",
+    "length": 9.20825,
+    "spk_id": "052"
+  },
+  "024-085": {
+    "wav": "{data_root}/actor024/085.wav",
+    "length": 7.248166666666667,
+    "spk_id": "024"
+  },
+  "071-034": {
+    "wav": "{data_root}/actor071/034.wav",
+    "length": 3.591083333333333,
+    "spk_id": "071"
+  },
+  "084-077": {
+    "wav": "{data_root}/actor084/077.wav",
+    "length": 9.667541666666667,
+    "spk_id": "084"
+  },
+  "013-008": {
+    "wav": "{data_root}/actor013/008.wav",
+    "length": 5.87975,
+    "spk_id": "013"
+  },
+  "010-040": {
+    "wav": "{data_root}/actor010/040.wav",
+    "length": 3.42925,
+    "spk_id": "010"
+  },
+  "069-010": {
+    "wav": "{data_root}/actor069/010.wav",
+    "length": 3.776125,
+    "spk_id": "069"
+  },
+  "027-029": {
+    "wav": "{data_root}/actor027/029.wav",
+    "length": 6.254416666666667,
+    "spk_id": "027"
+  },
+  "067-092": {
+    "wav": "{data_root}/actor067/092.wav",
+    "length": 4.959333333333333,
+    "spk_id": "067"
+  },
+  "039-005": {
+    "wav": "{data_root}/actor039/005.wav",
+    "length": 8.5685,
+    "spk_id": "039"
+  },
+  "086-005": {
+    "wav": "{data_root}/actor086/005.wav",
+    "length": 9.457041666666667,
+    "spk_id": "086"
+  },
+  "009-086": {
+    "wav": "{data_root}/actor009/086.wav",
+    "length": 4.196166666666667,
+    "spk_id": "009"
+  },
+  "010-073": {
+    "wav": "{data_root}/actor010/073.wav",
+    "length": 4.911416666666667,
+    "spk_id": "010"
+  },
+  "095-035": {
+    "wav": "{data_root}/actor095/035.wav",
+    "length": 5.539083333333333,
+    "spk_id": "095"
+  },
+  "053-017": {
+    "wav": "{data_root}/actor053/017.wav",
+    "length": 4.151083333333333,
+    "spk_id": "053"
+  },
+  "020-050": {
+    "wav": "{data_root}/actor020/050.wav",
+    "length": 4.279416666666667,
+    "spk_id": "020"
+  },
+  "021-095": {
+    "wav": "{data_root}/actor021/095.wav",
+    "length": 4.865333333333333,
+    "spk_id": "021"
+  },
+  "004-054": {
+    "wav": "{data_root}/actor004/054.wav",
+    "length": 9.024875,
+    "spk_id": "004"
+  },
+  "034-097": {
+    "wav": "{data_root}/actor034/097.wav",
+    "length": 6.851416666666666,
+    "spk_id": "034"
+  },
+  "097-008": {
+    "wav": "{data_root}/actor097/008.wav",
+    "length": 5.428083333333333,
+    "spk_id": "097"
+  },
+  "060-034": {
+    "wav": "{data_root}/actor060/034.wav",
+    "length": 3.05725,
+    "spk_id": "060"
+  },
+  "043-061": {
+    "wav": "{data_root}/actor043/061.wav",
+    "length": 4.5425,
+    "spk_id": "043"
+  },
+  "083-046": {
+    "wav": "{data_root}/actor083/046.wav",
+    "length": 5.141333333333334,
+    "spk_id": "083"
+  },
+  "026-052": {
+    "wav": "{data_root}/actor026/052.wav",
+    "length": 5.188083333333333,
+    "spk_id": "026"
+  },
+  "024-083": {
+    "wav": "{data_root}/actor024/083.wav",
+    "length": 4.990833333333334,
+    "spk_id": "024"
+  },
+  "077-007": {
+    "wav": "{data_root}/actor077/007.wav",
+    "length": 5.397666666666667,
+    "spk_id": "077"
+  },
+  "081-081": {
+    "wav": "{data_root}/actor081/081.wav",
+    "length": 5.473,
+    "spk_id": "081"
+  },
+  "071-062": {
+    "wav": "{data_root}/actor071/062.wav",
+    "length": 7.981958333333333,
+    "spk_id": "071"
+  },
+  "006-039": {
+    "wav": "{data_root}/actor006/039.wav",
+    "length": 5.733333333333333,
+    "spk_id": "006"
+  },
+  "068-067": {
+    "wav": "{data_root}/actor068/067.wav",
+    "length": 4.987625,
+    "spk_id": "068"
+  },
+  "020-058": {
+    "wav": "{data_root}/actor020/058.wav",
+    "length": 3.5870416666666665,
+    "spk_id": "020"
+  },
+  "020-041": {
+    "wav": "{data_root}/actor020/041.wav",
+    "length": 3.5227916666666665,
+    "spk_id": "020"
+  },
+  "098-037": {
+    "wav": "{data_root}/actor098/037.wav",
+    "length": 4.321416666666667,
+    "spk_id": "098"
+  },
+  "041-091": {
+    "wav": "{data_root}/actor041/091.wav",
+    "length": 3.2626666666666666,
+    "spk_id": "041"
+  },
+  "048-072": {
+    "wav": "{data_root}/actor048/072.wav",
+    "length": 4.85725,
+    "spk_id": "048"
+  },
+  "077-013": {
+    "wav": "{data_root}/actor077/013.wav",
+    "length": 3.6569583333333333,
+    "spk_id": "077"
+  },
+  "081-018": {
+    "wav": "{data_root}/actor081/018.wav",
+    "length": 4.519125,
+    "spk_id": "081"
+  },
+  "034-002": {
+    "wav": "{data_root}/actor034/002.wav",
+    "length": 6.30325,
+    "spk_id": "034"
+  },
+  "026-086": {
+    "wav": "{data_root}/actor026/086.wav",
+    "length": 4.993916666666666,
+    "spk_id": "026"
+  },
+  "020-025": {
+    "wav": "{data_root}/actor020/025.wav",
+    "length": 2.6060833333333333,
+    "spk_id": "020"
+  },
+  "043-078": {
+    "wav": "{data_root}/actor043/078.wav",
+    "length": 6.0935,
+    "spk_id": "043"
+  },
+  "043-074": {
+    "wav": "{data_root}/actor043/074.wav",
+    "length": 3.3731666666666666,
+    "spk_id": "043"
+  },
+  "014-006": {
+    "wav": "{data_root}/actor014/006.wav",
+    "length": 3.1160833333333335,
+    "spk_id": "014"
+  },
+  "051-036": {
+    "wav": "{data_root}/actor051/036.wav",
+    "length": 5.187333333333333,
+    "spk_id": "051"
+  },
+  "033-030": {
+    "wav": "{data_root}/actor033/030.wav",
+    "length": 3.927583333333333,
+    "spk_id": "033"
+  },
+  "074-067": {
+    "wav": "{data_root}/actor074/067.wav",
+    "length": 4.865708333333333,
+    "spk_id": "074"
+  },
+  "084-090": {
+    "wav": "{data_root}/actor084/090.wav",
+    "length": 6.152875,
+    "spk_id": "084"
+  },
+  "033-092": {
+    "wav": "{data_root}/actor033/092.wav",
+    "length": 5.051541666666667,
+    "spk_id": "033"
+  },
+  "039-040": {
+    "wav": "{data_root}/actor039/040.wav",
+    "length": 3.539,
+    "spk_id": "039"
+  },
+  "029-082": {
+    "wav": "{data_root}/actor029/082.wav",
+    "length": 4.7285,
+    "spk_id": "029"
+  },
+  "084-079": {
+    "wav": "{data_root}/actor084/079.wav",
+    "length": 7.872,
+    "spk_id": "084"
+  },
+  "090-021": {
+    "wav": "{data_root}/actor090/021.wav",
+    "length": 5.212666666666666,
+    "spk_id": "090"
+  },
+  "091-080": {
+    "wav": "{data_root}/actor091/080.wav",
+    "length": 5.7716666666666665,
+    "spk_id": "091"
+  },
+  "019-070": {
+    "wav": "{data_root}/actor019/070.wav",
+    "length": 5.3460833333333335,
+    "spk_id": "019"
+  },
+  "095-022": {
+    "wav": "{data_root}/actor095/022.wav",
+    "length": 8.881791666666667,
+    "spk_id": "095"
+  },
+  "046-002": {
+    "wav": "{data_root}/actor046/002.wav",
+    "length": 5.913541666666666,
+    "spk_id": "046"
+  },
+  "092-005": {
+    "wav": "{data_root}/actor092/005.wav",
+    "length": 8.53975,
+    "spk_id": "092"
+  },
+  "098-005": {
+    "wav": "{data_root}/actor098/005.wav",
+    "length": 8.809958333333332,
+    "spk_id": "098"
+  },
+  "043-069": {
+    "wav": "{data_root}/actor043/069.wav",
+    "length": 6.259333333333333,
+    "spk_id": "043"
+  },
+  "062-030": {
+    "wav": "{data_root}/actor062/030.wav",
+    "length": 4.362583333333333,
+    "spk_id": "062"
+  },
+  "040-054": {
+    "wav": "{data_root}/actor040/054.wav",
+    "length": 10.136833333333334,
+    "spk_id": "040"
+  },
+  "030-076": {
+    "wav": "{data_root}/actor030/076.wav",
+    "length": 6.878875,
+    "spk_id": "030"
+  },
+  "077-008": {
+    "wav": "{data_root}/actor077/008.wav",
+    "length": 5.026416666666667,
+    "spk_id": "077"
+  },
+  "074-024": {
+    "wav": "{data_root}/actor074/024.wav",
+    "length": 5.512583333333334,
+    "spk_id": "074"
+  },
+  "033-052": {
+    "wav": "{data_root}/actor033/052.wav",
+    "length": 5.1342083333333335,
+    "spk_id": "033"
+  },
+  "085-070": {
+    "wav": "{data_root}/actor085/070.wav",
+    "length": 5.611875,
+    "spk_id": "085"
+  },
+  "008-075": {
+    "wav": "{data_root}/actor008/075.wav",
+    "length": 4.9775,
+    "spk_id": "008"
+  },
+  "069-024": {
+    "wav": "{data_root}/actor069/024.wav",
+    "length": 6.47225,
+    "spk_id": "069"
+  },
+  "020-087": {
+    "wav": "{data_root}/actor020/087.wav",
+    "length": 5.350416666666667,
+    "spk_id": "020"
+  },
+  "063-008": {
+    "wav": "{data_root}/actor063/008.wav",
+    "length": 5.6150416666666665,
+    "spk_id": "063"
+  },
+  "002-052": {
+    "wav": "{data_root}/actor002/052.wav",
+    "length": 5.507,
+    "spk_id": "002"
+  },
+  "035-031": {
+    "wav": "{data_root}/actor035/031.wav",
+    "length": 4.053333333333334,
+    "spk_id": "035"
+  },
+  "041-056": {
+    "wav": "{data_root}/actor041/056.wav",
+    "length": 6.226958333333333,
+    "spk_id": "041"
+  },
+  "022-087": {
+    "wav": "{data_root}/actor022/087.wav",
+    "length": 6.6189583333333335,
+    "spk_id": "022"
+  },
+  "067-032": {
+    "wav": "{data_root}/actor067/032.wav",
+    "length": 6.120916666666667,
+    "spk_id": "067"
+  },
+  "022-088": {
+    "wav": "{data_root}/actor022/088.wav",
+    "length": 4.84675,
+    "spk_id": "022"
+  },
+  "091-052": {
+    "wav": "{data_root}/actor091/052.wav",
+    "length": 7.219125,
+    "spk_id": "091"
+  },
+  "026-013": {
+    "wav": "{data_root}/actor026/013.wav",
+    "length": 3.8389166666666665,
+    "spk_id": "026"
+  },
+  "068-007": {
+    "wav": "{data_root}/actor068/007.wav",
+    "length": 5.573916666666666,
+    "spk_id": "068"
+  },
+  "058-056": {
+    "wav": "{data_root}/actor058/056.wav",
+    "length": 6.376083333333334,
+    "spk_id": "058"
+  },
+  "068-077": {
+    "wav": "{data_root}/actor068/077.wav",
+    "length": 6.416791666666667,
+    "spk_id": "068"
+  },
+  "034-091": {
+    "wav": "{data_root}/actor034/091.wav",
+    "length": 3.0593333333333335,
+    "spk_id": "034"
+  },
+  "090-043": {
+    "wav": "{data_root}/actor090/043.wav",
+    "length": 5.972833333333333,
+    "spk_id": "090"
+  },
+  "038-077": {
+    "wav": "{data_root}/actor038/077.wav",
+    "length": 5.968125,
+    "spk_id": "038"
+  },
+  "058-083": {
+    "wav": "{data_root}/actor058/083.wav",
+    "length": 5.307708333333333,
+    "spk_id": "058"
+  },
+  "075-021": {
+    "wav": "{data_root}/actor075/021.wav",
+    "length": 5.0797083333333335,
+    "spk_id": "075"
+  },
+  "016-050": {
+    "wav": "{data_root}/actor016/050.wav",
+    "length": 6.0529166666666665,
+    "spk_id": "016"
+  },
+  "006-038": {
+    "wav": "{data_root}/actor006/038.wav",
+    "length": 5.729958333333333,
+    "spk_id": "006"
+  },
+  "094-029": {
+    "wav": "{data_root}/actor094/029.wav",
+    "length": 6.771416666666667,
+    "spk_id": "094"
+  },
+  "079-068": {
+    "wav": "{data_root}/actor079/068.wav",
+    "length": 4.873916666666666,
+    "spk_id": "079"
+  },
+  "078-051": {
+    "wav": "{data_root}/actor078/051.wav",
+    "length": 4.031041666666667,
+    "spk_id": "078"
+  },
+  "016-096": {
+    "wav": "{data_root}/actor016/096.wav",
+    "length": 7.785333333333333,
+    "spk_id": "016"
+  },
+  "005-005": {
+    "wav": "{data_root}/actor005/005.wav",
+    "length": 6.6665833333333335,
+    "spk_id": "005"
+  },
+  "032-069": {
+    "wav": "{data_root}/actor032/069.wav",
+    "length": 5.634416666666667,
+    "spk_id": "032"
+  },
+  "052-025": {
+    "wav": "{data_root}/actor052/025.wav",
+    "length": 3.399583333333333,
+    "spk_id": "052"
+  },
+  "100-013": {
+    "wav": "{data_root}/actor100/013.wav",
+    "length": 4.280583333333333,
+    "spk_id": "100"
+  },
+  "023-011": {
+    "wav": "{data_root}/actor023/011.wav",
+    "length": 4.2755,
+    "spk_id": "023"
+  },
+  "092-033": {
+    "wav": "{data_root}/actor092/033.wav",
+    "length": 2.597875,
+    "spk_id": "092"
+  },
+  "067-098": {
+    "wav": "{data_root}/actor067/098.wav",
+    "length": 3.95875,
+    "spk_id": "067"
+  },
+  "099-014": {
+    "wav": "{data_root}/actor099/014.wav",
+    "length": 1.99625,
+    "spk_id": "099"
+  },
+  "077-019": {
+    "wav": "{data_root}/actor077/019.wav",
+    "length": 5.113583333333334,
+    "spk_id": "077"
+  },
+  "055-027": {
+    "wav": "{data_root}/actor055/027.wav",
+    "length": 4.79825,
+    "spk_id": "055"
+  },
+  "079-096": {
+    "wav": "{data_root}/actor079/096.wav",
+    "length": 6.8385,
+    "spk_id": "079"
+  },
+  "001-066": {
+    "wav": "{data_root}/actor001/066.wav",
+    "length": 5.264,
+    "spk_id": "001"
+  },
+  "045-020": {
+    "wav": "{data_root}/actor045/020.wav",
+    "length": 4.581916666666666,
+    "spk_id": "045"
+  },
+  "020-038": {
+    "wav": "{data_root}/actor020/038.wav",
+    "length": 3.87825,
+    "spk_id": "020"
+  },
+  "011-082": {
+    "wav": "{data_root}/actor011/082.wav",
+    "length": 5.1175,
+    "spk_id": "011"
+  },
+  "083-037": {
+    "wav": "{data_root}/actor083/037.wav",
+    "length": 4.920875,
+    "spk_id": "083"
+  },
+  "046-048": {
+    "wav": "{data_root}/actor046/048.wav",
+    "length": 5.825333333333333,
+    "spk_id": "046"
+  },
+  "054-048": {
+    "wav": "{data_root}/actor054/048.wav",
+    "length": 6.022375,
+    "spk_id": "054"
+  },
+  "016-031": {
+    "wav": "{data_root}/actor016/031.wav",
+    "length": 3.9480833333333334,
+    "spk_id": "016"
+  },
+  "056-018": {
+    "wav": "{data_root}/actor056/018.wav",
+    "length": 5.282666666666667,
+    "spk_id": "056"
+  },
+  "028-100": {
+    "wav": "{data_root}/actor028/100.wav",
+    "length": 6.699208333333333,
+    "spk_id": "028"
+  },
+  "015-010": {
+    "wav": "{data_root}/actor015/010.wav",
+    "length": 3.0516666666666667,
+    "spk_id": "015"
+  },
+  "021-033": {
+    "wav": "{data_root}/actor021/033.wav",
+    "length": 2.7824583333333335,
+    "spk_id": "021"
+  },
+  "024-011": {
+    "wav": "{data_root}/actor024/011.wav",
+    "length": 4.910833333333334,
+    "spk_id": "024"
+  },
+  "022-059": {
+    "wav": "{data_root}/actor022/059.wav",
+    "length": 4.610625,
+    "spk_id": "022"
+  },
+  "093-026": {
+    "wav": "{data_root}/actor093/026.wav",
+    "length": 3.4075,
+    "spk_id": "093"
+  },
+  "024-020": {
+    "wav": "{data_root}/actor024/020.wav",
+    "length": 4.7099166666666665,
+    "spk_id": "024"
+  },
+  "088-066": {
+    "wav": "{data_root}/actor088/066.wav",
+    "length": 5.406541666666667,
+    "spk_id": "088"
+  },
+  "026-051": {
+    "wav": "{data_root}/actor026/051.wav",
+    "length": 3.6094583333333334,
+    "spk_id": "026"
+  },
+  "060-069": {
+    "wav": "{data_root}/actor060/069.wav",
+    "length": 6.749833333333333,
+    "spk_id": "060"
+  },
+  "046-072": {
+    "wav": "{data_root}/actor046/072.wav",
+    "length": 5.111083333333333,
+    "spk_id": "046"
+  },
+  "066-028": {
+    "wav": "{data_root}/actor066/028.wav",
+    "length": 7.011583333333333,
+    "spk_id": "066"
+  },
+  "012-007": {
+    "wav": "{data_root}/actor012/007.wav",
+    "length": 5.951583333333334,
+    "spk_id": "012"
+  },
+  "031-037": {
+    "wav": "{data_root}/actor031/037.wav",
+    "length": 3.822583333333333,
+    "spk_id": "031"
+  },
+  "048-064": {
+    "wav": "{data_root}/actor048/064.wav",
+    "length": 3.7651666666666666,
+    "spk_id": "048"
+  },
+  "038-039": {
+    "wav": "{data_root}/actor038/039.wav",
+    "length": 4.487958333333333,
+    "spk_id": "038"
+  },
+  "025-095": {
+    "wav": "{data_root}/actor025/095.wav",
+    "length": 6.4991666666666665,
+    "spk_id": "025"
+  },
+  "012-057": {
+    "wav": "{data_root}/actor012/057.wav",
+    "length": 3.718875,
+    "spk_id": "012"
+  },
+  "053-038": {
+    "wav": "{data_root}/actor053/038.wav",
+    "length": 4.799916666666666,
+    "spk_id": "053"
+  },
+  "054-077": {
+    "wav": "{data_root}/actor054/077.wav",
+    "length": 7.274416666666666,
+    "spk_id": "054"
+  },
+  "033-055": {
+    "wav": "{data_root}/actor033/055.wav",
+    "length": 2.3524166666666666,
+    "spk_id": "033"
+  },
+  "009-074": {
+    "wav": "{data_root}/actor009/074.wav",
+    "length": 3.780666666666667,
+    "spk_id": "009"
+  },
+  "053-049": {
+    "wav": "{data_root}/actor053/049.wav",
+    "length": 4.52775,
+    "spk_id": "053"
+  },
+  "049-098": {
+    "wav": "{data_root}/actor049/098.wav",
+    "length": 4.551291666666667,
+    "spk_id": "049"
+  },
+  "047-046": {
+    "wav": "{data_root}/actor047/046.wav",
+    "length": 5.272708333333333,
+    "spk_id": "047"
+  },
+  "092-027": {
+    "wav": "{data_root}/actor092/027.wav",
+    "length": 4.817875,
+    "spk_id": "092"
+  },
+  "053-068": {
+    "wav": "{data_root}/actor053/068.wav",
+    "length": 4.464666666666667,
+    "spk_id": "053"
+  },
+  "052-036": {
+    "wav": "{data_root}/actor052/036.wav",
+    "length": 5.530916666666666,
+    "spk_id": "052"
+  },
+  "080-066": {
+    "wav": "{data_root}/actor080/066.wav",
+    "length": 5.4745,
+    "spk_id": "080"
+  },
+  "089-043": {
+    "wav": "{data_root}/actor089/043.wav",
+    "length": 5.072291666666667,
+    "spk_id": "089"
+  },
+  "039-072": {
+    "wav": "{data_root}/actor039/072.wav",
+    "length": 5.5994166666666665,
+    "spk_id": "039"
+  },
+  "030-028": {
+    "wav": "{data_root}/actor030/028.wav",
+    "length": 7.046916666666666,
+    "spk_id": "030"
+  },
+  "052-099": {
+    "wav": "{data_root}/actor052/099.wav",
+    "length": 4.037375,
+    "spk_id": "052"
+  },
+  "047-030": {
+    "wav": "{data_root}/actor047/030.wav",
+    "length": 4.7035,
+    "spk_id": "047"
+  },
+  "062-100": {
+    "wav": "{data_root}/actor062/100.wav",
+    "length": 6.743666666666667,
+    "spk_id": "062"
+  },
+  "018-007": {
+    "wav": "{data_root}/actor018/007.wav",
+    "length": 6.326416666666667,
+    "spk_id": "018"
+  },
+  "070-095": {
+    "wav": "{data_root}/actor070/095.wav",
+    "length": 4.928083333333333,
+    "spk_id": "070"
+  },
+  "088-051": {
+    "wav": "{data_root}/actor088/051.wav",
+    "length": 3.925,
+    "spk_id": "088"
+  },
+  "087-042": {
+    "wav": "{data_root}/actor087/042.wav",
+    "length": 3.731,
+    "spk_id": "087"
+  },
+  "034-008": {
+    "wav": "{data_root}/actor034/008.wav",
+    "length": 5.620833333333334,
+    "spk_id": "034"
+  },
+  "037-006": {
+    "wav": "{data_root}/actor037/006.wav",
+    "length": 3.104625,
+    "spk_id": "037"
+  },
+  "033-012": {
+    "wav": "{data_root}/actor033/012.wav",
+    "length": 4.141791666666666,
+    "spk_id": "033"
+  },
+  "029-023": {
+    "wav": "{data_root}/actor029/023.wav",
+    "length": 4.754416666666667,
+    "spk_id": "029"
+  },
+  "084-040": {
+    "wav": "{data_root}/actor084/040.wav",
+    "length": 4.999083333333333,
+    "spk_id": "084"
+  },
+  "079-036": {
+    "wav": "{data_root}/actor079/036.wav",
+    "length": 4.954416666666667,
+    "spk_id": "079"
+  },
+  "091-018": {
+    "wav": "{data_root}/actor091/018.wav",
+    "length": 6.272083333333334,
+    "spk_id": "091"
+  },
+  "023-058": {
+    "wav": "{data_root}/actor023/058.wav",
+    "length": 3.988541666666667,
+    "spk_id": "023"
+  },
+  "073-085": {
+    "wav": "{data_root}/actor073/085.wav",
+    "length": 7.3094166666666665,
+    "spk_id": "073"
+  },
+  "096-034": {
+    "wav": "{data_root}/actor096/034.wav",
+    "length": 3.041,
+    "spk_id": "096"
+  },
+  "021-097": {
+    "wav": "{data_root}/actor021/097.wav",
+    "length": 5.9185,
+    "spk_id": "021"
+  },
+  "043-014": {
+    "wav": "{data_root}/actor043/014.wav",
+    "length": 2.1001666666666665,
+    "spk_id": "043"
+  },
+  "075-094": {
+    "wav": "{data_root}/actor075/094.wav",
+    "length": 12.249,
+    "spk_id": "075"
+  },
+  "048-004": {
+    "wav": "{data_root}/actor048/004.wav",
+    "length": 4.028583333333334,
+    "spk_id": "048"
+  },
+  "052-062": {
+    "wav": "{data_root}/actor052/062.wav",
+    "length": 5.790708333333333,
+    "spk_id": "052"
+  },
+  "060-088": {
+    "wav": "{data_root}/actor060/088.wav",
+    "length": 4.882125,
+    "spk_id": "060"
+  },
+  "054-093": {
+    "wav": "{data_root}/actor054/093.wav",
+    "length": 7.330541666666667,
+    "spk_id": "054"
+  },
+  "079-005": {
+    "wav": "{data_root}/actor079/005.wav",
+    "length": 7.681958333333333,
+    "spk_id": "079"
+  },
+  "036-034": {
+    "wav": "{data_root}/actor036/034.wav",
+    "length": 4.224,
+    "spk_id": "036"
+  },
+  "013-005": {
+    "wav": "{data_root}/actor013/005.wav",
+    "length": 9.34,
+    "spk_id": "013"
+  },
+  "005-091": {
+    "wav": "{data_root}/actor005/091.wav",
+    "length": 3.3070833333333334,
+    "spk_id": "005"
+  },
+  "079-087": {
+    "wav": "{data_root}/actor079/087.wav",
+    "length": 6.139583333333333,
+    "spk_id": "079"
+  },
+  "041-053": {
+    "wav": "{data_root}/actor041/053.wav",
+    "length": 4.86175,
+    "spk_id": "041"
+  },
+  "028-062": {
+    "wav": "{data_root}/actor028/062.wav",
+    "length": 5.309041666666666,
+    "spk_id": "028"
+  },
+  "051-076": {
+    "wav": "{data_root}/actor051/076.wav",
+    "length": 7.907708333333333,
+    "spk_id": "051"
+  },
+  "052-012": {
+    "wav": "{data_root}/actor052/012.wav",
+    "length": 4.78225,
+    "spk_id": "052"
+  },
+  "027-008": {
+    "wav": "{data_root}/actor027/008.wav",
+    "length": 5.56325,
+    "spk_id": "027"
+  },
+  "002-069": {
+    "wav": "{data_root}/actor002/069.wav",
+    "length": 6.190833333333333,
+    "spk_id": "002"
+  },
+  "086-064": {
+    "wav": "{data_root}/actor086/064.wav",
+    "length": 3.842791666666667,
+    "spk_id": "086"
+  },
+  "079-041": {
+    "wav": "{data_root}/actor079/041.wav",
+    "length": 4.187291666666667,
+    "spk_id": "079"
+  },
+  "044-061": {
+    "wav": "{data_root}/actor044/061.wav",
+    "length": 4.66175,
+    "spk_id": "044"
+  },
+  "098-081": {
+    "wav": "{data_root}/actor098/081.wav",
+    "length": 6.035,
+    "spk_id": "098"
+  },
+  "044-051": {
+    "wav": "{data_root}/actor044/051.wav",
+    "length": 3.79525,
+    "spk_id": "044"
+  },
+  "068-095": {
+    "wav": "{data_root}/actor068/095.wav",
+    "length": 5.25625,
+    "spk_id": "068"
+  },
+  "089-077": {
+    "wav": "{data_root}/actor089/077.wav",
+    "length": 6.452083333333333,
+    "spk_id": "089"
+  },
+  "058-015": {
+    "wav": "{data_root}/actor058/015.wav",
+    "length": 4.6625,
+    "spk_id": "058"
+  },
+  "095-083": {
+    "wav": "{data_root}/actor095/083.wav",
+    "length": 4.821083333333333,
+    "spk_id": "095"
+  },
+  "013-018": {
+    "wav": "{data_root}/actor013/018.wav",
+    "length": 5.172791666666667,
+    "spk_id": "013"
+  },
+  "096-078": {
+    "wav": "{data_root}/actor096/078.wav",
+    "length": 7.030666666666667,
+    "spk_id": "096"
+  },
+  "058-043": {
+    "wav": "{data_root}/actor058/043.wav",
+    "length": 5.308083333333333,
+    "spk_id": "058"
+  },
+  "052-090": {
+    "wav": "{data_root}/actor052/090.wav",
+    "length": 4.993625,
+    "spk_id": "052"
+  },
+  "072-003": {
+    "wav": "{data_root}/actor072/003.wav",
+    "length": 4.951,
+    "spk_id": "072"
+  },
+  "026-014": {
+    "wav": "{data_root}/actor026/014.wav",
+    "length": 2.10275,
+    "spk_id": "026"
+  },
+  "029-021": {
+    "wav": "{data_root}/actor029/021.wav",
+    "length": 4.648583333333334,
+    "spk_id": "029"
+  },
+  "095-038": {
+    "wav": "{data_root}/actor095/038.wav",
+    "length": 5.082916666666667,
+    "spk_id": "095"
+  },
+  "080-060": {
+    "wav": "{data_root}/actor080/060.wav",
+    "length": 4.495,
+    "spk_id": "080"
+  },
+  "035-010": {
+    "wav": "{data_root}/actor035/010.wav",
+    "length": 4.608,
+    "spk_id": "035"
+  },
+  "093-086": {
+    "wav": "{data_root}/actor093/086.wav",
+    "length": 5.199583333333333,
+    "spk_id": "093"
+  },
+  "057-062": {
+    "wav": "{data_root}/actor057/062.wav",
+    "length": 4.932625,
+    "spk_id": "057"
+  },
+  "064-091": {
+    "wav": "{data_root}/actor064/091.wav",
+    "length": 3.8808333333333334,
+    "spk_id": "064"
+  },
+  "008-056": {
+    "wav": "{data_root}/actor008/056.wav",
+    "length": 5.682333333333333,
+    "spk_id": "008"
+  },
+  "034-039": {
+    "wav": "{data_root}/actor034/039.wav",
+    "length": 4.777916666666667,
+    "spk_id": "034"
+  },
+  "034-045": {
+    "wav": "{data_root}/actor034/045.wav",
+    "length": 6.357916666666667,
+    "spk_id": "034"
+  },
+  "082-037": {
+    "wav": "{data_root}/actor082/037.wav",
+    "length": 4.492666666666667,
+    "spk_id": "082"
+  },
+  "046-007": {
+    "wav": "{data_root}/actor046/007.wav",
+    "length": 6.004083333333333,
+    "spk_id": "046"
+  },
+  "045-075": {
+    "wav": "{data_root}/actor045/075.wav",
+    "length": 4.152833333333334,
+    "spk_id": "045"
+  },
+  "055-043": {
+    "wav": "{data_root}/actor055/043.wav",
+    "length": 5.2039583333333335,
+    "spk_id": "055"
+  },
+  "081-071": {
+    "wav": "{data_root}/actor081/071.wav",
+    "length": 4.484083333333333,
+    "spk_id": "081"
+  },
+  "067-082": {
+    "wav": "{data_root}/actor067/082.wav",
+    "length": 4.5575,
+    "spk_id": "067"
+  },
+  "006-028": {
+    "wav": "{data_root}/actor006/028.wav",
+    "length": 7.886833333333334,
+    "spk_id": "006"
+  },
+  "060-094": {
+    "wav": "{data_root}/actor060/094.wav",
+    "length": 10.677041666666666,
+    "spk_id": "060"
+  },
+  "046-074": {
+    "wav": "{data_root}/actor046/074.wav",
+    "length": 3.8581666666666665,
+    "spk_id": "046"
+  },
+  "007-062": {
+    "wav": "{data_root}/actor007/062.wav",
+    "length": 4.8966666666666665,
+    "spk_id": "007"
+  },
+  "017-035": {
+    "wav": "{data_root}/actor017/035.wav",
+    "length": 5.5785,
+    "spk_id": "017"
+  },
+  "016-048": {
+    "wav": "{data_root}/actor016/048.wav",
+    "length": 6.20775,
+    "spk_id": "016"
+  },
+  "092-051": {
+    "wav": "{data_root}/actor092/051.wav",
+    "length": 4.173416666666666,
+    "spk_id": "092"
+  },
+  "072-047": {
+    "wav": "{data_root}/actor072/047.wav",
+    "length": 7.242083333333333,
+    "spk_id": "072"
+  },
+  "003-017": {
+    "wav": "{data_root}/actor003/017.wav",
+    "length": 4.734333333333334,
+    "spk_id": "003"
+  },
+  "047-056": {
+    "wav": "{data_root}/actor047/056.wav",
+    "length": 6.048375,
+    "spk_id": "047"
+  },
+  "012-001": {
+    "wav": "{data_root}/actor012/001.wav",
+    "length": 5.555583333333334,
+    "spk_id": "012"
+  },
+  "093-091": {
+    "wav": "{data_root}/actor093/091.wav",
+    "length": 3.14575,
+    "spk_id": "093"
+  },
+  "053-002": {
+    "wav": "{data_root}/actor053/002.wav",
+    "length": 5.752416666666667,
+    "spk_id": "053"
+  },
+  "039-058": {
+    "wav": "{data_root}/actor039/058.wav",
+    "length": 4.4525,
+    "spk_id": "039"
+  },
+  "070-098": {
+    "wav": "{data_root}/actor070/098.wav",
+    "length": 3.96475,
+    "spk_id": "070"
+  },
+  "088-005": {
+    "wav": "{data_root}/actor088/005.wav",
+    "length": 7.714916666666666,
+    "spk_id": "088"
+  },
+  "004-071": {
+    "wav": "{data_root}/actor004/071.wav",
+    "length": 4.886583333333333,
+    "spk_id": "004"
+  },
+  "084-030": {
+    "wav": "{data_root}/actor084/030.wav",
+    "length": 6.4,
+    "spk_id": "084"
+  },
+  "009-026": {
+    "wav": "{data_root}/actor009/026.wav",
+    "length": 3.207375,
+    "spk_id": "009"
+  },
+  "039-018": {
+    "wav": "{data_root}/actor039/018.wav",
+    "length": 4.960083333333333,
+    "spk_id": "039"
+  },
+  "001-068": {
+    "wav": "{data_root}/actor001/068.wav",
+    "length": 4.590958333333333,
+    "spk_id": "001"
+  },
+  "047-099": {
+    "wav": "{data_root}/actor047/099.wav",
+    "length": 4.36325,
+    "spk_id": "047"
+  },
+  "064-071": {
+    "wav": "{data_root}/actor064/071.wav",
+    "length": 5.012791666666667,
+    "spk_id": "064"
+  },
+  "069-078": {
+    "wav": "{data_root}/actor069/078.wav",
+    "length": 6.8975,
+    "spk_id": "069"
+  },
+  "072-063": {
+    "wav": "{data_root}/actor072/063.wav",
+    "length": 3.8156666666666665,
+    "spk_id": "072"
+  },
+  "001-099": {
+    "wav": "{data_root}/actor001/099.wav",
+    "length": 3.6690833333333335,
+    "spk_id": "001"
+  },
+  "012-089": {
+    "wav": "{data_root}/actor012/089.wav",
+    "length": 5.324958333333333,
+    "spk_id": "012"
+  },
+  "020-079": {
+    "wav": "{data_root}/actor020/079.wav",
+    "length": 4.7530833333333335,
+    "spk_id": "020"
+  },
+  "052-093": {
+    "wav": "{data_root}/actor052/093.wav",
+    "length": 7.61475,
+    "spk_id": "052"
+  },
+  "022-048": {
+    "wav": "{data_root}/actor022/048.wav",
+    "length": 5.575875,
+    "spk_id": "022"
+  },
+  "072-095": {
+    "wav": "{data_root}/actor072/095.wav",
+    "length": 6.7789166666666665,
+    "spk_id": "072"
+  },
+  "003-091": {
+    "wav": "{data_root}/actor003/091.wav",
+    "length": 3.73225,
+    "spk_id": "003"
+  },
+  "090-076": {
+    "wav": "{data_root}/actor090/076.wav",
+    "length": 9.497125,
+    "spk_id": "090"
+  },
+  "038-002": {
+    "wav": "{data_root}/actor038/002.wav",
+    "length": 5.751,
+    "spk_id": "038"
+  },
+  "032-002": {
+    "wav": "{data_root}/actor032/002.wav",
+    "length": 5.4285,
+    "spk_id": "032"
+  },
+  "082-040": {
+    "wav": "{data_root}/actor082/040.wav",
+    "length": 3.556375,
+    "spk_id": "082"
+  },
+  "096-092": {
+    "wav": "{data_root}/actor096/092.wav",
+    "length": 5.554125,
+    "spk_id": "096"
+  },
+  "010-021": {
+    "wav": "{data_root}/actor010/021.wav",
+    "length": 4.923875,
+    "spk_id": "010"
+  },
+  "085-048": {
+    "wav": "{data_root}/actor085/048.wav",
+    "length": 5.754541666666666,
+    "spk_id": "085"
+  },
+  "090-002": {
+    "wav": "{data_root}/actor090/002.wav",
+    "length": 7.06025,
+    "spk_id": "090"
+  },
+  "058-026": {
+    "wav": "{data_root}/actor058/026.wav",
+    "length": 3.310125,
+    "spk_id": "058"
+  },
+  "017-050": {
+    "wav": "{data_root}/actor017/050.wav",
+    "length": 6.032875,
+    "spk_id": "017"
+  },
+  "088-028": {
+    "wav": "{data_root}/actor088/028.wav",
+    "length": 6.534916666666667,
+    "spk_id": "088"
+  },
+  "040-040": {
+    "wav": "{data_root}/actor040/040.wav",
+    "length": 4.004125,
+    "spk_id": "040"
+  },
+  "067-054": {
+    "wav": "{data_root}/actor067/054.wav",
+    "length": 7.426333333333333,
+    "spk_id": "067"
+  },
+  "010-033": {
+    "wav": "{data_root}/actor010/033.wav",
+    "length": 2.742583333333333,
+    "spk_id": "010"
+  },
+  "014-095": {
+    "wav": "{data_root}/actor014/095.wav",
+    "length": 5.510875,
+    "spk_id": "014"
+  },
+  "033-058": {
+    "wav": "{data_root}/actor033/058.wav",
+    "length": 3.9991666666666665,
+    "spk_id": "033"
+  },
+  "032-005": {
+    "wav": "{data_root}/actor032/005.wav",
+    "length": 7.07025,
+    "spk_id": "032"
+  },
+  "093-005": {
+    "wav": "{data_root}/actor093/005.wav",
+    "length": 8.694958333333334,
+    "spk_id": "093"
+  },
+  "068-039": {
+    "wav": "{data_root}/actor068/039.wav",
+    "length": 4.683833333333333,
+    "spk_id": "068"
+  },
+  "016-046": {
+    "wav": "{data_root}/actor016/046.wav",
+    "length": 4.970125,
+    "spk_id": "016"
+  },
+  "061-049": {
+    "wav": "{data_root}/actor061/049.wav",
+    "length": 4.06025,
+    "spk_id": "061"
+  },
+  "027-040": {
+    "wav": "{data_root}/actor027/040.wav",
+    "length": 3.439,
+    "spk_id": "027"
+  },
+  "081-027": {
+    "wav": "{data_root}/actor081/027.wav",
+    "length": 4.392375,
+    "spk_id": "081"
+  },
+  "047-098": {
+    "wav": "{data_root}/actor047/098.wav",
+    "length": 5.039083333333333,
+    "spk_id": "047"
+  },
+  "098-100": {
+    "wav": "{data_root}/actor098/100.wav",
+    "length": 7.275458333333333,
+    "spk_id": "098"
+  },
+  "090-083": {
+    "wav": "{data_root}/actor090/083.wav",
+    "length": 5.671083333333334,
+    "spk_id": "090"
+  },
+  "030-029": {
+    "wav": "{data_root}/actor030/029.wav",
+    "length": 5.540416666666666,
+    "spk_id": "030"
+  },
+  "048-042": {
+    "wav": "{data_root}/actor048/042.wav",
+    "length": 3.650333333333333,
+    "spk_id": "048"
+  },
+  "040-036": {
+    "wav": "{data_root}/actor040/036.wav",
+    "length": 6.073583333333334,
+    "spk_id": "040"
+  },
+  "087-020": {
+    "wav": "{data_root}/actor087/020.wav",
+    "length": 5.2199583333333335,
+    "spk_id": "087"
+  },
+  "022-041": {
+    "wav": "{data_root}/actor022/041.wav",
+    "length": 4.431791666666666,
+    "spk_id": "022"
+  },
+  "024-080": {
+    "wav": "{data_root}/actor024/080.wav",
+    "length": 5.051958333333333,
+    "spk_id": "024"
+  },
+  "020-043": {
+    "wav": "{data_root}/actor020/043.wav",
+    "length": 4.042125,
+    "spk_id": "020"
+  },
+  "059-038": {
+    "wav": "{data_root}/actor059/038.wav",
+    "length": 4.798208333333333,
+    "spk_id": "059"
+  },
+  "086-002": {
+    "wav": "{data_root}/actor086/002.wav",
+    "length": 6.572333333333333,
+    "spk_id": "086"
+  },
+  "098-055": {
+    "wav": "{data_root}/actor098/055.wav",
+    "length": 2.622625,
+    "spk_id": "098"
+  },
+  "014-046": {
+    "wav": "{data_root}/actor014/046.wav",
+    "length": 4.319041666666666,
+    "spk_id": "014"
+  },
+  "056-008": {
+    "wav": "{data_root}/actor056/008.wav",
+    "length": 5.063541666666667,
+    "spk_id": "056"
+  },
+  "084-025": {
+    "wav": "{data_root}/actor084/025.wav",
+    "length": 5.056,
+    "spk_id": "084"
+  },
+  "010-047": {
+    "wav": "{data_root}/actor010/047.wav",
+    "length": 5.916,
+    "spk_id": "010"
+  },
+  "018-009": {
+    "wav": "{data_root}/actor018/009.wav",
+    "length": 5.1305,
+    "spk_id": "018"
+  },
+  "067-068": {
+    "wav": "{data_root}/actor067/068.wav",
+    "length": 4.067583333333333,
+    "spk_id": "067"
+  },
+  "010-071": {
+    "wav": "{data_root}/actor010/071.wav",
+    "length": 4.712541666666667,
+    "spk_id": "010"
+  },
+  "006-072": {
+    "wav": "{data_root}/actor006/072.wav",
+    "length": 5.418875,
+    "spk_id": "006"
+  },
+  "011-086": {
+    "wav": "{data_root}/actor011/086.wav",
+    "length": 6.136416666666666,
+    "spk_id": "011"
+  },
+  "089-013": {
+    "wav": "{data_root}/actor089/013.wav",
+    "length": 3.7175,
+    "spk_id": "089"
+  },
+  "053-047": {
+    "wav": "{data_root}/actor053/047.wav",
+    "length": 5.8189166666666665,
+    "spk_id": "053"
+  },
+  "010-045": {
+    "wav": "{data_root}/actor010/045.wav",
+    "length": 6.32925,
+    "spk_id": "010"
+  },
+  "015-023": {
+    "wav": "{data_root}/actor015/023.wav",
+    "length": 3.987,
+    "spk_id": "015"
+  },
+  "072-092": {
+    "wav": "{data_root}/actor072/092.wav",
+    "length": 6.601458333333333,
+    "spk_id": "072"
+  },
+  "082-083": {
+    "wav": "{data_root}/actor082/083.wav",
+    "length": 4.760375,
+    "spk_id": "082"
+  },
+  "098-010": {
+    "wav": "{data_root}/actor098/010.wav",
+    "length": 3.6305833333333335,
+    "spk_id": "098"
+  },
+  "035-040": {
+    "wav": "{data_root}/actor035/040.wav",
+    "length": 4.224,
+    "spk_id": "035"
+  },
+  "089-067": {
+    "wav": "{data_root}/actor089/067.wav",
+    "length": 5.149875,
+    "spk_id": "089"
+  },
+  "100-069": {
+    "wav": "{data_root}/actor100/069.wav",
+    "length": 6.649208333333333,
+    "spk_id": "100"
+  },
+  "047-034": {
+    "wav": "{data_root}/actor047/034.wav",
+    "length": 3.3022916666666666,
+    "spk_id": "047"
+  },
+  "036-013": {
+    "wav": "{data_root}/actor036/013.wav",
+    "length": 5.319083333333333,
+    "spk_id": "036"
+  },
+  "010-006": {
+    "wav": "{data_root}/actor010/006.wav",
+    "length": 3.2544166666666667,
+    "spk_id": "010"
+  },
+  "066-016": {
+    "wav": "{data_root}/actor066/016.wav",
+    "length": 4.1365,
+    "spk_id": "066"
+  },
+  "050-084": {
+    "wav": "{data_root}/actor050/084.wav",
+    "length": 5.84775,
+    "spk_id": "050"
+  },
+  "040-027": {
+    "wav": "{data_root}/actor040/027.wav",
+    "length": 5.702166666666667,
+    "spk_id": "040"
+  },
+  "079-017": {
+    "wav": "{data_root}/actor079/017.wav",
+    "length": 3.8394166666666667,
+    "spk_id": "079"
+  },
+  "034-089": {
+    "wav": "{data_root}/actor034/089.wav",
+    "length": 4.580291666666667,
+    "spk_id": "034"
+  },
+  "065-061": {
+    "wav": "{data_root}/actor065/061.wav",
+    "length": 5.393416666666667,
+    "spk_id": "065"
+  },
+  "016-038": {
+    "wav": "{data_root}/actor016/038.wav",
+    "length": 5.616958333333334,
+    "spk_id": "016"
+  },
+  "023-026": {
+    "wav": "{data_root}/actor023/026.wav",
+    "length": 2.9869166666666667,
+    "spk_id": "023"
+  },
+  "099-071": {
+    "wav": "{data_root}/actor099/071.wav",
+    "length": 3.491375,
+    "spk_id": "099"
+  },
+  "061-026": {
+    "wav": "{data_root}/actor061/026.wav",
+    "length": 3.26725,
+    "spk_id": "061"
+  },
+  "045-086": {
+    "wav": "{data_root}/actor045/086.wav",
+    "length": 4.701583333333334,
+    "spk_id": "045"
+  },
+  "073-065": {
+    "wav": "{data_root}/actor073/065.wav",
+    "length": 5.873666666666667,
+    "spk_id": "073"
+  },
+  "025-040": {
+    "wav": "{data_root}/actor025/040.wav",
+    "length": 3.877625,
+    "spk_id": "025"
+  },
+  "086-075": {
+    "wav": "{data_root}/actor086/075.wav",
+    "length": 4.690291666666667,
+    "spk_id": "086"
+  },
+  "030-022": {
+    "wav": "{data_root}/actor030/022.wav",
+    "length": 9.642666666666667,
+    "spk_id": "030"
+  },
+  "035-088": {
+    "wav": "{data_root}/actor035/088.wav",
+    "length": 5.749333333333333,
+    "spk_id": "035"
+  },
+  "090-023": {
+    "wav": "{data_root}/actor090/023.wav",
+    "length": 5.460041666666666,
+    "spk_id": "090"
+  },
+  "018-006": {
+    "wav": "{data_root}/actor018/006.wav",
+    "length": 3.5535833333333335,
+    "spk_id": "018"
+  },
+  "069-081": {
+    "wav": "{data_root}/actor069/081.wav",
+    "length": 6.1985,
+    "spk_id": "069"
+  },
+  "066-046": {
+    "wav": "{data_root}/actor066/046.wav",
+    "length": 4.239208333333333,
+    "spk_id": "066"
+  },
+  "004-081": {
+    "wav": "{data_root}/actor004/081.wav",
+    "length": 5.830208333333333,
+    "spk_id": "004"
+  },
+  "028-045": {
+    "wav": "{data_root}/actor028/045.wav",
+    "length": 6.6081666666666665,
+    "spk_id": "028"
+  },
+  "032-037": {
+    "wav": "{data_root}/actor032/037.wav",
+    "length": 3.8804583333333333,
+    "spk_id": "032"
+  },
+  "057-053": {
+    "wav": "{data_root}/actor057/053.wav",
+    "length": 4.42875,
+    "spk_id": "057"
+  },
+  "057-069": {
+    "wav": "{data_root}/actor057/069.wav",
+    "length": 7.071583333333334,
+    "spk_id": "057"
+  },
+  "097-056": {
+    "wav": "{data_root}/actor097/056.wav",
+    "length": 5.767166666666666,
+    "spk_id": "097"
+  },
+  "097-089": {
+    "wav": "{data_root}/actor097/089.wav",
+    "length": 5.388916666666667,
+    "spk_id": "097"
+  },
+  "100-086": {
+    "wav": "{data_root}/actor100/086.wav",
+    "length": 5.971416666666666,
+    "spk_id": "100"
+  },
+  "081-068": {
+    "wav": "{data_root}/actor081/068.wav",
+    "length": 4.0315,
+    "spk_id": "081"
+  },
+  "092-015": {
+    "wav": "{data_root}/actor092/015.wav",
+    "length": 3.8310416666666667,
+    "spk_id": "092"
+  },
+  "007-048": {
+    "wav": "{data_root}/actor007/048.wav",
+    "length": 6.246291666666667,
+    "spk_id": "007"
+  },
+  "045-044": {
+    "wav": "{data_root}/actor045/044.wav",
+    "length": 6.280833333333334,
+    "spk_id": "045"
+  },
+  "004-080": {
+    "wav": "{data_root}/actor004/080.wav",
+    "length": 4.818083333333333,
+    "spk_id": "004"
+  },
+  "040-002": {
+    "wav": "{data_root}/actor040/002.wav",
+    "length": 5.969333333333333,
+    "spk_id": "040"
+  },
+  "075-005": {
+    "wav": "{data_root}/actor075/005.wav",
+    "length": 8.374791666666667,
+    "spk_id": "075"
+  },
+  "046-023": {
+    "wav": "{data_root}/actor046/023.wav",
+    "length": 5.0435,
+    "spk_id": "046"
+  },
+  "076-064": {
+    "wav": "{data_root}/actor076/064.wav",
+    "length": 3.388333333333333,
+    "spk_id": "076"
+  },
+  "077-066": {
+    "wav": "{data_root}/actor077/066.wav",
+    "length": 5.009291666666667,
+    "spk_id": "077"
+  },
+  "048-036": {
+    "wav": "{data_root}/actor048/036.wav",
+    "length": 5.0535,
+    "spk_id": "048"
+  },
+  "083-059": {
+    "wav": "{data_root}/actor083/059.wav",
+    "length": 5.386666666666667,
+    "spk_id": "083"
+  },
+  "094-099": {
+    "wav": "{data_root}/actor094/099.wav",
+    "length": 4.403666666666667,
+    "spk_id": "094"
+  },
+  "009-047": {
+    "wav": "{data_root}/actor009/047.wav",
+    "length": 5.6755,
+    "spk_id": "009"
+  },
+  "001-014": {
+    "wav": "{data_root}/actor001/014.wav",
+    "length": 2.2655833333333333,
+    "spk_id": "001"
+  },
+  "039-068": {
+    "wav": "{data_root}/actor039/068.wav",
+    "length": 4.715333333333334,
+    "spk_id": "039"
+  },
+  "095-070": {
+    "wav": "{data_root}/actor095/070.wav",
+    "length": 5.546833333333334,
+    "spk_id": "095"
+  },
+  "078-027": {
+    "wav": "{data_root}/actor078/027.wav",
+    "length": 5.180291666666666,
+    "spk_id": "078"
+  },
+  "094-037": {
+    "wav": "{data_root}/actor094/037.wav",
+    "length": 5.507958333333334,
+    "spk_id": "094"
+  },
+  "005-077": {
+    "wav": "{data_root}/actor005/077.wav",
+    "length": 7.231375,
+    "spk_id": "005"
+  },
+  "016-043": {
+    "wav": "{data_root}/actor016/043.wav",
+    "length": 5.64225,
+    "spk_id": "016"
+  },
+  "092-091": {
+    "wav": "{data_root}/actor092/091.wav",
+    "length": 3.1054166666666667,
+    "spk_id": "092"
+  },
+  "099-043": {
+    "wav": "{data_root}/actor099/043.wav",
+    "length": 3.881,
+    "spk_id": "099"
+  },
+  "004-055": {
+    "wav": "{data_root}/actor004/055.wav",
+    "length": 2.8069166666666665,
+    "spk_id": "004"
+  },
+  "086-071": {
+    "wav": "{data_root}/actor086/071.wav",
+    "length": 4.875416666666666,
+    "spk_id": "086"
+  },
+  "087-077": {
+    "wav": "{data_root}/actor087/077.wav",
+    "length": 7.0495,
+    "spk_id": "087"
+  },
+  "063-026": {
+    "wav": "{data_root}/actor063/026.wav",
+    "length": 3.4212083333333334,
+    "spk_id": "063"
+  },
+  "074-078": {
+    "wav": "{data_root}/actor074/078.wav",
+    "length": 6.14075,
+    "spk_id": "074"
+  },
+  "096-004": {
+    "wav": "{data_root}/actor096/004.wav",
+    "length": 4.431333333333333,
+    "spk_id": "096"
+  },
+  "043-048": {
+    "wav": "{data_root}/actor043/048.wav",
+    "length": 5.773833333333333,
+    "spk_id": "043"
+  }
+}
